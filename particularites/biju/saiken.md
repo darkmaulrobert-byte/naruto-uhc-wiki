@@ -31,3 +31,5 @@ icon: droplet
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/saiken.gif" alt="Saiken" width="480"><figcaption><p>Illustration de Saiken.</p></figcaption></figure></div>

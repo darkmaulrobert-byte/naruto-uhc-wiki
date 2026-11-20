@@ -27,3 +27,7 @@ Chaque allié ajouté **apprend les pseudos** de toute la liste, et toute la lis
 <p align="center"><mark style="color:blue;"><strong>»</strong></mark><strong> Manipulation des Âmes </strong><mark style="color:blue;"><strong>«</strong></mark></p>
 
 > Un joueur réanimé par [<mark style="color:blue;">**Kabuto**</mark>](../roles/reincarnes/kabuto.md) rejoint le camp des <mark style="color:blue;">**Réincarnés**</mark> et garde les pouvoirs de son rôle.
+
+***
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/page-reincarnes.gif" alt="" width="480"><figcaption><p>Edo Tensei.</p></figcaption></figure></div>

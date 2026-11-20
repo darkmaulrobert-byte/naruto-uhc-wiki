@@ -71,7 +71,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 >
 > Retour : au même endroit ou aléatoire, réglable avec `/ns dimension`.
 >
-> ⚠ Dans les dimensions, personne ne monte à plus de **5 blocs** au-dessus du sol.
+> <mark style="color:red;">⚠ Dans les dimensions, personne ne monte à plus de </mark><mark style="color:red;">**5 blocs**</mark><mark style="color:red;"> au-dessus du sol.</mark>
 
 ➜ <mark style="color:$success;">**Retour de la Déesse — Jûbi**</mark> • `/ns jubi`
 
@@ -81,7 +81,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 >
 > Si elle le tue elle-même, elle fait `Clic-Droit` **10 secondes** sur son cadavre, sans être touchée, pour absorber Jûbi. Elle garde alors tous ses pouvoirs.
 >
-> ⚠ Les effets identiques ne se cumulent pas.
+> <mark style="color:red;">⚠ Les effets identiques ne se cumulent pas.</mark>
 >
 > Voir [Jinchûriki des Six Chemins](../../particularites/jubi/jinchuriki-des-six-chemins.md).
 

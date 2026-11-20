@@ -35,7 +35,7 @@ description: "Camp : Réincarnés • Doton et Fûton"
 >
 > Invisible, son armure est retirée et rangée (elle revient quand il redevient visible), et les autres ne voient pas l'objet qu'il tient.
 >
-> ⚠ Pendant le camouflage, <mark style="color:blue;">**Mû**</mark> n'a aucune protection d'armure.
+> <mark style="color:red;">⚠ Pendant le camouflage, </mark><mark style="color:red;">**Mû**</mark><mark style="color:red;"> n'a aucune protection d'armure.</mark>
 
 ➜ <mark style="color:$success;">**Doton — Maîtrise du Poids**</mark> • `Particularités`
 
@@ -61,7 +61,7 @@ description: "Camp : Réincarnés • Doton et Fûton"
 
 > Une fois par partie, un coup mortel scinde <mark style="color:blue;">**Mû**</mark> en deux : un clone à son skin reste à l'endroit de sa mort et marche tout droit sur **20 blocs** avant de disparaître, pendant que le vrai <mark style="color:blue;">**Mû**</mark> réapparaît avec **3**<mark style="color:red;">**❤**</mark> à un endroit au hasard de la carte.
 >
-> ⚠ Le cooldown du Jinton passe ensuite à **16 minutes** jusqu'à la fin de la partie.
+> <mark style="color:red;">⚠ Le cooldown du Jinton passe ensuite à </mark><mark style="color:red;">**16 minutes**</mark><mark style="color:red;"> jusqu'à la fin de la partie.</mark>
 
 {% endhint %}
 

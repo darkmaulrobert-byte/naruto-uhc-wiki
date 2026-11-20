@@ -62,7 +62,7 @@ description: "Camp : Réincarnés • Doton et Suiton"
 >
 > Il revient avec une armure en fer **Protection II**, une épée en diamant **Tranchant II** et **3 pommes d'or**, sans son ancien inventaire.
 >
-> ⚠ Utilisable **une seule fois par partie**.
+> <mark style="color:red;">⚠ Utilisable </mark><mark style="color:red;">**une seule fois par partie**</mark><mark style="color:red;">.</mark>
 
 ➜ <mark style="color:$success;">**Serpent**</mark> • `Clic-Droit` • ⌚ : 15 minutes
 

@@ -71,3 +71,7 @@ icon: trophy
 * **4 pommes d'or**.
 
 {% endhint %}
+
+***
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/page-chunin.gif" alt="" width="480"><figcaption><p>Examen Chûnin.</p></figcaption></figure></div>

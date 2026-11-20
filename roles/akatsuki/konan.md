@@ -55,7 +55,7 @@ description: "Camp : Akatsuki • Fûton"
 >
 > Pendant **30 secondes**, des papiers explosifs tombent au fond et infligent **1**<mark style="color:red;">**❤**</mark> aux joueurs touchés.
 >
-> ⚠ Bouger pendant la canalisation annule le pouvoir. Ce pouvoir est utilisable **une seule fois par partie**.
+> <mark style="color:red;">⚠ Bouger pendant la canalisation annule le pouvoir. Ce pouvoir est utilisable </mark><mark style="color:red;">**une seule fois par partie**</mark><mark style="color:red;">.</mark>
 
 ➜ <mark style="color:$success;">**Immobilisation**</mark> • `Clic-Droit` • ⌚ : 8 minutes
 

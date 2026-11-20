@@ -39,13 +39,13 @@ description: "Camp : Akatsuki • Doton au départ ; autres natures liées aux c
 >
 > Il attaque le dernier joueur frappé. Un masque rangé récupère tous ses cœurs.
 >
-> ⚠ **Deux masques** au plus peuvent être sortis en même temps ; chacun a sa propre recharge. Pour le ranger, <mark style="color:red;">**Kakuzu**</mark> doit passer **10 secondes** sans frapper ni être frappé.
+> <mark style="color:red;">⚠ </mark><mark style="color:red;">**Deux masques**</mark><mark style="color:red;"> au plus peuvent être sortis en même temps ; chacun a sa propre recharge. Pour le ranger, </mark><mark style="color:red;">**Kakuzu**</mark><mark style="color:red;"> doit passer </mark><mark style="color:red;">**10 secondes**</mark><mark style="color:red;"> sans frapper ni être frappé.</mark>
 
 ➜ <mark style="color:$success;">**Destruction des cœurs**</mark> • `Particularités`
 
 > Chaque masque possède **20**<mark style="color:red;">**❤**</mark> et n'a pas d'armure.
 >
-> ⚠ Un masque détruit perd son cœur : <mark style="color:red;">**Kakuzu**</mark> doit tuer un autre joueur pour en récupérer un.
+> <mark style="color:red;">⚠ Un masque détruit perd son cœur : </mark><mark style="color:red;">**Kakuzu**</mark><mark style="color:red;"> doit tuer un autre joueur pour en récupérer un.</mark>
 
 ➜ <mark style="color:$success;">**Derniers Fils**</mark> • `Passif`
 

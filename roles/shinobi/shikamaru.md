@@ -37,7 +37,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 > L'ombre de <mark style="color:green;">**Shikamaru**</mark> glisse au sol jusqu'à **15 blocs**. Le premier joueur touché copie ses déplacements pendant **4 secondes**. Réutiliser le pouvoir le libère.
 >
-> ⚠ Les deux joueurs ne peuvent pas se frapper. Le lien se brise après **3 coups d'épée** reçus par le joueur lié.
+> <mark style="color:red;">⚠ Les deux joueurs ne peuvent pas se frapper. Le lien se brise après </mark><mark style="color:red;">**3 coups d'épée**</mark><mark style="color:red;"> reçus par le joueur lié.</mark>
 
 ➜ <mark style="color:$success;">**Kage Nui — Entrelacement des Ombres**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
@@ -51,13 +51,13 @@ description: "Camp : Shinobi • une nature aléatoire"
 >
 > Quand un joueur passe à moins de **2 blocs**, il explose : **1,5**<mark style="color:red;">**❤**</mark> dans un rayon de **3 blocs**, et un recul de **5 blocs**.
 >
-> ⚠ **2 pièges** au maximum. Les adversaires peuvent les casser à coups d'épée, et les joueurs colorés en vert avec `/ns color` ne les déclenchent pas.
+> <mark style="color:red;">⚠ </mark><mark style="color:red;">**2 pièges**</mark><mark style="color:red;"> au maximum. Les adversaires peuvent les casser à coups d'épée, et les joueurs colorés en vert avec </mark>`/ns color`<mark style="color:red;"> ne les déclenchent pas.</mark>
 
 ➜ <mark style="color:$success;">**Cercle des Ombres**</mark> • `/ns color` • ⌚ : 10 minutes
 
 > <mark style="color:green;">**Shikamaru**</mark> crée un cercle de **8 blocs** : tous les joueurs à l'intérieur sont figés pendant **10 secondes**, lui compris.
 >
-> ⚠ Les joueurs colorés en vert avec `/ns color` ne sont pas touchés.
+> <mark style="color:red;">⚠ Les joueurs colorés en vert avec </mark>`/ns color`<mark style="color:red;"> ne sont pas touchés.</mark>
 
 {% endhint %}
 

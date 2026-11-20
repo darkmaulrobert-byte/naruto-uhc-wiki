@@ -39,7 +39,7 @@ description: "Camp : Réincarnés • Suiton"
 >
 > L'aiguille lancée tombe au sol, ou aux pieds du joueur touché : <mark style="color:blue;">**Haku**</mark> la récupère en passant dessus. Sinon, elle revient seule au bout de **30 secondes**.
 >
-> ⚠ Un lancer toutes les **10 secondes** au plus.
+> <mark style="color:red;">⚠ Un lancer toutes les </mark><mark style="color:red;">**10 secondes**</mark><mark style="color:red;"> au plus.</mark>
 
 {% endhint %}
 

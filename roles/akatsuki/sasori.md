@@ -46,13 +46,13 @@ description: "Camp : Akatsuki • Doton"
 
 > `Clic-Droit` sur le cadavre d'un joueur qu'il a tué : <mark style="color:red;">**Sasori**</mark> en fait une marionnette de **5**<mark style="color:red;">**❤**</mark>, qui attaque le dernier joueur qu'il a frappé.
 >
-> ⚠ <mark style="color:red;">**Sasori**</mark> peut avoir **2** marionnettes de joueurs au maximum.
+> <mark style="color:red;">⚠ </mark><mark style="color:red;">**Sasori**</mark><mark style="color:red;"> peut avoir </mark><mark style="color:red;">**2**</mark><mark style="color:red;"> marionnettes de joueurs au maximum.</mark>
 
 ➜ <mark style="color:$success;">**Hiruko**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
 > <mark style="color:red;">**Sasori**</mark> invoque une marionnette de **8**<mark style="color:red;">**❤**</mark>, qui tire des flèches de <mark style="color:green;">**Poison I**</mark> tout autour d'elle.
 >
-> ⚠ Hiruko coûte **1**<mark style="color:red;">**❤**</mark> maximum à <mark style="color:red;">**Sasori**</mark>, rendu **1 minute** après sa mort. Une seule Hiruko à la fois.
+> <mark style="color:red;">⚠ Hiruko coûte </mark><mark style="color:red;">**1**</mark><mark style="color:red;">**❤**</mark><mark style="color:red;"> maximum à </mark><mark style="color:red;">**Sasori**</mark><mark style="color:red;">, rendu </mark><mark style="color:red;">**1 minute**</mark><mark style="color:red;"> après sa mort. Une seule Hiruko à la fois.</mark>
 
 ➜ <mark style="color:$success;">**Satetsu**</mark> • `Clic-Droit` • ⏳ : 1 minute • ⌚ : 8 minutes
 
@@ -64,7 +64,7 @@ description: "Camp : Akatsuki • Doton"
 >
 > En rejoignant la marionnette, il prend sa place et revient en jeu.
 >
-> ⚠ S'il est tué en bébé zombie, sa mort est définitive. Utilisable **une seule fois par partie**.
+> <mark style="color:red;">⚠ S'il est tué en bébé zombie, sa mort est définitive. Utilisable </mark><mark style="color:red;">**une seule fois par partie**</mark><mark style="color:red;">.</mark>
 
 {% endhint %}
 

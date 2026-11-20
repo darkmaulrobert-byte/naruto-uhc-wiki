@@ -53,7 +53,7 @@ description: "Camp : Shinobi • Doton"
 > * **Il appartient au camp Shinobi** (**1 200**) : sinon, elle perd **2,5**<mark style="color:red;">**❤**</mark> et subit <mark style="color:$tint;">**Faiblesse I**</mark> et <mark style="color:purple;">**Lenteur I**</mark> pendant **15 secondes**.
 > * **Ces deux joueurs sont du même camp** (**1 000**) : la confirmation ne dit pas lequel ; sinon, elle perd **2**<mark style="color:red;">**❤**</mark> et subit <mark style="color:$tint;">**Faiblesse I**</mark> pendant **15 secondes**.
 >
-> ⚠ Le coût du pari est retiré même si le pari est faux.
+> <mark style="color:red;">⚠ Le coût du pari est retiré même si le pari est faux.</mark>
 
 ➜ <mark style="color:$success;">**Soin médical**</mark> • `Passif`
 

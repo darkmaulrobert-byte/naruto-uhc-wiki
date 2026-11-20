@@ -31,7 +31,7 @@ description: "Camp : Shinobi • Suiton et Katon"
 
 > Tous les **15 coups**, <mark style="color:green;">**Mei**</mark> couvre son adversaire d'acide pendant **4 secondes**. Sa prochaine pomme d'or ne lui donne alors que **1**<mark style="color:red;">**❤**</mark> d'<mark style="color:yellow;">absorption</mark>.
 >
-> ⚠ L'effet ne se cumule pas.
+> <mark style="color:red;">⚠ L'effet ne se cumule pas.</mark>
 
 {% endhint %}
 
@@ -53,7 +53,7 @@ description: "Camp : Shinobi • Suiton et Katon"
 >
 > À **100 %**, le joueur subit **1,5**<mark style="color:red;">**❤**</mark> et le compteur revient à 0 %.
 >
-> ⚠ Les joueurs colorés en vert avec `/ns color` ne sont pas touchés.
+> <mark style="color:red;">⚠ Les joueurs colorés en vert avec </mark>`/ns color`<mark style="color:red;"> ne sont pas touchés.</mark>
 
 ➜ <mark style="color:$success;">**Mur de Lave**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 

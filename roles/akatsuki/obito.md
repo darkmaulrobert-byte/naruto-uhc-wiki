@@ -43,7 +43,7 @@ description: "Camp : Akatsuki • Katon et Doton"
 
 > Tous les **15 coups** reçus, <mark style="color:red;">**Obito**</mark> prépare une esquive : le prochain coup d'épée qu'il reçoit est annulé, et la partie de son corps touchée disparaît dans une spirale noire.
 >
-> ⚠ <mark style="color:red;">**Obito**</mark> ne garde qu'une esquive à la fois.
+> <mark style="color:red;">⚠ </mark><mark style="color:red;">**Obito**</mark><mark style="color:red;"> ne garde qu'une esquive à la fois.</mark>
 
 {% endhint %}
 
@@ -63,7 +63,7 @@ description: "Camp : Akatsuki • Katon et Doton"
 >
 > Elle explose sur le premier joueur ou bloc touché : les joueurs à moins de **2 blocs** subissent **½**<mark style="color:red;">**❤**</mark> et brûlent pendant **3 secondes**.
 >
-> ⚠ Les boules non lancées disparaissent au bout de **1 minute**.
+> <mark style="color:red;">⚠ Les boules non lancées disparaissent au bout de </mark><mark style="color:red;">**1 minute**</mark><mark style="color:red;">.</mark>
 
 ➜ <mark style="color:$success;">**Double Mangekyō Sharingan**</mark> • `Clic-Droit`
 

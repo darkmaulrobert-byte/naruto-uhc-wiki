@@ -45,7 +45,7 @@ description: "Camp : Shinobi • Doton et Fûton"
 
 > Le prochain coup d'<mark style="color:green;">**Ônoki**</mark> alourdit le joueur pendant **5 secondes** : il ne peut plus sauter et subit **50 %** de recul en moins.
 >
-> ⚠ Le frapper à nouveau ne prolonge pas l'effet.
+> <mark style="color:red;">⚠ Le frapper à nouveau ne prolonge pas l'effet.</mark>
 
 ➜ <mark style="color:$success;">**Golem de Pierre**</mark> • `Clic-Droit` • ⌚ : 8 minutes
 
@@ -59,7 +59,7 @@ description: "Camp : Shinobi • Doton et Fûton"
 >
 > Le cube forme une zone de **7 × 7 × 7** : après **1 seconde**, tout y est détruit et les joueurs encore dedans subissent **3**<mark style="color:red;">**❤**</mark>.
 >
-> ⚠ S'il bouge pendant la charge, la technique est annulée et son cooldown est rendu.
+> <mark style="color:red;">⚠ S'il bouge pendant la charge, la technique est annulée et son cooldown est rendu.</mark>
 
 ➜ <mark style="color:$success;">**Élévation du Terrain**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 

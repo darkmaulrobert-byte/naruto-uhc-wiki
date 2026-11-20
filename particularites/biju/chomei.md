@@ -30,7 +30,7 @@ icon: bug
 >
 > Des ailes vertes et jaunes apparaissent dans son dos.
 >
-> ⚠ Le dash ne traverse pas les blocs.
+> <mark style="color:red;">⚠ Le dash ne traverse pas les blocs.</mark>
 
 {% endhint %}
 

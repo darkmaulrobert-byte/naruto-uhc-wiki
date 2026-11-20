@@ -28,7 +28,7 @@ icon: cloud-bolt
 > * S'il s'agissait de son Bijû actif, il **perd ses bonus**.
 > * La progression est **commune** à tout le camp.
 >
-> ⚠ Seule l'Akatsuki peut sceller des Bijû. Il faut **6 Bijû différents**.
+> <mark style="color:red;">⚠ Seule l'Akatsuki peut sceller des Bijû. Il faut </mark><mark style="color:red;">**6 Bijû différents**</mark><mark style="color:red;">.</mark>
 
 {% endhint %}
 

@@ -42,7 +42,7 @@ icon: paw
 > * Durée : **1 minute**.
 > * Cooldown : **15 minutes**.
 >
-> ⚠ Les effets identiques à ceux du rôle ne s'ajoutent pas : <mark style="color:red;">**Force I**</mark> + <mark style="color:red;">**Force I**</mark> reste <mark style="color:red;">**Force I**</mark>.
+> <mark style="color:red;">⚠ Les effets identiques à ceux du rôle ne s'ajoutent pas : </mark><mark style="color:red;">**Force I**</mark><mark style="color:red;"> + </mark><mark style="color:red;">**Force I**</mark><mark style="color:red;"> reste </mark><mark style="color:red;">**Force I**</mark><mark style="color:red;">.</mark>
 
 ➜ <mark style="color:$success;">**Bijû supplémentaires**</mark> • `Particularités`
 

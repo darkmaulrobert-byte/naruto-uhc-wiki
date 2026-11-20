@@ -31,3 +31,5 @@ icon: cat
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/matatabi.gif" alt="Matatabi" width="480"><figcaption><p>Illustration de Matatabi.</p></figcaption></figure></div>

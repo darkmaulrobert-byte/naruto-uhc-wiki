@@ -39,7 +39,7 @@ description: "Camp : Shinobi • Doton"
 >
 > Chaque joueur écrasé subit **1**<mark style="color:red;">**❤**</mark> et il est projeté à **20 blocs**.
 >
-> ⚠ Dans la boule, <mark style="color:green;">**Chôji**</mark> est invisible, mais il ne peut ni frapper ni tirer. Réutiliser l'objet, ou perdre les 15 cœurs de la boule, la fait disparaître.
+> <mark style="color:red;">⚠ Dans la boule, </mark><mark style="color:red;">**Chôji**</mark><mark style="color:red;"> est invisible, mais il ne peut ni frapper ni tirer. Réutiliser l'objet, ou perdre les 15 cœurs de la boule, la fait disparaître.</mark>
 
 ➜ <mark style="color:$success;">**Chō Harite**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
@@ -53,7 +53,7 @@ description: "Camp : Shinobi • Doton"
 > * Accroupi en l'air, il plane vers l'avant.
 > * S'il est frappé dans le dos, il a **10 %** de chances de projeter l'attaquant à **5 blocs**.
 >
-> ⚠ Baika no Jutsu est désactivé pendant le mode.
+> <mark style="color:red;">⚠ Baika no Jutsu est désactivé pendant le mode.</mark>
 
 {% endhint %}
 

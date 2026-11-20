@@ -49,7 +49,7 @@ description: "Camp : Akatsuki • Suiton"
 
 > <mark style="color:red;">**Jûzô**</mark> lance son épée pointe en avant, sur **20 blocs**. Le premier joueur touché subit **1,5**<mark style="color:red;">**❤**</mark> et recule de **5 blocs**, puis l'épée revient vers <mark style="color:red;">**Jûzô**</mark>.
 >
-> ⚠ <mark style="color:red;">**Jûzô**</mark> n'a plus son épée tant qu'elle n'est pas revenue dans sa main.
+> <mark style="color:red;">⚠ </mark><mark style="color:red;">**Jûzô**</mark><mark style="color:red;"> n'a plus son épée tant qu'elle n'est pas revenue dans sa main.</mark>
 
 ➜ <mark style="color:$success;">**Clone Aqueux**</mark> • `Clic-Droit` • ⏳ : 20 secondes • ⌚ : 5 minutes
 

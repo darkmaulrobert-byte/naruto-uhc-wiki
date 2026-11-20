@@ -14,7 +14,7 @@ icon: scroll
 >
 > Les inscriptions durent **1 minute** : cliquez sur le bouton **REJOINDRE LA FORÊT DE LA MORT** du chat.
 >
-> ⚠ Seuls les joueurs **en vie** et **hors combat** peuvent s'inscrire. Sans **20 inscrits**, l'épreuve est annulée.
+> <mark style="color:red;">⚠ Seuls les joueurs </mark><mark style="color:red;">**en vie**</mark><mark style="color:red;"> et </mark><mark style="color:red;">**hors combat**</mark><mark style="color:red;"> peuvent s'inscrire. Sans </mark><mark style="color:red;">**20 inscrits**</mark><mark style="color:red;">, l'épreuve est annulée.</mark>
 
 ➜ <mark style="color:$success;">**Équipes**</mark>
 
@@ -40,7 +40,7 @@ icon: scroll
 > * Volez le parchemin d'une **autre équipe**, puis rapportez-le dans **votre base** : cette équipe est **éliminée**.
 > * Le voleur apparaît en surbrillance **5 secondes** après le vol.
 >
-> ⚠ Un joueur ne porte qu'**un parchemin** à la fois. Un parchemin est protégé tant qu'un membre de son équipe porte déjà un parchemin.
+> <mark style="color:red;">⚠ Un joueur ne porte qu'</mark><mark style="color:red;">**un parchemin**</mark><mark style="color:red;"> à la fois. Un parchemin est protégé tant qu'un membre de son équipe porte déjà un parchemin.</mark>
 
 ➜ <mark style="color:$success;">**Caisses**</mark>
 
@@ -92,3 +92,7 @@ Chaque joueur reçoit **une récompense au hasard**, indépendamment de ses coé
 * **4 pommes d'or** par joueur.
 
 {% endhint %}
+
+***
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/page-foret.gif" alt="" width="480"><figcaption><p>La Forêt de la Mort.</p></figcaption></figure></div>

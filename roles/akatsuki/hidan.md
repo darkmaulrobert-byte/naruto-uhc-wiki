@@ -43,7 +43,7 @@ description: "Camp : Akatsuki • une nature aléatoire"
 >
 > Les morceaux sont entourés de particules rouges, et <mark style="color:red;">**Hidan**</mark> voit une flèche vers chacun d'eux dans sa barre d'action.
 >
-> ⚠ <mark style="color:red;">**Hidan**</mark> ne peut pas s'éloigner à plus de **30 blocs** de sa tête.
+> <mark style="color:red;">⚠ </mark><mark style="color:red;">**Hidan**</mark><mark style="color:red;"> ne peut pas s'éloigner à plus de </mark><mark style="color:red;">**30 blocs**</mark><mark style="color:red;"> de sa tête.</mark>
 >
 > **Les morceaux**
 >
@@ -60,7 +60,7 @@ description: "Camp : Akatsuki • une nature aléatoire"
 >
 > Une barre de progression s'affiche. <mark style="color:red;">**Hidan**</mark> revient avec **3**<mark style="color:red;">**❤**</mark>, là où il a été réassemblé.
 >
-> ⚠ Sans réassemblage en **3 minutes**, <mark style="color:red;">**Hidan**</mark> est éliminé. Utilisable **une seule fois par partie**.
+> <mark style="color:red;">⚠ Sans réassemblage en </mark><mark style="color:red;">**3 minutes**</mark><mark style="color:red;">, </mark><mark style="color:red;">**Hidan**</mark><mark style="color:red;"> est éliminé. Utilisable </mark><mark style="color:red;">**une seule fois par partie**</mark><mark style="color:red;">.</mark>
 
 {% endhint %}
 
@@ -74,7 +74,7 @@ description: "Camp : Akatsuki • une nature aléatoire"
 >
 > Il est invincible, et chaque coup qu'il reçoit inflige **1**<mark style="color:red;">**❤**</mark> à ce joueur, **une fois par seconde** au plus.
 >
-> ⚠ Le rituel ne peut pas faire descendre ce joueur sous **½**<mark style="color:red;">**❤**</mark>.
+> <mark style="color:red;">⚠ Le rituel ne peut pas faire descendre ce joueur sous </mark><mark style="color:red;">**½**</mark><mark style="color:red;">**❤**</mark><mark style="color:red;">.</mark>
 
 {% endhint %}
 

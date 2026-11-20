@@ -41,14 +41,14 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 > <mark style="color:green;">**Gaï**</mark> ouvre les Portes avec son objet.
 >
-> ⚠ Une seule Porte peut être ouverte à la fois. Chaque Porte garde son propre cooldown.
+> <mark style="color:red;">⚠ Une seule Porte peut être ouverte à la fois. Chaque Porte garde son propre cooldown.</mark>
 >
 > **Troisième Porte** • ⏳ 1 min 30 s • ⌚ 8 minutes
 >
 > * **2**<mark style="color:red;">**❤**</mark> d'<mark style="color:yellow;">absorption</mark>, rendus **15 secondes** après les avoir perdus.
 > * **+2 %** de <mark style="color:cyan;">Vitesse</mark> par seconde, jusqu'à **20 %**.
 >
-> ⚠ Une pomme d'or ne monte pas l'<mark style="color:yellow;">absorption</mark> au-delà de **2**<mark style="color:red;">**❤**</mark>. Le bonus de <mark style="color:cyan;">Vitesse</mark> retombe à **0 %** à chaque coup reçu.
+> <mark style="color:red;">⚠ Une pomme d'or ne monte pas l'absorption au-delà de </mark><mark style="color:red;">**2**</mark><mark style="color:red;">**❤**</mark><mark style="color:red;">. Le bonus de Vitesse retombe à </mark><mark style="color:red;">**0 %**</mark><mark style="color:red;"> à chaque coup reçu.</mark>
 >
 > **Sixième Porte** • ⏳ 1 minute • ⌚ 12 minutes
 >
@@ -65,7 +65,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 >
 > **Fin de la Huitième Porte**
 >
-> ⚠ À la fin de la Huitième Porte, <mark style="color:green;">**Gaï**</mark> meurt.
+> <mark style="color:red;">⚠ À la fin de la Huitième Porte, </mark><mark style="color:red;">**Gaï**</mark><mark style="color:red;"> meurt.</mark>
 >
 > Si [<mark style="color:green;">**Naruto**</mark>](naruto.md) se trouve à moins de **50 blocs**, <mark style="color:green;">**Gaï**</mark> revient avec **7**<mark style="color:red;">**❤**</mark> maximum, mais sans pouvoirs ni passifs.
 
@@ -81,7 +81,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 > * La cible subit **4**<mark style="color:red;">**❤**</mark>.
 > * Pendant **15 secondes**, les coups de <mark style="color:green;">**Gaï**</mark> enflamment.
 >
-> ⚠ L'attaque retire **1 minute** à la durée restante de la Huitième Porte.
+> <mark style="color:red;">⚠ L'attaque retire </mark><mark style="color:red;">**1 minute**</mark><mark style="color:red;"> à la durée restante de la Huitième Porte.</mark>
 
 {% endhint %}
 

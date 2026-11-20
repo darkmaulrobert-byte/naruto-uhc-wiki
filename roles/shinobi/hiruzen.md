@@ -33,7 +33,7 @@ description: "Camp : Shinobi • une nature aléatoire au début de la partie"
 
 > Quand <mark style="color:green;">**Hiruzen**</mark> descend sous **4**<mark style="color:red;">**❤**</mark>, sa prochaine technique élémentaire est utilisable tout de suite, même en cooldown.
 >
-> ⚠ Ce passif ne marche pas pour l'Enchaînement. Il se recharge en **4 minutes**.
+> <mark style="color:red;">⚠ Ce passif ne marche pas pour l'Enchaînement. Il se recharge en </mark><mark style="color:red;">**4 minutes**</mark><mark style="color:red;">.</mark>
 
 {% endhint %}
 
@@ -72,7 +72,7 @@ description: "Camp : Shinobi • une nature aléatoire au début de la partie"
 >
 > En réutilisant le pouvoir, il se téléporte au sommet d'un pilier au hasard, qui s'effondre **2 secondes** après.
 >
-> ⚠ **2 téléportations** au maximum. Les piliers peuvent être cassés.
+> <mark style="color:red;">⚠ </mark><mark style="color:red;">**2 téléportations**</mark><mark style="color:red;"> au maximum. Les piliers peuvent être cassés.</mark>
 
 {% endhint %}
 

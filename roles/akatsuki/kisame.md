@@ -53,7 +53,7 @@ description: "Camp : Akatsuki • Suiton"
 
 > <mark style="color:red;">**Kisame**</mark> crée une sphère d'eau de **25 blocs** qui le suit pendant **30 secondes**. Le passif de Samehada passe de **10 %** à **15 %**, et de **20 %** à **30 %** contre un porteur de Bijû.
 >
-> ⚠ Personne ne peut se noyer dans la sphère.
+> <mark style="color:red;">⚠ Personne ne peut se noyer dans la sphère.</mark>
 
 ➜ <mark style="color:$success;">**Daikōdan no Jutsu**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
@@ -67,7 +67,7 @@ description: "Camp : Akatsuki • Suiton"
 >
 > Chaque poisson attaque les joueurs et inflige **1**<mark style="color:red;">**❤**</mark> toutes les **5 secondes**. Un poisson a **1**<mark style="color:red;">**❤**</mark> : frappé, il meurt.
 >
-> ⚠ **2 poissons** au plus attaquent le même joueur. Les poissons restent dans l'eau, et personne ne peut s'y noyer.
+> <mark style="color:red;">⚠ </mark><mark style="color:red;">**2 poissons**</mark><mark style="color:red;"> au plus attaquent le même joueur. Les poissons restent dans l'eau, et personne ne peut s'y noyer.</mark>
 
 {% endhint %}
 

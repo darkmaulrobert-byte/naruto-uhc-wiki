@@ -46,7 +46,7 @@ description: "Camp : Shinobi • Katon et Doton"
 > * **Fukasaku** fait jaillir un geyser de **5 blocs** sous un joueur (**1,5**<mark style="color:red;">**❤**</mark> et <mark style="color:purple;">**Lenteur I**</mark> pendant **5 secondes**), crache une boule de feu (**1**<mark style="color:red;">**❤**</mark> et feu), ou réduit de **20 %** le cooldown d'un objet de <mark style="color:green;">**Jiraya**</mark>.
 > * **Shima** attire le joueur le plus proche avec sa langue, le pousse de **5 blocs** sur le côté, ou lui inflige <mark style="color:violet;">**Cécité**</mark> pendant **5 secondes**.
 >
-> ⚠ Les joueurs colorés en vert avec `/ns color` ne sont jamais visés.
+> <mark style="color:red;">⚠ Les joueurs colorés en vert avec </mark>`/ns color`<mark style="color:red;"> ne sont jamais visés.</mark>
 
 ➜ <mark style="color:$success;">**Rasengan**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 

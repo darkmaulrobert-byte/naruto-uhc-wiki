@@ -43,7 +43,7 @@ description: "Camp : Akatsuki • Doton"
 
 > <mark style="color:red;">**Zetsu**</mark> fusionne avec le sol pendant **20 secondes** : il devient invisible, armure comprise. En réutilisant le pouvoir, il ressort.
 >
-> ⚠ <mark style="color:red;">**Zetsu**</mark> ne peut pas frapper pendant la fusion.
+> <mark style="color:red;">⚠ </mark><mark style="color:red;">**Zetsu**</mark><mark style="color:red;"> ne peut pas frapper pendant la fusion.</mark>
 
 ➜ <mark style="color:$success;">**Spores**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
@@ -55,7 +55,7 @@ description: "Camp : Akatsuki • Doton"
 
 > `Clic-Droit` sur un cadavre : <mark style="color:red;">**Zetsu**</mark> mémorise son apparence. Il peut ensuite prendre son skin et son pseudo pendant **1 minute**.
 >
-> ⚠ Le déguisement tombe après **3 coups** reçus.
+> <mark style="color:red;">⚠ Le déguisement tombe après </mark><mark style="color:red;">**3 coups**</mark><mark style="color:red;"> reçus.</mark>
 
 ➜ <mark style="color:$success;">**Racines**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
@@ -65,7 +65,7 @@ description: "Camp : Akatsuki • Doton"
 
 > À partir d'**1 heure** de jeu, avec `/ns zetsu <joueur>`, <mark style="color:red;">**Zetsu**</mark> parle à deux sur Mumble pendant **30 secondes** avec un membre de l'Akatsuki, peu importe la distance.
 >
-> ⚠ Si le joueur choisi n'est pas de l'Akatsuki, le réseau ne s'ouvre pas, mais le cooldown de **8 minutes** est lancé.
+> <mark style="color:red;">⚠ Si le joueur choisi n'est pas de l'Akatsuki, le réseau ne s'ouvre pas, mais le cooldown de </mark><mark style="color:red;">**8 minutes**</mark><mark style="color:red;"> est lancé.</mark>
 
 {% endhint %}
 

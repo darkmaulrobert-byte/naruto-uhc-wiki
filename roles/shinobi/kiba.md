@@ -37,7 +37,7 @@ description: "Camp : Shinobi • Doton"
 >
 > Chaque rôle a toujours la même catégorie. `/ns chakra` seul affiche les quatre catégories.
 >
-> ⚠ Ces catégories n'ont rien à voir avec les **natures de chakra** (Katon, Suiton…).
+> <mark style="color:red;">⚠ Ces catégories n'ont rien à voir avec les </mark><mark style="color:red;">**natures de chakra**</mark><mark style="color:red;"> (Katon, Suiton…).</mark>
 
 ➜ <mark style="color:$success;">**Griffes**</mark> • `Particularités`
 
@@ -57,7 +57,7 @@ description: "Camp : Shinobi • Doton"
 >
 > `Clic-Gauche` : hors combat, <mark style="color:green;">**Kiba**</mark> range ou sort Akamaru, qui garde ses cœurs.
 >
-> ⚠ S'il est touché pendant que <mark style="color:green;">**Kiba**</mark> le monte, Akamaru est ralenti de **50 %** pendant **5 secondes**. S'il meurt, il revient après **5 minutes**.
+> <mark style="color:red;">⚠ S'il est touché pendant que </mark><mark style="color:red;">**Kiba**</mark><mark style="color:red;"> le monte, Akamaru est ralenti de </mark><mark style="color:red;">**50 %**</mark><mark style="color:red;"> pendant </mark><mark style="color:red;">**5 secondes**</mark><mark style="color:red;">. S'il meurt, il revient après </mark><mark style="color:red;">**5 minutes**</mark><mark style="color:red;">.</mark>
 
 ➜ <mark style="color:$success;">**Fusion avec Akamaru**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 
@@ -67,7 +67,7 @@ description: "Camp : Shinobi • Doton"
 > * Tous les **15 coups**, il inflige un saignement de **½**<mark style="color:red;">**❤**</mark> pendant **3 secondes**.
 > * Double saut : un dash de **10 blocs**, toutes les **30 secondes**.
 >
-> <mark style="color:red;">**⚠ Pendant la fusion, ses griffes restent à Tranchant III.**</mark>
+> <mark style="color:red;">⚠ </mark><mark style="color:red;">**Pendant la fusion, ses griffes restent à Tranchant III.**</mark>
 
 {% endhint %}
 

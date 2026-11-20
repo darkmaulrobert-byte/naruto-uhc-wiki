@@ -31,3 +31,5 @@ icon: horse
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/kokuo.gif" alt="Kokuô" width="480"><figcaption><p>Illustration de Kokuô.</p></figcaption></figure></div>

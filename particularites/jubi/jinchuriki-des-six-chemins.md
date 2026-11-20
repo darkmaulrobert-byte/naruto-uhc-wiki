@@ -16,7 +16,7 @@ icon: circle-half-stroke
 > * [<mark style="color:orange;">**Madara**</mark>](../../roles/solos/madara.md) ou [<mark style="color:red;">**Obito**</mark>](../../roles/akatsuki/obito.md) avec le **pacte 2** : ils réunissent les Bijû **ensemble**, et celui qui lance la commande devient le Jinchûriki ;
 > * [<mark style="color:orange;">**Kaguya**</mark>](../../roles/solos/kaguya.md).
 >
-> ⚠ [<mark style="color:red;">**Obito**</mark>](../../roles/akatsuki/obito.md) resté dans l'Akatsuki ne peut pas faire le rituel. Il n'y a qu'**un seul** Jinchûriki à la fois.
+> <mark style="color:red;">⚠ </mark>[<mark style="color:red;">**Obito**</mark>](../../roles/akatsuki/obito.md)<mark style="color:red;"> resté dans l'Akatsuki ne peut pas faire le rituel. Il n'y a qu'</mark><mark style="color:red;">**un seul**</mark><mark style="color:red;"> Jinchûriki à la fois.</mark>
 
 ➜ <mark style="color:$success;">**Déroulement**</mark> • `Particularités`
 
@@ -26,7 +26,7 @@ icon: circle-half-stroke
 >
 > La statue les absorbe, puis l'objet de Jûbi rejoint le joueur. Le cri de Jûbi retentit sur toute la carte.
 >
-> ⚠ Les six Bijû sont **consommés**.
+> <mark style="color:red;">⚠ Les six Bijû sont </mark><mark style="color:red;">**consommés**</mark><mark style="color:red;">.</mark>
 
 {% endhint %}
 
@@ -54,7 +54,7 @@ icon: circle-half-stroke
 > * il ne peut plus sauter pendant **2 secondes** ;
 > * il brûle pendant **3 secondes**.
 >
-> ⚠ Le partenaire du pacte n'est jamais visé.
+> <mark style="color:red;">⚠ Le partenaire du pacte n'est jamais visé.</mark>
 
 {% endhint %}
 

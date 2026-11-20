@@ -51,7 +51,7 @@ description: "Camp : Akatsuki • Katon et Suiton"
 
 > Le joueur visé brûle pendant **10 secondes**, sans pouvoir s'éteindre.
 >
-> ⚠ Ensuite, <mark style="color:red;">**Itachi**</mark> subit <mark style="color:violet;">**Cécité**</mark> pendant **5 secondes**.
+> <mark style="color:red;">⚠ Ensuite, </mark><mark style="color:red;">**Itachi**</mark><mark style="color:red;"> subit </mark><mark style="color:red;">**Cécité**</mark><mark style="color:red;"> pendant </mark><mark style="color:red;">**5 secondes**</mark><mark style="color:red;">.</mark>
 
 ➜ <mark style="color:$success;">**Utakata**</mark> • `Clic-Droit` • ⌚ : 10 minutes
 

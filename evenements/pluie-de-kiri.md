@@ -24,3 +24,7 @@ icon: cloud-rain
 > Au bout de **5 minutes**, la pluie s'arrête et les pseudos redeviennent visibles.
 
 {% endhint %}
+
+***
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/page-pluie.jpg" alt="" width="480"><figcaption><p>Le village caché de la Pluie.</p></figcaption></figure></div>

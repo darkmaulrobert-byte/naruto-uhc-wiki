@@ -32,6 +32,6 @@ icon: parachute-box
 > * Une caisse donne **une seule récompense aléatoire** de sa catégorie.
 > * Le premier joueur qui clique la récupère.
 >
-> ⚠ Avec un inventaire plein, il faut libérer une case pour récupérer le largage.
+> <mark style="color:red;">⚠ Avec un inventaire plein, il faut libérer une case pour récupérer le largage.</mark>
 
 {% endhint %}

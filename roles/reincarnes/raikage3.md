@@ -43,13 +43,13 @@ description: "Camp : Réincarnés • Raiton"
 >
 > Tous les **5 coups d'épée** reçus, il gagne une charge électrique, **4** au maximum, affichée au-dessus de sa barre d'inventaire.
 >
-> ⚠ Les charges disparaissent quand l'armure est coupée.
+> <mark style="color:red;">⚠ Les charges disparaissent quand l'armure est coupée.</mark>
 
 ➜ <mark style="color:$success;">**Dernier Rempart**</mark> • `Passif`
 
 > Si la jauge tombe à **0** pendant l'armure, une dernière impulsion repousse de **4 blocs** les joueurs à moins de **3 blocs**, puis l'armure se coupe.
 >
-> ⚠ Il faut ensuite **20 points** de foudre pour la réactiver.
+> <mark style="color:red;">⚠ Il faut ensuite </mark><mark style="color:red;">**20 points**</mark><mark style="color:red;"> de foudre pour la réactiver.</mark>
 
 {% endhint %}
 
@@ -66,7 +66,7 @@ description: "Camp : Réincarnés • Raiton"
 > * **3 charges :** **16 blocs**, **2**<mark style="color:red;">**❤**</mark>.
 > * **4 charges :** **20 blocs**, **2,5**<mark style="color:red;">**❤**</mark>.
 >
-> ⚠ Toutes les charges sont utilisées, même si le dash ne touche personne.
+> <mark style="color:red;">⚠ Toutes les charges sont utilisées, même si le dash ne touche personne.</mark>
 
 ➜ <mark style="color:$success;">**Kuroi Kaminari — Foudre Noire**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 

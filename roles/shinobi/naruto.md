@@ -27,7 +27,7 @@ description: "Camp : Shinobi • Fûton"
 
 > Avec `/ns clone <nombre>`, <mark style="color:green;">**Naruto**</mark> invoque **1 à 3 clones**. Chaque clone possède **10**<mark style="color:red;">**❤**</mark> et frappe comme une **épée en diamant Tranchant III**, toutes les **2 secondes**.
 >
-> ⚠ Chaque clone ajoute **5 minutes** au cooldown, soit **15 minutes** pour trois clones.
+> <mark style="color:red;">⚠ Chaque clone ajoute </mark><mark style="color:red;">**5 minutes**</mark><mark style="color:red;"> au cooldown, soit </mark><mark style="color:red;">**15 minutes**</mark><mark style="color:red;"> pour trois clones.</mark>
 
 ➜ <mark style="color:$success;">**Rasengan**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
@@ -39,7 +39,7 @@ description: "Camp : Shinobi • Fûton"
 >
 > À l'impact, elle détruit les blocs, attire les joueurs touchés et leur inflige **2,5**<mark style="color:red;">**❤**</mark>.
 >
-> ⚠ Le multi-clonage doit être disponible. Bouger pendant la formation annule le pouvoir.
+> <mark style="color:red;">⚠ Le multi-clonage doit être disponible. Bouger pendant la formation annule le pouvoir.</mark>
 
 ➜ <mark style="color:$success;">**Mode Ermite — Mont Myôboku**</mark> • `/ns mode ermite`
 
@@ -53,7 +53,7 @@ description: "Camp : Shinobi • Fûton"
 > * Vaincre **trois vagues de grenouilles** dans la clairière : **2**, **3** puis **4**.
 > * Méditer **10 secondes** sur le **sceau d'or** du bassin d'huile.
 >
-> ⚠ S'il quitte le mont pendant les vagues, la clairière recommence à la prochaine visite.
+> <mark style="color:red;">⚠ S'il quitte le mont pendant les vagues, la clairière recommence à la prochaine visite.</mark>
 >
 > **Mode Ermite**
 >
@@ -112,7 +112,7 @@ description: "Camp : Shinobi • Fûton"
 > * L'orbe creuse un cratère de **50 blocs**, inflige **4**<mark style="color:red;">**❤**</mark> et enflamme pendant **5 secondes**.
 > * Cooldown : **15 minutes**.
 >
-> ⚠ Après le mode, le Rasenshuriken attend la fin du cooldown de l'orbe.
+> <mark style="color:red;">⚠ Après le mode, le Rasenshuriken attend la fin du cooldown de l'orbe.</mark>
 
 {% endhint %}
 

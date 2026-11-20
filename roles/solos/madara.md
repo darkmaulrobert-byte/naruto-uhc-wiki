@@ -29,7 +29,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 >
 > Les boutons **Visualiser** affichent dans le chat sa fiche avec chaque pacte.
 >
-> ⚠ Le choix est définitif : ses pouvoirs et sa fiche complète arrivent juste après.
+> <mark style="color:red;">⚠ Le choix est définitif : ses pouvoirs et sa fiche complète arrivent juste après.</mark>
 
 ➜ <mark style="color:$success;">**Effet**</mark> • `Passif`
 
@@ -53,7 +53,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 > * [<mark style="color:red;">**Nagato**</mark>](../akatsuki/nagato.md) apprend le pacte.
 > * Ils réunissent ensemble les **6 Bijû** avec `/ns jubi`.
 >
-> ⚠ Avec ce pacte, <mark style="color:orange;">**Madara**</mark> garde **10**<mark style="color:red;">**❤**</mark>, sans la vie des joueurs, ni la Traque des Bijû, ni le Gakidō.
+> <mark style="color:red;">⚠ Avec ce pacte, </mark><mark style="color:red;">**Madara**</mark><mark style="color:red;"> garde </mark><mark style="color:red;">**10**</mark><mark style="color:red;">**❤**</mark><mark style="color:red;">, sans la vie des joueurs, ni la Traque des Bijû, ni le Gakidō.</mark>
 >
 > Tengai Shinsei ne s'utilise qu'**une fois par partie**, et le Susanoo se recharge en **15 minutes**.
 
@@ -85,7 +85,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 >
 > À l'impact, la vie des autres joueurs à moins de **50 blocs** tombe à **½**<mark style="color:red;">**❤**</mark>, quelle que soit leur vie avant.
 >
-> ⚠ Avec le **pacte 2**, Tengai Shinsei n'est utilisable qu'**une seule fois par partie**.
+> <mark style="color:red;">⚠ Avec le </mark><mark style="color:red;">**pacte 2**</mark><mark style="color:red;">, Tengai Shinsei n'est utilisable qu'</mark><mark style="color:red;">**une seule fois par partie**</mark><mark style="color:red;">.</mark>
 
 ➜ <mark style="color:$success;">**Susanoo**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 
@@ -94,7 +94,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 > * <mark style="color:blue;">**Résistance I**</mark> ;
 > * ses coups d'épée ont **25 %** de chances d'enflammer.
 >
-> ⚠ Avec le **pacte 2**, le Susanoo se recharge en **15 minutes** au lieu de **10 minutes**.
+> <mark style="color:red;">⚠ Avec le </mark><mark style="color:red;">**pacte 2**</mark><mark style="color:red;">, le Susanoo se recharge en </mark><mark style="color:red;">**15 minutes**</mark><mark style="color:red;"> au lieu de </mark><mark style="color:red;">**10 minutes**</mark><mark style="color:red;">.</mark>
 
 ➜ <mark style="color:$success;">**Rinnegan**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
@@ -108,7 +108,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 
 > `Clic-Droit` : <mark style="color:orange;">**Madara**</mark> choisit un Bijû à suivre. Libre : sa position ; possédé : son hôte (pseudo et position) ; pas encore apparu : lieu et moment prévus.
 >
-> ⚠ Pacte solo seulement.
+> <mark style="color:red;">⚠ Pacte solo seulement.</mark>
 
 {% endhint %}
 
