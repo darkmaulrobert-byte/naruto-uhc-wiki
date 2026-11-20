@@ -1,0 +1,58 @@
+---
+icon: drumstick-bite
+description: Camp : Shinobi • Doton
+---
+
+# ▸ Chôji Akimichi
+
+{% hint style="info" icon="drumstick-bite" %}
+
+<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>IDENTITÉ</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
+
+➜ <mark style="color:$success;">**Camp**</mark> • <mark style="color:green;">**Shinobi**</mark>
+
+> Objectif : gagner avec les <mark style="color:green;">**Shinobi**</mark>.
+
+➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
+
+> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:orange;">**Doton**</mark>.
+
+{% endhint %}
+
+{% hint style="info" icon="drumstick-bite" %}
+
+<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>COMPÉTENCES</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
+
+➜ <mark style="color:$success;">**Baika no Jutsu**</mark> • `Passif`
+
+> Quand un joueur frappe <mark style="color:green;">**Chôji**</mark>, il a **10 %** de chances de le repousser de **5 blocs**.
+
+{% endhint %}
+
+{% hint style="info" icon="drumstick-bite" %}
+
+<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
+
+➜ <mark style="color:$success;">**Nikudan Sensha**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
+
+> <mark style="color:green;">**Chôji**</mark> se transforme en boule de pierre de **15**<mark style="color:$danger;">**❤**</mark>, qui roule à **3 blocs par seconde** et grimpe les obstacles jusqu'à **3 blocs** de haut. Chaque joueur écrasé subit **1**<mark style="color:$danger;">**❤**</mark> et il est projeté à **20 blocs**.
+>
+> ⚠ Dans la boule, <mark style="color:green;">**Chôji**</mark> est invisible, mais il ne peut ni frapper ni tirer. Réutiliser l'objet, ou perdre les 15 cœurs de la boule, la fait disparaître.
+
+➜ <mark style="color:$success;">**Chō Harite**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+
+> Les joueurs à moins de **15 blocs** sont soulevés d'**1 bloc**, subissent **1**<mark style="color:$danger;">**❤**</mark> et **Nausée** pendant **5 secondes**.
+
+➜ <mark style="color:$success;">**Mode Papillon**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
+
+> Des ailes bleues apparaissent dans le dos de <mark style="color:green;">**Chôji**</mark> :
+>
+> * Tous les **10 coups**, un second coup part tout seul.
+> * Accroupi en l'air, il plane vers l'avant.
+> * S'il est frappé dans le dos, il a **10 %** de chances de projeter l'attaquant à **5 blocs**.
+>
+> ⚠ Baika no Jutsu est désactivé pendant le mode.
+
+{% endhint %}
+
+***

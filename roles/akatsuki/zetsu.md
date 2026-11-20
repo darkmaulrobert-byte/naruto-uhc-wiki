@@ -1,0 +1,72 @@
+---
+icon: seedling
+description: Camp : Akatsuki • Doton
+---
+
+# ▸ Zetsu
+
+{% hint style="info" icon="seedling" %}
+
+<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>IDENTITÉ</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
+
+➜ <mark style="color:$success;">**Camp**</mark> • <mark style="color:red;">**Akatsuki**</mark>
+
+> Objectif : gagner avec l'<mark style="color:red;">**Akatsuki**</mark>.
+
+➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
+
+> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:orange;">**Doton**</mark>.
+
+{% endhint %}
+
+{% hint style="info" icon="seedling" %}
+
+<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>COMPÉTENCES</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
+
+➜ <mark style="color:$success;">**Connaissances**</mark> • `Particularités`
+
+> <mark style="color:red;">**Zetsu**</mark> ne connaît personne au départ : il doit être reconnu par un membre du **réseau de l'Akatsuki**, puis il reconnaît les autres à son tour (voir [Liste de l'Akatsuki](../../particularites/liste-de-lakatsuki.md)).
+
+➜ <mark style="color:$success;">**Corps Végétal**</mark> • `Passif`
+
+> Quand <mark style="color:red;">**Zetsu**</mark> reste accroupi et immobile **5 secondes** contre un arbre, il devient invisible, pseudo compris, jusqu'à ce qu'il bouge, frappe ou utilise un pouvoir.
+
+{% endhint %}
+
+{% hint style="info" icon="seedling" %}
+
+<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
+
+➜ <mark style="color:$success;">**Fusion avec le Sol**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+
+> <mark style="color:red;">**Zetsu**</mark> fusionne avec le sol pendant **20 secondes** : il devient invisible, armure comprise. En réutilisant le pouvoir, il ressort.
+>
+> ⚠ <mark style="color:red;">**Zetsu**</mark> ne peut pas frapper pendant la fusion.
+
+➜ <mark style="color:$success;">**Spores**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+
+> <mark style="color:red;">**Zetsu**</mark> accroche des spores à un joueur à moins de **15 blocs** pendant **1 minute**. Il est prévenu de chaque pouvoir que ce joueur utilise. En réutilisant le pouvoir, les spores donnent **Lenteur II** pendant **3 secondes**.
+
+➜ <mark style="color:$success;">**Clone de Zetsu Blanc**</mark> • `Clic-Droit` • ⌚ : 10 minutes
+
+> `Clic-Droit` sur un cadavre : <mark style="color:red;">**Zetsu**</mark> mémorise son apparence. Il peut ensuite prendre son skin et son pseudo pendant **1 minute**.
+>
+> ⚠ Le déguisement tombe après **3 coups** reçus.
+
+➜ <mark style="color:$success;">**Racines**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+
+> Les joueurs à moins de **15 blocs** sont enfermés dans un cocon de bois incassable pendant **2 secondes**. Ils ne peuvent pas en sortir et subissent **1**<mark style="color:$danger;">**❤**</mark>.
+
+➜ <mark style="color:$success;">**Réseau Souterrain**</mark> • `/ns zetsu <joueur>` • ⌚ : 8 minutes
+
+> À partir d'**1 heure** de jeu, avec `/ns zetsu <joueur>`, <mark style="color:red;">**Zetsu**</mark> parle à deux sur Mumble pendant **30 secondes** avec un membre de l'Akatsuki, peu importe la distance.
+>
+> ⚠ Si le joueur choisi n'est pas de l'Akatsuki, le réseau ne s'ouvre pas, mais le cooldown de **8 minutes** est lancé.
+
+➜ <mark style="color:$success;">**Gedō Mazō**</mark> • `Clic-Droit` sur la statue
+
+> <mark style="color:red;">**Zetsu**</mark> scelle des Bijû dans le Gedō Mazō avec son camp pour réveiller Jûbi (voir [Le Réveil de Jûbi](../../particularites/jubi/reveil-de-jubi.md)).
+
+{% endhint %}
+
+***

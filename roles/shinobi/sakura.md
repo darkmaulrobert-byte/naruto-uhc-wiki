@@ -1,0 +1,53 @@
+---
+icon: hand-fist
+description: Camp : Shinobi • une nature aléatoire
+---
+
+# ▸ Sakura Haruno
+
+{% hint style="info" icon="hand-fist" %}
+
+<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>IDENTITÉ</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
+
+➜ <mark style="color:$success;">**Camp**</mark> • <mark style="color:green;">**Shinobi**</mark>
+
+> Objectif : gagner avec les <mark style="color:green;">**Shinobi**</mark>.
+
+➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
+
+> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : une nature aléatoire.
+
+{% endhint %}
+
+{% hint style="info" icon="hand-fist" %}
+
+<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>COMPÉTENCES</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
+
+➜ <mark style="color:$success;">**Force surhumaine**</mark> • `Particularités`
+
+> Tous les **15 coups**, <mark style="color:green;">**Sakura**</mark> peut faire un smash. Le joueur touché subit **1,5**<mark style="color:$danger;">**❤**</mark> et il est projeté à **15 blocs**, en cassant les blocs sur son passage.
+
+➜ <mark style="color:$success;">**Soin médical**</mark> • `Passif`
+
+> <mark style="color:green;">**Sakura**</mark> a **1 chance sur 10** de manger une pomme d'or instantanément.
+
+{% endhint %}
+
+{% hint style="info" icon="hand-fist" %}
+
+<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
+
+➜ <mark style="color:$success;">**Katsuyu**</mark> • `Clic-Droit` • ⌚ : 10 minutes
+
+> Katsuyu se pose sur l'épaule de <mark style="color:green;">**Sakura**</mark> pendant **2 minutes** et agit toutes les **20 secondes** :
+>
+> * **Soin :** elle donne **Régénération II** pendant **6 secondes** aux joueurs colorés en vert à moins de **20 blocs**.
+> * **Acide :** le dernier joueur frappé par <mark style="color:green;">**Sakura**</mark> brille en vert, subit **1**<mark style="color:$danger;">**❤**</mark>, puis **½**<mark style="color:$danger;">**❤**</mark> toutes les **2 secondes** pendant **4 secondes**.
+
+➜ <mark style="color:$success;">**Impact**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+
+> <mark style="color:green;">**Sakura**</mark> fait un dash de **20 blocs** et crée un cratère de **5 × 5** à l'arrivée. Les joueurs pris dedans subissent **2**<mark style="color:$danger;">**❤**</mark> et sont projetés à **10 blocs**.
+
+{% endhint %}
+
+***
