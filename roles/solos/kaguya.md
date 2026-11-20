@@ -1,6 +1,6 @@
 ---
 icon: moon
-description: Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton
+description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 ---
 
 # ▸ Kaguya Ôtsutsuki

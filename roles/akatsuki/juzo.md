@@ -1,6 +1,6 @@
 ---
 icon: khanda
-description: Camp : Akatsuki • Suiton
+description: "Camp : Akatsuki • Suiton"
 ---
 
 # ▸ Jūzō Biwa

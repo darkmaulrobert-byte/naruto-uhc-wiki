@@ -1,6 +1,6 @@
 ---
 icon: crow
-description: Camp : Akatsuki • Katon et Suiton
+description: "Camp : Akatsuki • Katon et Suiton"
 ---
 
 # ▸ Itachi Uchiwa

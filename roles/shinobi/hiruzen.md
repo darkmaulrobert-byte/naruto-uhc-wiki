@@ -1,6 +1,6 @@
 ---
 icon: fire
-description: Camp : Shinobi • une nature aléatoire au début de la partie
+description: "Camp : Shinobi • une nature aléatoire au début de la partie"
 ---
 
 # ▸ Hiruzen Sarutobi

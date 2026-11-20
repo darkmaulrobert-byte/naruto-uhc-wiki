@@ -1,6 +1,6 @@
 ---
 icon: hand-fist
-description: Camp : Shinobi • une nature aléatoire
+description: "Camp : Shinobi • une nature aléatoire"
 ---
 
 # ▸ Sakura Haruno

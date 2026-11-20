@@ -1,6 +1,6 @@
 ---
 icon: location-crosshairs
-description: Camp : Shinobi • Fûton
+description: "Camp : Shinobi • Fûton"
 ---
 
 # ▸ Minato Namikaze

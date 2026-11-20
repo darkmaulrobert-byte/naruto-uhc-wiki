@@ -1,6 +1,6 @@
 ---
 icon: frog
-description: Camp : Shinobi • Katon et Doton
+description: "Camp : Shinobi • Katon et Doton"
 ---
 
 # ▸ Jiraya

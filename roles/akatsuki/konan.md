@@ -1,6 +1,6 @@
 ---
 icon: paper-plane
-description: Camp : Akatsuki • Fûton
+description: "Camp : Akatsuki • Fûton"
 ---
 
 # ▸ Konan

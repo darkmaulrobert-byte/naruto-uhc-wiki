@@ -1,6 +1,6 @@
 ---
 icon: hourglass-half
-description: Camp : Shinobi • Doton et Fûton
+description: "Camp : Shinobi • Doton et Fûton"
 ---
 
 # ▸ Gaara

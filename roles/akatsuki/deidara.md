@@ -1,6 +1,6 @@
 ---
 icon: bomb
-description: Camp : Akatsuki • Doton et Raiton
+description: "Camp : Akatsuki • Doton et Raiton"
 ---
 
 # ▸ Deidara

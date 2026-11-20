@@ -1,6 +1,6 @@
 ---
 icon: mask
-description: Camp : Akatsuki • Doton au départ ; autres natures liées aux cœurs acquis
+description: "Camp : Akatsuki • Doton au départ ; autres natures liées aux cœurs acquis"
 ---
 
 # ▸ Kakuzu

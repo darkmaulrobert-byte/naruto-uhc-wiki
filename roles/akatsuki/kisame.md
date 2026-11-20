@@ -1,6 +1,6 @@
 ---
 icon: fish
-description: Camp : Akatsuki • Suiton
+description: "Camp : Akatsuki • Suiton"
 ---
 
 # ▸ Kisame Hoshigaki

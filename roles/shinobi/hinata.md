@@ -1,6 +1,6 @@
 ---
 icon: hands
-description: Camp : Shinobi • une nature aléatoire
+description: "Camp : Shinobi • une nature aléatoire"
 ---
 
 # ▸ Hinata Hyûga

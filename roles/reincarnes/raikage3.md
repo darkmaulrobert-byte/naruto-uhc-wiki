@@ -1,6 +1,6 @@
 ---
 icon: hand-back-fist
-description: Camp : Réincarnés • Raiton
+description: "Camp : Réincarnés • Raiton"
 ---
 
 # ▸ Sandaime Raikage

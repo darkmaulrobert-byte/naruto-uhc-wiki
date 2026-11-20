@@ -1,6 +1,6 @@
 ---
 icon: snowflake
-description: Camp : Réincarnés • Suiton
+description: "Camp : Réincarnés • Suiton"
 ---
 
 # ▸ Haku

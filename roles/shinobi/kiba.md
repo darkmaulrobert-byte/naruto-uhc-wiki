@@ -1,6 +1,6 @@
 ---
 icon: dog
-description: Camp : Shinobi • Doton
+description: "Camp : Shinobi • Doton"
 ---
 
 # ▸ Kiba

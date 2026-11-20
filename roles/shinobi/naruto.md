@@ -1,6 +1,6 @@
 ---
 icon: hurricane
-description: Camp : Shinobi • Fûton
+description: "Camp : Shinobi • Fûton"
 ---
 
 # ▸ Naruto Uzumaki

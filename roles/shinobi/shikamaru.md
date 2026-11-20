@@ -1,6 +1,6 @@
 ---
 icon: chess-knight
-description: Camp : Shinobi • une nature aléatoire
+description: "Camp : Shinobi • une nature aléatoire"
 ---
 
 # ▸ Shikamaru Nara

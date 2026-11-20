@@ -1,6 +1,6 @@
 ---
 icon: staff-snake
-description: Camp : Réincarnés • Doton et Suiton
+description: "Camp : Réincarnés • Doton et Suiton"
 ---
 
 # ▸ Kabuto Yakushi

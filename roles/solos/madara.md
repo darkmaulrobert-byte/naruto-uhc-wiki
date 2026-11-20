@@ -1,6 +1,6 @@
 ---
 icon: meteor
-description: Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton
+description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 ---
 
 # ▸ Madara Uchiwa

@@ -1,6 +1,6 @@
 ---
 icon: bullseye
-description: Camp : Akatsuki • Katon, Suiton, Raiton, Fûton et Doton
+description: "Camp : Akatsuki • Katon, Suiton, Raiton, Fûton et Doton"
 ---
 
 # ▸ Nagato

@@ -1,6 +1,6 @@
 ---
 icon: mountain
-description: Camp : Shinobi • Doton et Fûton
+description: "Camp : Shinobi • Doton et Fûton"
 ---
 
 # ▸ Ônoki

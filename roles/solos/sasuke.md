@@ -1,6 +1,6 @@
 ---
 icon: bolt
-description: Camp : Solos • Katon et Raiton
+description: "Camp : Solos • Katon et Raiton"
 ---
 
 # ▸ Sasuke Uchiwa

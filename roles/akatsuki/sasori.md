@@ -1,6 +1,6 @@
 ---
 icon: masks-theater
-description: Camp : Akatsuki • Doton
+description: "Camp : Akatsuki • Doton"
 ---
 
 # ▸ Sasori

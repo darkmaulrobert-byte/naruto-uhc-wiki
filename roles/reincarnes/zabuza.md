@@ -1,6 +1,6 @@
 ---
 icon: smog
-description: Camp : Réincarnés • Suiton
+description: "Camp : Réincarnés • Suiton"
 ---
 
 # ▸ Zabuza Momochi

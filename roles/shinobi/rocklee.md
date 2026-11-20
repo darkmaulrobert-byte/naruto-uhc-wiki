@@ -1,6 +1,6 @@
 ---
 icon: person-running
-description: Camp : Shinobi • une nature aléatoire
+description: "Camp : Shinobi • une nature aléatoire"
 ---
 
 # ▸ Rock Lee

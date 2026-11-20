@@ -1,6 +1,6 @@
 ---
 icon: eye-slash
-description: Camp : Réincarnés • Doton et Fûton
+description: "Camp : Réincarnés • Doton et Fûton"
 ---
 
 # ▸ Mû

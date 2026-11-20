@@ -1,6 +1,6 @@
 ---
 icon: droplet
-description: Camp : Akatsuki • une nature aléatoire
+description: "Camp : Akatsuki • une nature aléatoire"
 ---
 
 # ▸ Hidan

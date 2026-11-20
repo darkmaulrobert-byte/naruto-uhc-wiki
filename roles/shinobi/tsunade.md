@@ -1,6 +1,6 @@
 ---
 icon: kit-medical
-description: Camp : Shinobi • Doton
+description: "Camp : Shinobi • Doton"
 ---
 
 # ▸ Tsunade

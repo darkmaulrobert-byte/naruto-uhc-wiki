@@ -1,6 +1,6 @@
 ---
 icon: volcano
-description: Camp : Shinobi • Suiton et Katon
+description: "Camp : Shinobi • Suiton et Katon"
 ---
 
 # ▸ Mei Terumî

@@ -1,6 +1,6 @@
 ---
 icon: drumstick-bite
-description: Camp : Shinobi • Doton
+description: "Camp : Shinobi • Doton"
 ---
 
 # ▸ Chôji Akimichi

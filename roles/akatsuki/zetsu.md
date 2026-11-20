@@ -1,6 +1,6 @@
 ---
 icon: seedling
-description: Camp : Akatsuki • Doton
+description: "Camp : Akatsuki • Doton"
 ---
 
 # ▸ Zetsu

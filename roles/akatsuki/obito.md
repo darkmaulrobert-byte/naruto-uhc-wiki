@@ -1,6 +1,6 @@
 ---
 icon: tornado
-description: Camp : Akatsuki • Katon et Doton
+description: "Camp : Akatsuki • Katon et Doton"
 ---
 
 # ▸ Obito Uchiwa

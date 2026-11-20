@@ -1,6 +1,6 @@
 ---
 icon: eye
-description: Camp : Shinobi • Raiton et Suiton
+description: "Camp : Shinobi • Raiton et Suiton"
 ---
 
 # ▸ Kakashi Hatake

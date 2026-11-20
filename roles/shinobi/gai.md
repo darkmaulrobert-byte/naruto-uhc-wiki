@@ -1,6 +1,6 @@
 ---
 icon: dumbbell
-description: Camp : Shinobi • une nature aléatoire
+description: "Camp : Shinobi • une nature aléatoire"
 ---
 
 # ▸ Gaï Maito

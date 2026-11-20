@@ -1,6 +1,6 @@
 ---
 icon: bolt-lightning
-description: Camp : Shinobi • Raiton
+description: "Camp : Shinobi • Raiton"
 ---
 
 # ▸ Yondaime Raikage

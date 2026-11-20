@@ -1,6 +1,6 @@
 ---
 icon: music
-description: Camp : Shinobi • Raiton
+description: "Camp : Shinobi • Raiton"
 ---
 
 # ▸ Killer Bee
