@@ -49,7 +49,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 > **Sixième Porte** • ⏳ 1 minute • ⌚ 12 minutes
 >
 > * Les effets de la Troisième Porte.
-> * Tous les **10 coups** : un coup **×1,2** sans délai d'invulnérabilité, avec **5 %** de chances d'enflammer.
+> * Tous les **10 coups** : un coup **×1,2** en **no hit delay**, avec **5 %** de chances d'enflammer.
 > * Quand il est frappé : **5 %** de chances de se téléporter dans le dos de l'attaquant.
 
 {% endhint %}

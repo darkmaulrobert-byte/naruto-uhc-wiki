@@ -33,13 +33,17 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 
 ➜ <mark style="color:$success;">**Dimension de Glace**</mark> • `Particularités`
 
-> <mark style="color:orange;">**Kaguya**</mark> a <mark style="color:cyan;">**Vitesse I**</mark>. Le sol se change en glace sur **3 × 3 blocs** sous ses pas. Le gel des ennemis monte de **2 %** par seconde et à chacun de ses coups.
+> Un désert gelé s'étend à perte de vue. <mark style="color:orange;">**Kaguya**</mark> y glisse avec <mark style="color:cyan;">**Vitesse I**</mark>, et le sol se change en glace sur **3 × 3 blocs** sous chacun de ses pas.
 >
-> À **100 %**, ils sont immobilisés **1,5 seconde**, puis le gel revient à **0 %**.
+> Le froid gagne peu à peu ses ennemis : leur gel monte de **2 %** chaque seconde, et de **5 %** à chaque coup qu'elle leur porte.
+>
+> À **100 %**, le joueur est pris dans la glace et immobilisé **1,5 seconde**, puis son gel retombe à **0 %**.
 
 ➜ <mark style="color:$success;">**Dimension de Lave**</mark> • `Particularités`
 
-> Des météorites tombent au hasard, annoncées par un cercle orange : **1,5**<mark style="color:red;">**❤**</mark> et **5 secondes** de feu. <mark style="color:orange;">**Kaguya**</mark> a <mark style="color:cyan;">**Vitesse I**</mark>, et ses coups ont **15 %** de chances d'enflammer.
+> Le ciel brûle au-dessus d'une mer de lave. Des météorites s'abattent au hasard, chacune annoncée par un cercle orange au sol : **1,5**<mark style="color:red;">**❤**</mark> et **5 secondes** de feu à l'impact.
+>
+> <mark style="color:orange;">**Kaguya**</mark> s'y déplace avec <mark style="color:cyan;">**Vitesse I**</mark>, et chacun de ses coups a **15 %** de chances d'enflammer.
 >
 > ➜ <mark style="color:$success;">**Réutiliser l'objet**</mark> • **30 secondes**
 >
@@ -47,7 +51,9 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 
 ➜ <mark style="color:$success;">**Dimension de Gravité**</mark> • `Particularités`
 
-> Toutes les **10 secondes**, les ennemis sont projetés de **5 blocs** dans une direction au hasard. Projetés vers le bas, ils ne peuvent plus sauter jusqu'au changement suivant.
+> Ici, la gravité n'obéit qu'à <mark style="color:orange;">**Kaguya**</mark>. Toutes les **10 secondes**, elle change de sens : les ennemis sont projetés de **5 blocs** dans une direction au hasard.
+>
+> Plaqués vers le sol, ils ne peuvent plus sauter jusqu'au changement suivant.
 >
 > <mark style="color:orange;">**Kaguya**</mark> n'est jamais projetée : elle a <mark style="color:cyan;">**Vitesse II**</mark> et <mark style="color:$success;">**Sauts améliorés IV**</mark>. Les autres participants ont <mark style="color:cyan;">**Vitesse I**</mark>.
 

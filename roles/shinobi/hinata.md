@@ -31,7 +31,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 ➜ <mark style="color:$success;">**Hakke Kûshô**</mark> • `Passif`
 
-> Tous les **10 coups**, <mark style="color:green;">**Hinata**</mark> inflige **×1,2** les dégâts, sans délai d'invulnérabilité.
+> Tous les **10 coups**, la paume de <mark style="color:green;">**Hinata**</mark> frappe en **no hit delay** : le joueur est soulevé et peut être refrappé aussitôt.
 
 {% endhint %}
 

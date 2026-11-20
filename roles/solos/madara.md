@@ -55,7 +55,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 >
 > <mark style="color:red;">⚠ Avec ce pacte, </mark><mark style="color:red;">**Madara**</mark><mark style="color:red;"> garde </mark><mark style="color:red;">**10**</mark><mark style="color:red;">**❤**</mark><mark style="color:red;">, sans la vie des joueurs, ni la Traque des Bijû, ni le Gakidō.</mark>
 >
-> Tengai Shinsei ne s'utilise qu'**une fois par partie**, et le Susanoo se recharge en **15 minutes**.
+> Tengai Shinsei ne s'utilise qu'**une fois par partie**, et le cooldown du Susanoo passe à **15 minutes**.
 
 ➜ <mark style="color:$success;">**Gakidō — Absorption**</mark> • `Passif`
 
@@ -86,9 +86,9 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 > * <mark style="color:blue;">**Résistance I**</mark> ;
 > * ses coups d'épée ont **25 %** de chances d'enflammer.
 >
-> <mark style="color:red;">⚠ Avec le </mark><mark style="color:red;">**pacte 2**</mark><mark style="color:red;">, le Susanoo se recharge en </mark><mark style="color:red;">**15 minutes**</mark><mark style="color:red;"> au lieu de </mark><mark style="color:red;">**10 minutes**</mark><mark style="color:red;">.</mark>
+> <mark style="color:red;">⚠ Avec le </mark><mark style="color:red;">**pacte 2**</mark><mark style="color:red;">, le cooldown du Susanoo passe à </mark><mark style="color:red;">**15 minutes**</mark><mark style="color:red;"> au lieu de </mark><mark style="color:red;">**10 minutes**</mark><mark style="color:red;">.</mark>
 
-➜ <mark style="color:$success;">**Rinnegan**</mark> • `Clic-Droit`
+➜ <mark style="color:$success;">**Rinnegan**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
 > `Clic-Droit` : une onde part tout autour de <mark style="color:orange;">**Madara**</mark> : elle détruit les blocs dans un rayon de **30 blocs** et projette les joueurs à **30 blocs**.
 >

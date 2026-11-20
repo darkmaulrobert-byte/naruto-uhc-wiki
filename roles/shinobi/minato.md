@@ -48,7 +48,7 @@ description: "Camp : Shinobi • Fûton"
 >
 > `Clic-Gauche` : il projette le joueur visé au loin.
 >
-> ➜ Ces deux actions se rechargent en **20 secondes**.
+> ➜ Ces deux actions ont un cooldown de **20 secondes**.
 
 {% endhint %}
 

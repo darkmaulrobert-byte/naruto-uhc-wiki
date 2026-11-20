@@ -47,6 +47,8 @@ description: "Camp : Shinobi • Doton"
 >
 > Chaque rôle a toujours la même catégorie. `/ns chakra` seul affiche les quatre catégories.
 >
+> Voir [Catégories de chakra](../../particularites/categories-de-chakra.md).
+>
 > <mark style="color:red;">⚠ Ces catégories n'ont rien à voir avec les </mark><mark style="color:red;">**natures de chakra**</mark><mark style="color:red;"> (Katon, Suiton…).</mark>
 
 ➜ <mark style="color:$success;">**Akamaru**</mark> • `Clic-Droit`

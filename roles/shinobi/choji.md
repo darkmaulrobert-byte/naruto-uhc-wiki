@@ -35,13 +35,13 @@ description: "Camp : Shinobi • Doton"
 
 ➜ <mark style="color:$success;">**Nikudan Sensha**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 
-> <mark style="color:green;">**Chôji**</mark> se transforme en boule de **15**<mark style="color:red;">**❤**</mark> qui roule là où il regarde, à **3 blocs par seconde**, et grimpe les obstacles jusqu'à **3 blocs**.
+> <mark style="color:green;">**Chôji**</mark> se transforme en boule de **30 PV** (**15**<mark style="color:red;">**❤**</mark>) qui roule là où il regarde, à **3 blocs par seconde**, et grimpe les obstacles jusqu'à **3 blocs**.
 >
 > Chaque joueur écrasé subit **1**<mark style="color:red;">**❤**</mark> et il est projeté à **20 blocs**.
 >
 > Réutiliser l'objet lui rend sa forme normale.
 >
-> <mark style="color:red;">⚠ Dans la boule, </mark><mark style="color:red;">**Chôji**</mark><mark style="color:red;"> est invisible mais ne peut ni frapper ni tirer. Si la boule perd ses 15 cœurs, elle disparaît.</mark>
+> <mark style="color:red;">⚠ Dans la boule, </mark><mark style="color:red;">**Chôji**</mark><mark style="color:red;"> est invisible mais ne peut ni frapper ni tirer. Si la boule perd ses 30 PV, elle disparaît.</mark>
 
 ➜ <mark style="color:$success;">**Chō Harite**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 

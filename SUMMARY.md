@@ -49,6 +49,7 @@
 * [▸ Particularités](particularites/README.md)
   * [▸ Système de Hokage](particularites/systeme-de-hokage.md)
   * [▸ Natures de chakra](particularites/natures-de-chakra.md)
+  * [▸ Catégories de chakra](particularites/categories-de-chakra.md)
   * [▸ Liste de l'Akatsuki](particularites/liste-de-lakatsuki.md)
   * [▸ Liste des Réincarnés](particularites/liste-des-reincarnes.md)
   * [▸ Bijû](particularites/biju/README.md)

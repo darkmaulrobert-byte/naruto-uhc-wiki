@@ -29,7 +29,7 @@ description: "Camp : Shinobi • Doton et Fûton"
 >
 > `/ns sable` ouvre sa réserve : il peut y déposer du sable ramassé.
 >
-> <mark style="color:red;">⚠ Le sable ne se recharge pas pendant un pouvoir qui en consomme.</mark>
+> <mark style="color:red;">⚠ Le sable ne se régénère pas pendant un pouvoir qui en consomme.</mark>
 
 {% endhint %}
 

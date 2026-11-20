@@ -33,7 +33,7 @@ description: "Camp : Shinobi • une nature aléatoire au début de la partie"
 
 > Quand <mark style="color:green;">**Hiruzen**</mark> passe sous **4**<mark style="color:red;">**❤**</mark>, sa prochaine technique élémentaire est disponible tout de suite, même en cooldown.
 >
-> <mark style="color:red;">⚠ Ne marche pas pour l'Enchaînement. Se recharge en </mark><mark style="color:red;">**4 minutes**</mark><mark style="color:red;">.</mark>
+> <mark style="color:red;">⚠ Ne marche pas pour l'Enchaînement. Cooldown : </mark><mark style="color:red;">**4 minutes**</mark><mark style="color:red;">.</mark>
 
 {% endhint %}
 

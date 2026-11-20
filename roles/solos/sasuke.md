@@ -33,7 +33,7 @@ description: "Camp : Solos • Katon et Raiton"
 >
 > * Amaterasu ne lui donne plus de <mark style="color:violet;">**Cécité**</mark>.
 > * Ses coups d'épée ont **15 %** de chances d'enflammer.
-> * S'il a tué [<mark style="color:red;">**Itachi**</mark>](../akatsuki/itachi.md) lui-même, son Susanoo se recharge en **10 minutes**.
+> * S'il a tué [<mark style="color:red;">**Itachi**</mark>](../akatsuki/itachi.md) lui-même, le cooldown de son Susanoo passe à **10 minutes**.
 
 ➜ <mark style="color:$success;">**Sharingan**</mark> • `Passif`
 

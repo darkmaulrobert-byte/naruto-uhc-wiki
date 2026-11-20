@@ -59,7 +59,7 @@ description: "Camp : Akatsuki • Suiton"
 
 > <mark style="color:red;">**Kisame**</mark> lance une tête de requin vers le joueur visé, jusqu'à **30 blocs**. Si elle le touche, elle s'accroche à lui : il subit **2**<mark style="color:red;">**❤**</mark>, puis **½**<mark style="color:red;">**❤**</mark> toutes les **5 secondes**.
 >
-> Le joueur peut toujours bouger. Il se libère en frappant le requin.
+> Le joueur peut toujours bouger. Il se libère en frappant le requin, qui a **5**<mark style="color:red;">**❤**</mark>.
 
 ➜ <mark style="color:$success;">**Senshokuzame**</mark> • `Clic-Droit` • ⌚ : 10 minutes
 
