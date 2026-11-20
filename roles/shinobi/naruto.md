@@ -96,7 +96,8 @@ description: "Camp : Shinobi • Fûton"
 >
 > Si <mark style="color:green;">**Naruto**</mark> descend à **2**<mark style="color:red;">**❤**</mark>, il perd le combat :
 >
-> * Kurama contrôle son corps pendant **5 minutes**. Il frappe tous les joueurs comme une épée en diamant **Tranchant III** (leur armure compte), et part à leur recherche s'il ne voit personne.
+> * Kurama contrôle son corps pendant **5 minutes**. Il poursuit les joueurs qu'il voit et les frappe comme une épée en diamant **Tranchant III** (leur armure compte). S'il ne voit personne, il marche tranquillement.
+> * <mark style="color:green;">**Naruto**</mark> regarde son corps en spectateur invisible : il vole, mais ne peut ni frapper, ni être frappé, ni utiliser ses pouvoirs, et ne peut pas s'éloigner à plus de **30 blocs** de son corps.
 > * Si ce corps est tué, <mark style="color:green;">**Naruto**</mark> meurt.
 
 ➜ <mark style="color:$success;">**Mode Kurama**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 15 minutes
