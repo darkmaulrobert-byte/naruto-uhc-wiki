@@ -23,11 +23,11 @@ description: "Camp : Shinobi • Doton et Fûton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>COMPÉTENCES</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Réserve de sable**</mark> • `/ns sable`
+➜ <mark style="color:$success;">**Réserve de sable**</mark> • `Passif`
 
-> <mark style="color:green;">**Gaara**</mark> possède **500** de sable au début de la partie (**1 728** au maximum) et en gagne **5** toutes les **2 secondes**.
+> <mark style="color:green;">**Gaara**</mark> commence avec **500** de sable (**1 728** au maximum) et en regagne **5** toutes les **2 secondes**. Ses pouvoirs consomment ce sable.
 >
-> La commande `/ns sable` ouvre sa réserve, dans laquelle il peut aussi déposer du sable.
+> `/ns sable` ouvre sa réserve : il peut y déposer du sable ramassé.
 >
 > <mark style="color:red;">⚠ Le sable ne se recharge pas pendant un pouvoir qui en consomme.</mark>
 
@@ -37,33 +37,29 @@ description: "Camp : Shinobi • Doton et Fûton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Bouclier de Sable**</mark> • `Clic-Droit` • ⌚ : 5 secondes entre chaque activation
+➜ <mark style="color:$success;">**Bouclier de Sable**</mark> • `Clic-Droit` • ⌚ : 5 secondes
 
-> <mark style="color:green;">**Gaara**</mark> **active** ou **désactive** son bouclier. Tous les **10 coups reçus**, un coup est annulé.
+> <mark style="color:green;">**Gaara**</mark> **active** ou **désactive** son bouclier. Tant qu'il est actif, un coup sur **10** reçus est annulé. Coût : **5** sable par seconde.
+
+➜ <mark style="color:$success;">**Nuage de Sable**</mark> • `Clic-Droit` • ⌚ : 1 minute
+
+> <mark style="color:green;">**Gaara**</mark> s'élève à **10 blocs** sur une plateforme de sable de **5 × 5**. Quand il se déplace, une nouvelle plateforme se forme sous lui. Coût : **50** sable par plateforme.
+
+➜ <mark style="color:$success;">**Troisième Œil**</mark> • `Clic-Droit` • ⌚ : 10 minutes
+
+> <mark style="color:green;">**Gaara**</mark> pose un œil sur le joueur visé.
 >
-> **Coût : 5 sable/s.**
-
-➜ <mark style="color:$success;">**Nuage de Sable**</mark> • `Clic-Droit` • ⌚ : 1 minute entre chaque activation
-
-> <mark style="color:green;">**Gaara**</mark> s'élève à **10 blocs** sur une plateforme de sable de **5 × 5**. Une nouvelle plateforme apparaît sous lui à chacun de ses déplacements.
+> Il est prévenu quand ce joueur utilise un pouvoir, mange une pomme d'or, frappe ou est frappé (avec le pseudo de l'autre joueur), ou change de camp.
 >
-> **Coût : 50 sable/plateforme.**
-
-➜ <mark style="color:$success;">**Troisième Œil**</mark> • `Clic-Droit` • ⌚ : 10 minutes entre chaque activation
-
-> <mark style="color:green;">**Gaara**</mark> pose un œil sur le joueur visé. Il est prévenu quand ce joueur change de camp, utilise un pouvoir, mange une pomme d'or, frappe ou est frappé, avec le pseudo de l'autre joueur.
->
-> **Coût : 100 sable/min.**
+> Coût : **100** sable par minute.
 
 ➜ <mark style="color:$success;">**Sarcophage de Sable**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> <mark style="color:green;">**Gaara**</mark> enferme le joueur visé dans une sphère de sable pendant **3 secondes**.
+> <mark style="color:green;">**Gaara**</mark> enferme le joueur visé dans une sphère de sable pendant **3 secondes**. Coût : **300** sable.
 >
-> ➜ <mark style="color:$success;">**Compression**</mark> • `Clic-Droit` • **150** sable
+> ➜ <mark style="color:$success;">**Compression**</mark> • `Clic-Droit` • ⌚ : 150 sable
 >
 > > la sphère explose, inflige **2**<mark style="color:red;">**❤**</mark> et libère le joueur.
->
-> **Coût : 300 sable.**
 
 {% endhint %}
 

@@ -25,9 +25,9 @@ description: "Camp : Shinobi • Fûton"
 
 ➜ <mark style="color:$success;">**Multi-clonage**</mark> • `/ns clone <nombre>`
 
-> Avec `/ns clone <nombre>`, <mark style="color:green;">**Naruto**</mark> invoque **1 à 3 clones**. Chaque clone possède **10**<mark style="color:red;">**❤**</mark> et frappe comme une **épée en diamant Tranchant III**, toutes les **2 secondes**.
+> `/ns clone <nombre>` : <mark style="color:green;">**Naruto**</mark> invoque **1 à 3 clones**. Chaque clone a **10**<mark style="color:red;">**❤**</mark> et frappe comme une épée en diamant **Tranchant III**, toutes les **2 secondes**.
 >
-> <mark style="color:red;">⚠ Chaque clone ajoute </mark><mark style="color:red;">**5 minutes**</mark><mark style="color:red;"> au cooldown, soit </mark><mark style="color:red;">**15 minutes**</mark><mark style="color:red;"> pour trois clones.</mark>
+> <mark style="color:red;">⚠ Chaque clone ajoute </mark><mark style="color:red;">**5 minutes**</mark><mark style="color:red;"> au cooldown : </mark><mark style="color:red;">**15 minutes**</mark><mark style="color:red;"> pour trois clones.</mark>
 
 ➜ <mark style="color:$success;">**Rasengan**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
@@ -35,7 +35,7 @@ description: "Camp : Shinobi • Fûton"
 
 ➜ <mark style="color:$success;">**Rasenshuriken**</mark> • `Clic-Droit` • ⌚ : 15 minutes
 
-> Deux clones aident <mark style="color:green;">**Naruto**</mark> à former l'orbe pendant **5 secondes**. L'orbe part ensuite vers le joueur visé, jusqu'à **30 blocs**.
+> Deux clones aident <mark style="color:green;">**Naruto**</mark> à former l'orbe pendant **5 secondes**, sans bouger. L'orbe part ensuite vers le joueur visé, jusqu'à **30 blocs**.
 >
 > À l'impact, elle détruit les blocs, attire les joueurs touchés et leur inflige **2,5**<mark style="color:red;">**❤**</mark>.
 >
@@ -97,7 +97,7 @@ description: "Camp : Shinobi • Fûton"
 > Si <mark style="color:green;">**Naruto**</mark> descend à **2**<mark style="color:red;">**❤**</mark>, il perd le combat :
 >
 > * Kurama contrôle son corps pendant **5 minutes**. Il frappe tous les joueurs, et part à leur recherche s'il ne voit personne.
-> * Si ce corps meurt, <mark style="color:green;">**Naruto**</mark> meurt et Kyûbi est libéré.
+> * Si ce corps est tué, <mark style="color:green;">**Naruto**</mark> meurt.
 
 ➜ <mark style="color:$success;">**Mode Kurama**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 15 minutes
 

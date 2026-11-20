@@ -35,7 +35,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 ➜ <mark style="color:$success;">**Disparition**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> <mark style="color:green;">**Gaï**</mark> se téléporte dans le dos du joueur choisi, à moins de **15 blocs**.
+> <mark style="color:green;">**Gaï**</mark> se téléporte dans le dos du joueur visé, à moins de **15 blocs**.
 
 ➜ <mark style="color:$success;">**Les Huit Portes**</mark> • `Clic-Droit`
 

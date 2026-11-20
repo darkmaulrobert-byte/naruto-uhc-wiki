@@ -39,9 +39,10 @@ description: "Camp : Réincarnés • Doton et Suiton"
 
 ➜ <mark style="color:$success;">**Mode Ermite des Serpents**</mark> • `Passif`
 
-> Le Mode Ermite de <mark style="color:blue;">**Kabuto**</mark> est toujours actif. Il voit la vie des joueurs en pourcentage sous leur pseudo. En dessous de **50 %**, le compteur reste bloqué à **50 %**.
+> Le Mode Ermite de <mark style="color:blue;">**Kabuto**</mark> est toujours actif :
 >
-> Quand un joueur mange une pomme d'or à moins de **20 blocs**, <mark style="color:blue;">**Kabuto**</mark> a **10 %** de chances de lui voler **1**<mark style="color:red;">**❤**</mark> d'<mark style="color:yellow;">absorption</mark>.
+> * il voit la vie des joueurs en pourcentage sous leur pseudo, bloquée à **50 %** quand elle descend plus bas ;
+> * quand un joueur mange une pomme d'or à moins de **20 blocs**, <mark style="color:blue;">**Kabuto**</mark> a **10 %** de chances de lui voler **1**<mark style="color:red;">**❤**</mark> d'<mark style="color:yellow;">absorption</mark>.
 
 {% endhint %}
 
@@ -51,14 +52,14 @@ description: "Camp : Réincarnés • Doton et Suiton"
 
 ➜ <mark style="color:$success;">**Rage Blanche**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> <mark style="color:blue;">**Kabuto**</mark> lance une boule blanche jusqu'à **20 blocs**. Elle explose sur le premier joueur ou bloc touché :
+> <mark style="color:blue;">**Kabuto**</mark> lance une boule blanche vers le point visé, jusqu'à **20 blocs**. Elle explose sur le premier joueur ou bloc touché :
 >
-> * Les joueurs à moins de **20 blocs** qui regardent la boule, sans bloc entre eux et elle, subissent <mark style="color:violet;">**Cécité**</mark> pendant **5 secondes**.
-> * Les joueurs à moins de **5 blocs** sont immobilisés **0,2 seconde**.
+> * les joueurs à moins de **20 blocs** qui regardent l'explosion subissent <mark style="color:violet;">**Cécité**</mark> pendant **5 secondes** ;
+> * les joueurs à moins de **5 blocs** sont immobilisés **0,2 seconde**.
 
 ➜ <mark style="color:$success;">**Manipulation des Âmes**</mark> • `Clic-Droit` • ⌚ : 1x/partie
 
-> `Clic-Droit` sur le cadavre d'un joueur : <mark style="color:blue;">**Kabuto**</mark> le réanime. Ce joueur rejoint les **Réincarnés** et garde les pouvoirs de son rôle.
+> `Clic-Droit` sur le cadavre d'un joueur : <mark style="color:blue;">**Kabuto**</mark> le réanime. Ce joueur rejoint les Réincarnés et garde les pouvoirs de son rôle.
 >
 > Il revient avec une armure en fer **Protection II**, une épée en diamant **Tranchant II** et **3 pommes d'or**, sans son ancien inventaire.
 >
@@ -72,9 +73,9 @@ description: "Camp : Réincarnés • Doton et Suiton"
 
 > Des blocs s'arrachent du sol dans un rayon de **30 blocs** autour de <mark style="color:blue;">**Kabuto**</mark> et flottent à **15 blocs** de haut.
 >
-> Pendant **2 minutes**, un de ces blocs tombe toutes les **2 secondes** à un endroit au hasard de la zone et explose : les joueurs touchés subissent **1,5**<mark style="color:red;">**❤**</mark>.
+> Pendant **2 minutes**, un bloc tombe toutes les **2 secondes** au hasard dans la zone et explose : **1,5**<mark style="color:red;">**❤**</mark> aux joueurs touchés.
 >
-> ➜ En réutilisant le pouvoir, <mark style="color:blue;">**Kabuto**</mark> choisit l'endroit visé de la zone où tombe le prochain bloc, une fois toutes les **30 secondes**.
+> ➜ Réutiliser le pouvoir, une fois toutes les **30 secondes**, fait tomber le prochain bloc là où <mark style="color:blue;">**Kabuto**</mark> vise.
 
 {% endhint %}
 

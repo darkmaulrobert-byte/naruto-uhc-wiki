@@ -33,14 +33,6 @@ description: "Camp : Réincarnés • Suiton"
 
 > <mark style="color:blue;">**Haku**</mark> possède <mark style="color:cyan;">**Vitesse I**</mark> en permanence.
 
-➜ <mark style="color:$success;">**Lancer de Senbon**</mark> • `Particularités`
-
-> <mark style="color:blue;">**Haku**</mark> possède **3 aiguilles**, affichées dans sa barre d'action. Une aiguille qui touche un joueur lui donne <mark style="color:green;">**Poison II**</mark> pendant **2 secondes**, sans autres dégâts.
->
-> L'aiguille lancée tombe au sol, ou aux pieds du joueur touché : <mark style="color:blue;">**Haku**</mark> la récupère en passant dessus. Sinon, elle revient seule au bout de **30 secondes**.
->
-> <mark style="color:red;">⚠ Un lancer toutes les </mark><mark style="color:red;">**10 secondes**</mark><mark style="color:red;"> au plus.</mark>
-
 {% endhint %}
 
 {% hint style="info" icon="snowflake" %}
@@ -49,17 +41,21 @@ description: "Camp : Réincarnés • Suiton"
 
 ➜ <mark style="color:$success;">**Makyō Hyōshō — Miroirs de Glace**</mark> • `Clic-Droit` • ⏳ : 1 minute • ⌚ : 15 minutes
 
-> <mark style="color:blue;">**Haku**</mark> crée un dôme de glace arrondi de **50 blocs** de diamètre, fermé de toutes parts, pendant **1 minute**.
+> <mark style="color:blue;">**Haku**</mark> crée autour de lui un dôme de glace incassable de **50 blocs** de diamètre, fermé de toutes parts, pendant **1 minute**.
 >
-> Ses parois descendent jusqu'au sol et se prolongent sous terre (on ne passe ni dessous ni au travers), même en pente ou en forêt ; la glace ne se casse pas.
+> ➜ Réutiliser le pouvoir, au plus toutes les **5 secondes**, téléporte <mark style="color:blue;">**Haku**</mark> contre la paroi du dôme qu'il vise.
+
+➜ <mark style="color:$success;">**Lancer de Senbon**</mark> • `Clic-Droit`
+
+> <mark style="color:blue;">**Haku**</mark> possède **3 aiguilles**, affichées dans sa barre d'action. `Clic-Droit` lance une aiguille vers le point visé : le joueur touché subit <mark style="color:green;">**Poison II**</mark> pendant **2 secondes**.
 >
-> La minute commence une fois le dôme fermé.
+> L'aiguille tombe au sol, ou aux pieds du joueur touché. <mark style="color:blue;">**Haku**</mark> la récupère en passant dessus ; sinon, elle revient seule au bout de **30 secondes**.
 >
-> ➜ En réutilisant le pouvoir, <mark style="color:blue;">**Haku**</mark> se téléporte contre la paroi du dôme qu'il vise, même à travers les blocs, au plus une fois toutes les **5 secondes**.
+> <mark style="color:red;">⚠ Un lancer toutes les </mark><mark style="color:red;">**10 secondes**</mark><mark style="color:red;"> au plus.</mark>
 
 ➜ <mark style="color:$success;">**Sensatsu Suishō**</mark> • `Clic-Droit` • ⌚ : 10 minutes
 
-> Une pluie d'aiguilles tombe tout de suite du ciel, dans un rayon de **20 blocs** autour de <mark style="color:blue;">**Haku**</mark>. Chaque joueur touché subit <mark style="color:green;">**Poison II**</mark> pendant **3 secondes**.
+> Une pluie d'aiguilles tombe du ciel dans un rayon de **20 blocs** autour de <mark style="color:blue;">**Haku**</mark>. Chaque joueur touché subit <mark style="color:green;">**Poison II**</mark> pendant **3 secondes**.
 
 {% endhint %}
 

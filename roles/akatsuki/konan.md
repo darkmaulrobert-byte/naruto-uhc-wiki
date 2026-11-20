@@ -45,27 +45,31 @@ description: "Camp : Akatsuki • Fûton"
 
 ➜ <mark style="color:$success;">**Ailes d'Ange**</mark> • `Clic-Droit` • ⏳ : 1 minute • ⌚ : 10 minutes
 
-> Des ailes de papier apparaissent dans le dos de <mark style="color:red;">**Konan**</mark>. Elle peut faire un dash de **15 blocs** avec un double saut, toutes les **15 secondes**.
+> Des ailes de papier apparaissent dans le dos de <mark style="color:red;">**Konan**</mark> pendant **1 minute** :
 >
-> En réutilisant le pouvoir, elle lance des papiers explosifs qui infligent **1**<mark style="color:red;">**❤**</mark>.
+> * un double saut la propulse de **15 blocs**, toutes les **15 secondes** ;
+> * réutiliser le pouvoir lance des papiers explosifs devant elle, qui infligent **1**<mark style="color:red;">**❤**</mark>.
 
 ➜ <mark style="color:$success;">**Tranchée de Papier**</mark> • `Clic-Droit` • ⌚ : 1x/partie
 
-> <mark style="color:red;">**Konan**</mark> canalise pendant **5 secondes**, puis creuse une tranchée de **80 blocs** de profondeur sur **20 blocs** de large.
+> <mark style="color:red;">**Konan**</mark> se concentre **5 secondes** sans bouger, puis creuse devant elle une tranchée de **20 blocs** de large et **80 blocs** de profondeur.
 >
 > Pendant **30 secondes**, des papiers explosifs tombent au fond et infligent **1**<mark style="color:red;">**❤**</mark> aux joueurs touchés.
 >
-> <mark style="color:red;">⚠ Bouger pendant la canalisation annule le pouvoir. Ce pouvoir est utilisable </mark><mark style="color:red;">**une seule fois par partie**</mark><mark style="color:red;">.</mark>
+> <mark style="color:red;">⚠ Bouger pendant la concentration annule le pouvoir. Utilisable </mark><mark style="color:red;">**une seule fois par partie**</mark><mark style="color:red;">.</mark>
 
 ➜ <mark style="color:$success;">**Immobilisation**</mark> • `Clic-Droit` • ⌚ : 8 minutes
 
-> <mark style="color:red;">**Konan**</mark> vise un joueur à moins de **20 blocs**. Il s'élève dans le ciel, couvert de papiers. Après **3 secondes**, les papiers explosent : il subit **1,5**<mark style="color:red;">**❤**</mark> et recule de **5 blocs**.
+> <mark style="color:red;">**Konan**</mark> vise un joueur à moins de **20 blocs** : il s'élève dans le ciel, couvert de papiers. **3 secondes** plus tard, les papiers explosent : il subit **1,5**<mark style="color:red;">**❤**</mark> et recule de **5 blocs**.
 
-➜ <mark style="color:$success;">**Reconnaissance**</mark> • `Clic-Droit` • ⌚ : 8 minutes
+➜ <mark style="color:$success;">**Reconnaissance**</mark> • `Clic-Droit` • ⏳ : 1 minute • ⌚ : 8 minutes
 
-> Pendant **1 minute**, des feuilles de papier tournent autour de <mark style="color:red;">**Konan**</mark>.
+> Pendant **1 minute**, des feuilles de papier tournent autour de <mark style="color:red;">**Konan**</mark>. Toutes les **10 secondes**, une feuille vole vers un joueur à moins de **8 blocs** avec un effet au hasard :
 >
-> Toutes les **10 secondes**, une feuille vole vers un joueur à moins de **8 blocs** et lui applique au hasard : <mark style="color:violet;">**Cécité**</mark> pendant **2 secondes**, <mark style="color:purple;">**Lenteur II**</mark> pendant **4 secondes**, <mark style="color:green;">**Poison I**</mark> pendant **3 secondes**, ou une explosion de **1**<mark style="color:red;">**❤**</mark>.
+> * <mark style="color:violet;">**Cécité**</mark> pendant **2 secondes** ;
+> * <mark style="color:purple;">**Lenteur II**</mark> pendant **4 secondes** ;
+> * <mark style="color:green;">**Poison I**</mark> pendant **3 secondes** ;
+> * une explosion de **1**<mark style="color:red;">**❤**</mark>.
 
 {% endhint %}
 

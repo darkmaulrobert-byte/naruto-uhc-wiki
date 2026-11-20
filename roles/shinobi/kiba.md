@@ -23,6 +23,16 @@ description: "Camp : Shinobi • Doton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>COMPÉTENCES</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
+➜ <mark style="color:$success;">**Griffes**</mark> • `Passif`
+
+> <mark style="color:green;">**Kiba**</mark> se bat à mains nues. Ses griffes frappent comme une épée en diamant **Tranchant III**, ou **Tranchant IV** quand Akamaru est sorti.
+
+{% endhint %}
+
+{% hint style="info" icon="dog" %}
+
+<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
+
 ➜ <mark style="color:$success;">**Détection de chakra**</mark> • `/ns chakra <joueur>`
 
 > Avec `/ns chakra <joueur>`, <mark style="color:green;">**Kiba**</mark> sent le chakra d'un joueur et découvre sa **catégorie de chakra**. Elle ne donne **ni le rôle, ni le camp**.
@@ -39,25 +49,15 @@ description: "Camp : Shinobi • Doton"
 >
 > <mark style="color:red;">⚠ Ces catégories n'ont rien à voir avec les </mark><mark style="color:red;">**natures de chakra**</mark><mark style="color:red;"> (Katon, Suiton…).</mark>
 
-➜ <mark style="color:$success;">**Griffes**</mark> • `Particularités`
-
-> <mark style="color:green;">**Kiba**</mark> se bat à mains nues. Ses griffes frappent comme une **épée en diamant Tranchant III**, ou **Tranchant IV** quand Akamaru est sorti.
-
-{% endhint %}
-
-{% hint style="info" icon="dog" %}
-
-<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
-
 ➜ <mark style="color:$success;">**Akamaru**</mark> • `Clic-Droit`
 
-> Akamaru possède **50**<mark style="color:red;">**❤**</mark> et <mark style="color:cyan;">**Vitesse II**</mark>. Il attaque les joueurs que <mark style="color:green;">**Kiba**</mark> a frappés, ou qui l'ont frappé, dans les **20 dernières secondes**.
+> Akamaru a **50**<mark style="color:red;">**❤**</mark> et <mark style="color:cyan;">**Vitesse II**</mark>. Il attaque les joueurs que <mark style="color:green;">**Kiba**</mark> a frappés, ou qui l'ont frappé, dans les **20 dernières secondes**.
 >
-> `Clic-Droit` : <mark style="color:green;">**Kiba**</mark> monte sur Akamaru (sur l'objet ou sur Akamaru) et peut sauter de **3 blocs** de haut.
+> `Clic-Droit` sur l'objet ou sur Akamaru : <mark style="color:green;">**Kiba**</mark> monte dessus et peut sauter de **3 blocs** de haut.
 >
 > `Clic-Gauche` : hors combat, <mark style="color:green;">**Kiba**</mark> range ou sort Akamaru, qui garde ses cœurs.
 >
-> <mark style="color:red;">⚠ S'il est touché pendant que </mark><mark style="color:red;">**Kiba**</mark><mark style="color:red;"> le monte, Akamaru est ralenti de </mark><mark style="color:red;">**50 %**</mark><mark style="color:red;"> pendant </mark><mark style="color:red;">**5 secondes**</mark><mark style="color:red;">. S'il meurt, il revient après </mark><mark style="color:red;">**5 minutes**</mark><mark style="color:red;">.</mark>
+> <mark style="color:red;">⚠ Touché pendant que </mark><mark style="color:red;">**Kiba**</mark><mark style="color:red;"> le monte, Akamaru est ralenti de </mark><mark style="color:red;">**50 %**</mark><mark style="color:red;"> pendant </mark><mark style="color:red;">**5 secondes**</mark><mark style="color:red;">. S'il meurt, il revient </mark><mark style="color:red;">**5 minutes**</mark><mark style="color:red;"> plus tard.</mark>
 
 ➜ <mark style="color:$success;">**Fusion avec Akamaru**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 

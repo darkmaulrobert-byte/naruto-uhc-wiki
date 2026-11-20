@@ -35,17 +35,14 @@ description: "Camp : Akatsuki • Katon, Suiton, Raiton, Fûton et Doton"
 
 ➜ <mark style="color:$success;">**Renvoi**</mark> • `Passif`
 
-> <mark style="color:red;">**Nagato**</mark> renvoie toutes les flèches qui le touchent. Le tireur subit les dégâts de sa propre flèche.
+> <mark style="color:red;">**Nagato**</mark> renvoie toutes les flèches qui le touchent : le tireur subit les dégâts de sa propre flèche.
 
-➜ <mark style="color:$success;">**Gentōshin no Jutsu**</mark> • `/ns bague <joueur>`
+➜ <mark style="color:$success;">**Rinnegan**</mark> • `Passif`
 
-> Avec `/ns bague <joueur>`, <mark style="color:red;">**Nagato**</mark> parle pendant **1 minute** sur Mumble avec un membre de l'Akatsuki, peu importe la distance.
-
-➜ <mark style="color:$success;">**Rinnegan**</mark> • `/ns rinnegan`
-
-> <mark style="color:red;">**Nagato**</mark> voit les joueurs proches en violet (`/ns rinnegan` pour l'**activer** ou la **désactiver**), et il est prévenu quand un pouvoir est utilisé à moins de **20 blocs**.
+> <mark style="color:red;">**Nagato**</mark> voit les joueurs proches en violet et il est prévenu quand un pouvoir est utilisé à moins de **20 blocs**. `/ns rinnegan` **active** ou **désactive** la surbrillance.
 >
-> Tous les **15 coups**, le joueur frappé est cloué au sol pendant **0,2 seconde**. Les pouvoirs utilisés contre <mark style="color:red;">**Nagato**</mark> ont **5 %** de chances d'échouer.
+> * Tous les **15 coups**, le joueur frappé est cloué au sol pendant **0,2 seconde**.
+> * Les pouvoirs utilisés contre <mark style="color:red;">**Nagato**</mark> ont **5 %** de chances d'échouer.
 
 {% endhint %}
 
@@ -53,17 +50,23 @@ description: "Camp : Akatsuki • Katon, Suiton, Raiton, Fûton et Doton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
+➜ <mark style="color:$success;">**Gentōshin no Jutsu**</mark> • `/ns bague <joueur>`
+
+> `/ns bague <joueur>` : <mark style="color:red;">**Nagato**</mark> parle pendant **1 minute** sur Mumble avec un membre de l'Akatsuki, peu importe la distance.
+
 ➜ <mark style="color:$success;">**Tendō**</mark> • `Clic-Droit`
 
 > `Clic-Droit` : <mark style="color:red;">**Nagato**</mark> attire le joueur visé jusque devant lui.
 >
-> `Clic-Gauche` : il projette le joueur visé à **20 blocs**. Le joueur casse les blocs sur son passage et ne s'arrête pas aux murs.
+> `Clic-Gauche` : il projette le joueur visé à **20 blocs**. Le joueur traverse les murs en cassant les blocs sur son passage.
 >
-> ➜ L'attraction a un cooldown de **5 minutes**, la projection de **6 minutes**.
+> ➜ Les cooldowns sont séparés : **5 minutes** pour l'attraction, **6 minutes** pour la projection.
 
 ➜ <mark style="color:$success;">**Chibaku Tensei**</mark> • `Clic-Droit` • ⌚ : 15 minutes
 
-> Les joueurs proches sont aspirés vers le ciel et enfermés dans une sphère de pierre. Après **10 secondes**, les joueurs sont projetés à **100 blocs**, chacun dans une direction différente.
+> Les ennemis à moins de **15 blocs** sont aspirés vers le ciel et enfermés dans une sphère de pierre.
+>
+> **10 secondes** plus tard, ils sont projetés à **100 blocs**, chacun dans une direction différente.
 
 {% endhint %}
 

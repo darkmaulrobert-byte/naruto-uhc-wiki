@@ -23,13 +23,13 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>COMPÉTENCES</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Force surhumaine**</mark> • `Particularités`
+➜ <mark style="color:$success;">**Force surhumaine**</mark> • `Passif`
 
-> Tous les **15 coups**, <mark style="color:green;">**Sakura**</mark> peut faire un smash. Le joueur touché subit **1,5**<mark style="color:red;">**❤**</mark> et il est projeté à **15 blocs**, en cassant les blocs sur son passage.
+> Tous les **15 coups**, le prochain coup de <mark style="color:green;">**Sakura**</mark> devient un smash : le joueur subit **1,5**<mark style="color:red;">**❤**</mark> et il est projeté à **15 blocs**, en cassant les blocs sur son passage.
 
 ➜ <mark style="color:$success;">**Soin médical**</mark> • `Passif`
 
-> <mark style="color:green;">**Sakura**</mark> a **1 chance sur 10** de manger une pomme d'or instantanément.
+> Chaque pomme d'or de <mark style="color:green;">**Sakura**</mark> a **1 chance sur 10** d'être mangée instantanément.
 
 {% endhint %}
 
@@ -37,16 +37,16 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Katsuyu**</mark> • `Clic-Droit` • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Katsuyu**</mark> • `/ns color` • ⌚ : 10 minutes
 
-> Katsuyu se pose sur l'épaule de <mark style="color:green;">**Sakura**</mark> pendant **2 minutes** et agit toutes les **20 secondes** :
+> Katsuyu se pose sur l'épaule de <mark style="color:green;">**Sakura**</mark> pendant **2 minutes**. Toutes les **20 secondes**, elle agit :
 >
-> * **Soin :** elle donne <mark style="color:pink;">**Régénération II**</mark> pendant **6 secondes** aux joueurs colorés en vert à moins de **20 blocs**.
-> * **Acide :** le dernier joueur frappé par <mark style="color:green;">**Sakura**</mark> brille en vert, subit **1**<mark style="color:red;">**❤**</mark>, puis **½**<mark style="color:red;">**❤**</mark> toutes les **2 secondes** pendant **4 secondes**.
+> * **Soin :** <mark style="color:pink;">**Régénération II**</mark> pendant **6 secondes** pour les alliés colorés en vert avec `/ns color`, à moins de **20 blocs**.
+> * **Acide :** le dernier joueur frappé par <mark style="color:green;">**Sakura**</mark> brille en vert et subit **1**<mark style="color:red;">**❤**</mark>, puis **½**<mark style="color:red;">**❤**</mark> toutes les **2 secondes** pendant **4 secondes**.
 
 ➜ <mark style="color:$success;">**Impact**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> <mark style="color:green;">**Sakura**</mark> fait un dash de **20 blocs** et crée un cratère de **5 × 5** à l'arrivée. Les joueurs pris dedans subissent **2**<mark style="color:red;">**❤**</mark> et sont projetés à **10 blocs**.
+> <mark style="color:green;">**Sakura**</mark> fonce sur **20 blocs** devant elle et frappe le sol à l'arrivée : un cratère de **5 × 5** se forme. Les joueurs pris dedans subissent **2**<mark style="color:red;">**❤**</mark> et sont projetés à **10 blocs**.
 
 {% endhint %}
 

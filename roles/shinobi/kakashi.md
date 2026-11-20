@@ -25,9 +25,9 @@ description: "Camp : Shinobi • Raiton et Suiton"
 
 ➜ <mark style="color:$success;">**Double Mangekyō Sharingan**</mark> • `Particularités`
 
-> À la mort d'[<mark style="color:red;">**Obito**</mark>](../akatsuki/obito.md), <mark style="color:green;">**Kakashi**</mark> reçoit un traqueur vers son corps.
+> À la mort d'[<mark style="color:red;">**Obito**</mark>](../akatsuki/obito.md), une flèche montre son corps à <mark style="color:green;">**Kakashi**</mark>. Il a **5 minutes** pour faire `Clic-Droit` dessus et prendre son Sharingan.
 >
-> S'il récupère son Sharingan en moins de **5 minutes**, il débloque le Susano pendant **15 minutes**, puis il perd les pouvoirs du Sharingan.
+> Il débloque alors le Susano pendant **15 minutes**, puis perd les pouvoirs du Sharingan.
 
 {% endhint %}
 
@@ -37,11 +37,11 @@ description: "Camp : Shinobi • Raiton et Suiton"
 
 ➜ <mark style="color:$success;">**Chidori**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> Le prochain coup de <mark style="color:green;">**Kakashi**</mark> inflige **1,5**<mark style="color:red;">**❤**</mark> et immobilise le joueur frappé pendant **0,2 seconde**.
+> Le prochain coup de <mark style="color:green;">**Kakashi**</mark> inflige **1,5**<mark style="color:red;">**❤**</mark> et immobilise le joueur pendant **0,2 seconde**.
 
 ➜ <mark style="color:$success;">**Mangekyō Sharingan**</mark> • `Clic-Gauche` • ⌚ : 5 minutes
 
-> <mark style="color:green;">**Kakashi**</mark> copie chaque pouvoir utilisé par un joueur.
+> <mark style="color:green;">**Kakashi**</mark> copie chaque pouvoir utilisé par les autres joueurs.
 >
 > `Clic-Gauche` : il choisit un pouvoir copié dans le menu.
 >
@@ -51,19 +51,19 @@ description: "Camp : Shinobi • Raiton et Suiton"
 
 > `Clic-Gauche` : <mark style="color:green;">**Kakashi**</mark> entre dans Kamui, ou en sort, quand il veut et sans cooldown, sauf en combat.
 >
-> `Clic-Droit` : il envoie dans Kamui un joueur à moins de **30 blocs** pendant **5 minutes**, ou le fait sortir. Chacun ressort là où il est entré.
+> `Clic-Droit` : il envoie dans Kamui le joueur visé à moins de **30 blocs** pendant **5 minutes**, ou le fait sortir. Chacun ressort là où il est entré.
 
 ➜ <mark style="color:$success;">**Susano**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 
-> Le Susano est débloqué par le Double Mangekyō. <mark style="color:green;">**Kakashi**</mark> obtient <mark style="color:blue;">**Résistance I**</mark> et **20 %** de chances d'esquiver les coups.
+> <mark style="color:green;">**Kakashi**</mark> s'entoure du Susano : <mark style="color:blue;">**Résistance I**</mark> et **20 %** de chances d'esquiver chaque coup d'épée reçu.
 >
 > ➜ <mark style="color:$success;">**Shurikens**</mark> • `Clic-Droit` • ⌚ : 30 secondes
 >
-> > ils explosent à l'impact et infligent **2**<mark style="color:red;">**❤**</mark>.
+> > <mark style="color:green;">**Kakashi**</mark> lance un shuriken qu'il dirige avec son curseur pendant son déplacement. À l'impact, il explose et inflige **2**<mark style="color:red;">**❤**</mark>.
 >
 > ➜ <mark style="color:$success;">**Zone**</mark> • `Clic-Gauche` • ⌚ : 15 secondes
 >
-> > les blocs visés sont détruits.
+> > <mark style="color:green;">**Kakashi**</mark> vise un bloc jusqu'à **30 blocs**. Les blocs dans un cube de **5 × 5 × 5** autour de ce bloc sont détruits.
 
 {% endhint %}
 

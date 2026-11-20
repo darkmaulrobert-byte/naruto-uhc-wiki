@@ -33,12 +33,6 @@ description: "Camp : Akatsuki • Doton et Raiton"
 
 > Chaque coup de <mark style="color:red;">**Deidara**</mark> a **5 %** de chances d'exploser : le joueur frappé subit **1**<mark style="color:red;">**❤**</mark> et il est projeté à **10 blocs**.
 
-➜ <mark style="color:$success;">**C0**</mark> • `Particularités`
-
-> <mark style="color:red;">**Deidara**</mark> reste immobile et intouchable pendant **10 secondes**, puis explose dans une sphère de **50 blocs** de diamètre.
->
-> <mark style="color:red;">⚠ Tous les joueurs dans la sphère meurent, </mark><mark style="color:red;">**Deidara**</mark><mark style="color:red;"> compris.</mark>
-
 {% endhint %}
 
 {% hint style="info" icon="bomb" %}
@@ -47,13 +41,13 @@ description: "Camp : Akatsuki • Doton et Raiton"
 
 ➜ <mark style="color:$success;">**C1**</mark> • `Clic-Droit` • ⌚ : 3 minutes
 
-> <mark style="color:red;">**Deidara**</mark> envoie un silverfish sur le joueur visé. Le silverfish ne le mord pas : il explose à son contact et inflige **1**<mark style="color:red;">**❤**</mark>.
+> <mark style="color:red;">**Deidara**</mark> envoie un silverfish d'argile sur le joueur visé. Il ne mord pas : il explose à son contact et inflige **1**<mark style="color:red;">**❤**</mark>.
 
 ➜ <mark style="color:$success;">**C2**</mark> • `Clic-Droit` • ⌚ : 10 minutes
 
 > <mark style="color:red;">**Deidara**</mark> monte sur un loup blanc volant, jusqu'à **10 blocs** de haut, pendant **1 minute** au plus.
 >
-> En réutilisant le pouvoir, il lâche une TNT (**3** au total, une toutes les **3 secondes**), qui explose au sol et inflige **1,5**<mark style="color:red;">**❤**</mark>.
+> Réutiliser le pouvoir lâche une TNT (**3** au total, une toutes les **3 secondes**). Elle explose au sol et inflige **1,5**<mark style="color:red;">**❤**</mark>.
 >
 > <mark style="color:red;">⚠ Sur le loup, </mark><mark style="color:red;">**Deidara**</mark><mark style="color:red;"> ne peut pas utiliser ses autres pouvoirs. Une flèche reçue fait disparaître le loup, qui disparaît aussi </mark><mark style="color:red;">**5 secondes**</mark><mark style="color:red;"> après la dernière TNT.</mark>
 
@@ -63,9 +57,15 @@ description: "Camp : Akatsuki • Doton et Raiton"
 
 ➜ <mark style="color:$success;">**C4**</mark> • `Clic-Droit` • ⌚ : 15 minutes
 
-> <mark style="color:red;">**Deidara**</mark> invoque un zombie géant qui explose après **7 secondes**. L'explosion creuse un trou de **40 blocs** de diamètre et inflige **4**<mark style="color:red;">**❤**</mark>.
+> <mark style="color:red;">**Deidara**</mark> invoque un zombie géant qui explose **7 secondes** plus tard. L'explosion creuse un trou de **40 blocs** de diamètre et inflige **4**<mark style="color:red;">**❤**</mark>.
 >
 > <mark style="color:red;">⚠ </mark><mark style="color:red;">**Deidara**</mark><mark style="color:red;"> peut être touché lui aussi.</mark>
+
+➜ <mark style="color:$success;">**C0**</mark> • `Clic-Droit`
+
+> <mark style="color:red;">**Deidara**</mark> reste immobile et intouchable pendant **10 secondes**, puis explose dans une sphère de **50 blocs** de diamètre.
+>
+> <mark style="color:red;">⚠ Tous les joueurs dans la sphère meurent, </mark><mark style="color:red;">**Deidara**</mark><mark style="color:red;"> compris.</mark>
 
 {% endhint %}
 

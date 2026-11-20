@@ -25,7 +25,7 @@ description: "Camp : Shinobi • Doton"
 
 ➜ <mark style="color:$success;">**Baika no Jutsu**</mark> • `Passif`
 
-> Quand un joueur frappe <mark style="color:green;">**Chôji**</mark>, il a **10 %** de chances de le repousser de **5 blocs**.
+> Un joueur qui frappe <mark style="color:green;">**Chôji**</mark> a **10 %** de chances d'être repoussé de **5 blocs**.
 
 {% endhint %}
 
@@ -35,23 +35,25 @@ description: "Camp : Shinobi • Doton"
 
 ➜ <mark style="color:$success;">**Nikudan Sensha**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 
-> <mark style="color:green;">**Chôji**</mark> se transforme en boule de pierre de **15**<mark style="color:red;">**❤**</mark>, qui roule à **3 blocs par seconde** et grimpe les obstacles jusqu'à **3 blocs** de haut.
+> <mark style="color:green;">**Chôji**</mark> se transforme en boule de **15**<mark style="color:red;">**❤**</mark> qui roule là où il regarde, à **3 blocs par seconde**, et grimpe les obstacles jusqu'à **3 blocs**.
 >
 > Chaque joueur écrasé subit **1**<mark style="color:red;">**❤**</mark> et il est projeté à **20 blocs**.
 >
-> <mark style="color:red;">⚠ Dans la boule, </mark><mark style="color:red;">**Chôji**</mark><mark style="color:red;"> est invisible, mais il ne peut ni frapper ni tirer. Réutiliser l'objet, ou perdre les 15 cœurs de la boule, la fait disparaître.</mark>
+> Réutiliser l'objet lui rend sa forme normale.
+>
+> <mark style="color:red;">⚠ Dans la boule, </mark><mark style="color:red;">**Chôji**</mark><mark style="color:red;"> est invisible mais ne peut ni frapper ni tirer. Si la boule perd ses 15 cœurs, elle disparaît.</mark>
 
 ➜ <mark style="color:$success;">**Chō Harite**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> Les joueurs à moins de **15 blocs** sont soulevés d'**1 bloc**, subissent **1**<mark style="color:red;">**❤**</mark> et <mark style="color:green;">**Nausée**</mark> pendant **5 secondes**.
+> <mark style="color:green;">**Chôji**</mark> frappe le sol : les joueurs à moins de **15 blocs** sont soulevés d'**1 bloc**, subissent **1**<mark style="color:red;">**❤**</mark> et <mark style="color:green;">**Nausée**</mark> pendant **5 secondes**.
 
 ➜ <mark style="color:$success;">**Mode Papillon**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 
 > Des ailes bleues apparaissent dans le dos de <mark style="color:green;">**Chôji**</mark> :
 >
-> * Tous les **10 coups**, un second coup part tout seul.
-> * Accroupi en l'air, il plane vers l'avant.
-> * S'il est frappé dans le dos, il a **10 %** de chances de projeter l'attaquant à **5 blocs**.
+> * tous les **10 coups**, un second coup part tout seul ;
+> * accroupi en l'air, il plane vers l'avant ;
+> * frappé dans le dos, il a **10 %** de chances de projeter l'attaquant à **5 blocs**.
 >
 > <mark style="color:red;">⚠ Baika no Jutsu est désactivé pendant le mode.</mark>
 

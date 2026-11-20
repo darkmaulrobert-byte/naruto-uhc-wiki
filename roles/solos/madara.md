@@ -57,21 +57,13 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 >
 > Tengai Shinsei ne s'utilise qu'**une fois par partie**, et le Susanoo se recharge en **15 minutes**.
 
-➜ <mark style="color:$success;">**Gakidō — Absorption**</mark> • `Particularités`
+➜ <mark style="color:$success;">**Gakidō — Absorption**</mark> • `Passif`
 
 > Avec le pacte solo uniquement, chaque pouvoir utilisé contre <mark style="color:orange;">**Madara**</mark> a **15 %** de chances d'être absorbé : il ne lui fait ni dégâts ni effet.
 
-➜ <mark style="color:$success;">**Gunbai**</mark> • `Particularités`
+➜ <mark style="color:$success;">**Gunbai**</mark> • `Passif`
 
 > <mark style="color:orange;">**Madara**</mark> possède une épée en diamant **Tranchant III**, Gunbai. Quand il pare avec, une onde projette à **20 blocs** les joueurs à moins de **5 blocs**, au plus une fois toutes les **3 minutes**.
-
-➜ <mark style="color:$success;">**Résurrection de Jûbi**</mark> • `/ns jubi`
-
-> Avec **6 Bijû** différents en sa possession (actifs ou en objet), `/ns jubi` lance le rituel ; dans le pacte 2, <mark style="color:orange;">**Madara**</mark> et [<mark style="color:red;">**Obito**</mark>](../akatsuki/obito.md) les confient à celui des deux qui le lancera.
->
-> Le rituel : le Gedō Mazō sort de terre, les six Bijû tournent autour de plus en plus vite puis sont absorbés, et Jûbi rejoint celui qui a lancé la commande, qui en devient le Jinchûriki.
->
-> Voir [Jinchûriki des Six Chemins](../../particularites/jubi/jinchuriki-des-six-chemins.md).
 
 {% endhint %}
 
@@ -96,19 +88,31 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 >
 > <mark style="color:red;">⚠ Avec le </mark><mark style="color:red;">**pacte 2**</mark><mark style="color:red;">, le Susanoo se recharge en </mark><mark style="color:red;">**15 minutes**</mark><mark style="color:red;"> au lieu de </mark><mark style="color:red;">**10 minutes**</mark><mark style="color:red;">.</mark>
 
-➜ <mark style="color:$success;">**Rinnegan**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Rinnegan**</mark> • `Clic-Droit`
 
-> `Clic-Droit` : une onde à 360° détruit les blocs dans un rayon de **30 blocs** et projette les joueurs à **30 blocs**.
+> `Clic-Droit` : une onde part tout autour de <mark style="color:orange;">**Madara**</mark> : elle détruit les blocs dans un rayon de **30 blocs** et projette les joueurs à **30 blocs**.
 >
 > `Clic-Gauche` : <mark style="color:orange;">**Madara**</mark> attire vers lui le joueur visé à moins de **30 blocs**.
 >
-> ➜ <mark style="color:$success;">**Attraction**</mark> • `Clic-Gauche` • ⌚ : 3 minutes
+> ➜ Les cooldowns sont séparés : **5 minutes** pour l'onde, **3 minutes** pour l'attraction.
 
 ➜ <mark style="color:$success;">**Traque des Bijû**</mark> • `Clic-Droit`
 
-> `Clic-Droit` : <mark style="color:orange;">**Madara**</mark> choisit un Bijû à suivre. Libre : sa position ; possédé : son hôte (pseudo et position) ; pas encore apparu : lieu et moment prévus.
+> `Clic-Droit` : <mark style="color:orange;">**Madara**</mark> choisit un Bijû à suivre et obtient sa position :
+>
+> * Bijû libre : sa position ;
+> * Bijû possédé : le pseudo et la position de son hôte ;
+> * Bijû pas encore apparu : le lieu et le moment prévus.
 >
 > <mark style="color:red;">⚠ Pacte solo seulement.</mark>
+
+➜ <mark style="color:$success;">**Résurrection de Jûbi**</mark> • `/ns jubi`
+
+> Avec **6 Bijû** différents, actifs ou en objet, `/ns jubi` lance le rituel : <mark style="color:orange;">**Madara**</mark> devient le Jinchûriki de Jûbi.
+>
+> Avec le pacte 2, <mark style="color:orange;">**Madara**</mark> et [<mark style="color:red;">**Obito**</mark>](../akatsuki/obito.md) réunissent les Bijû ensemble, et celui qui lance la commande devient le Jinchûriki.
+>
+> Voir [Jinchûriki des Six Chemins](../../particularites/jubi/jinchuriki-des-six-chemins.md).
 
 {% endhint %}
 

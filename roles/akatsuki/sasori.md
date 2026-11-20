@@ -29,12 +29,13 @@ description: "Camp : Akatsuki • Doton"
 >
 > Voir [Liste de l'Akatsuki](../../particularites/liste-de-lakatsuki.md).
 
-➜ <mark style="color:$success;">**Corps Artificiel**</mark> • `Passif` • ⌚ : 1 minute
+➜ <mark style="color:$success;">**Transfert du Cœur**</mark> • `Particularités`
 
-> Quand <mark style="color:red;">**Sasori**</mark> pare avec son épée, il lance l'élément du moment, qui change toutes les **10 secondes** :
+> Si <mark style="color:red;">**Sasori**</mark> meurt alors qu'une de ses marionnettes de joueurs est en vie, il revient en bébé zombie avec <mark style="color:cyan;">**Vitesse II**</mark>.
 >
-> * **Feu :** il enflamme les joueurs à moins de **10 blocs**.
-> * **Eau :** il repousse le joueur visé de **10 blocs**.
+> Une flèche le guide vers la marionnette : en la rejoignant, il prend sa place et revient en jeu.
+>
+> <mark style="color:red;">⚠ Tué en bébé zombie, sa mort est définitive. Utilisable </mark><mark style="color:red;">**une seule fois par partie**</mark><mark style="color:red;">.</mark>
 
 {% endhint %}
 
@@ -44,27 +45,26 @@ description: "Camp : Akatsuki • Doton"
 
 ➜ <mark style="color:$success;">**Hitokugutsu**</mark> • `Clic-Droit`
 
-> `Clic-Droit` sur le cadavre d'un joueur qu'il a tué : <mark style="color:red;">**Sasori**</mark> en fait une marionnette de **5**<mark style="color:red;">**❤**</mark>, qui attaque le dernier joueur qu'il a frappé.
+> `Clic-Droit` sur le cadavre d'un joueur qu'il a tué : <mark style="color:red;">**Sasori**</mark> en fait une marionnette de **5**<mark style="color:red;">**❤**</mark>. Elle attaque le dernier joueur qu'il a frappé.
 >
-> <mark style="color:red;">⚠ </mark><mark style="color:red;">**Sasori**</mark><mark style="color:red;"> peut avoir </mark><mark style="color:red;">**2**</mark><mark style="color:red;"> marionnettes de joueurs au maximum.</mark>
+> <mark style="color:red;">⚠ </mark><mark style="color:red;">**2**</mark><mark style="color:red;"> marionnettes de joueurs au maximum.</mark>
 
 ➜ <mark style="color:$success;">**Hiruko**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> <mark style="color:red;">**Sasori**</mark> invoque une marionnette de **8**<mark style="color:red;">**❤**</mark>, qui tire des flèches de <mark style="color:green;">**Poison I**</mark> tout autour d'elle.
+> <mark style="color:red;">**Sasori**</mark> invoque Hiruko, une marionnette de **8**<mark style="color:red;">**❤**</mark> qui tire des flèches de <mark style="color:green;">**Poison I**</mark> tout autour d'elle.
 >
-> <mark style="color:red;">⚠ Hiruko coûte </mark><mark style="color:red;">**1**</mark><mark style="color:red;">**❤**</mark><mark style="color:red;"> maximum à </mark><mark style="color:red;">**Sasori**</mark><mark style="color:red;">, rendu </mark><mark style="color:red;">**1 minute**</mark><mark style="color:red;"> après sa mort. Une seule Hiruko à la fois.</mark>
+> <mark style="color:red;">⚠ Hiruko retire </mark><mark style="color:red;">**1**</mark><mark style="color:red;">**❤**</mark><mark style="color:red;"> maximum à </mark><mark style="color:red;">**Sasori**</mark><mark style="color:red;">, rendu </mark><mark style="color:red;">**1 minute**</mark><mark style="color:red;"> après sa destruction. Une seule Hiruko à la fois.</mark>
 
 ➜ <mark style="color:$success;">**Satetsu**</mark> • `Clic-Droit` • ⏳ : 1 minute • ⌚ : 8 minutes
 
-> <mark style="color:red;">**Sasori**</mark> invoque une marionnette qui trace des lignes sur **20 blocs** autour d'elle. Les traverser donne <mark style="color:green;">**Poison I**</mark> pendant **3 secondes**.
+> <mark style="color:red;">**Sasori**</mark> invoque une marionnette qui trace des lignes de sable de fer sur **20 blocs** autour d'elle, pendant **1 minute**. Les traverser donne <mark style="color:green;">**Poison I**</mark> pendant **3 secondes**.
 
-➜ <mark style="color:$success;">**Transfert du Cœur**</mark> • `Clic-Droit` • ⌚ : 1x/partie
+➜ <mark style="color:$success;">**Corps Artificiel**</mark> • `Clic-Droit` • ⌚ : 1 minute
 
-> Si <mark style="color:red;">**Sasori**</mark> meurt alors qu'une de ses marionnettes de joueurs est en vie, il devient un bébé zombie avec <mark style="color:cyan;">**Vitesse II**</mark>, guidé par une flèche.
+> Quand <mark style="color:red;">**Sasori**</mark> pare avec son épée, il lance l'élément du moment, qui change toutes les **10 secondes** :
 >
-> En rejoignant la marionnette, il prend sa place et revient en jeu.
->
-> <mark style="color:red;">⚠ S'il est tué en bébé zombie, sa mort est définitive. Utilisable </mark><mark style="color:red;">**une seule fois par partie**</mark><mark style="color:red;">.</mark>
+> * **Feu :** il enflamme les joueurs à moins de **10 blocs** ;
+> * **Eau :** il repousse le joueur visé de **10 blocs**.
 
 {% endhint %}
 

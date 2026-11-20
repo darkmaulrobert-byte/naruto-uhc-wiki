@@ -33,19 +33,11 @@ description: "Camp : Akatsuki • Doton au départ ; autres natures liées aux c
 
 > <mark style="color:red;">**Kakuzu**</mark> possède **12**<mark style="color:red;">**❤**</mark>.
 
-➜ <mark style="color:$success;">**Apparence et rangement des masques**</mark> • `/ns masque`
+➜ <mark style="color:$success;">**Les Cinq Cœurs**</mark> • `/ns coeurs`
 
-> Avec `/ns masque`, <mark style="color:red;">**Kakuzu**</mark> sort ou range un masque. Un masque sorti flotte à côté d'une épaule et reste sorti tant que <mark style="color:red;">**Kakuzu**</mark> ne le range pas.
+> <mark style="color:red;">**Kakuzu**</mark> commence avec un masque Doton. `Clic-Droit` sur le cadavre d'un joueur qu'il a tué : il gagne un masque d'une nature qu'il n'a pas encore, **5** au maximum.
 >
-> Il attaque le dernier joueur frappé. Un masque rangé récupère tous ses cœurs.
->
-> <mark style="color:red;">⚠ </mark><mark style="color:red;">**Deux masques**</mark><mark style="color:red;"> au plus peuvent être sortis en même temps ; chacun a sa propre recharge. Pour le ranger, </mark><mark style="color:red;">**Kakuzu**</mark><mark style="color:red;"> doit passer </mark><mark style="color:red;">**10 secondes**</mark><mark style="color:red;"> sans frapper ni être frappé.</mark>
-
-➜ <mark style="color:$success;">**Destruction des cœurs**</mark> • `Particularités`
-
-> Chaque masque possède **20**<mark style="color:red;">**❤**</mark> et n'a pas d'armure.
->
-> <mark style="color:red;">⚠ Un masque détruit perd son cœur : </mark><mark style="color:red;">**Kakuzu**</mark><mark style="color:red;"> doit tuer un autre joueur pour en récupérer un.</mark>
+> `/ns coeurs` affiche ses masques et leur vie.
 
 ➜ <mark style="color:$success;">**Derniers Fils**</mark> • `Passif`
 
@@ -57,11 +49,15 @@ description: "Camp : Akatsuki • Doton au départ ; autres natures liées aux c
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Les Cinq Cœurs**</mark> • `Clic-Droit`
+➜ <mark style="color:$success;">**Masques**</mark> • `/ns masque`
 
-> <mark style="color:red;">**Kakuzu**</mark> commence avec un masque Doton. `Clic-Droit` sur le cadavre d'un joueur qu'il a tué : il gagne un masque d'une nature qu'il n'a pas encore, **5** au maximum.
+> `/ns masque` : <mark style="color:red;">**Kakuzu**</mark> sort ou range un masque. Un masque sorti flotte près de son épaule et attaque le dernier joueur frappé.
 >
-> La commande `/ns coeurs` montre ses masques et leur vie.
+> * Chaque masque a **20**<mark style="color:red;">**❤**</mark>, sans armure. Rangé, il récupère tous ses cœurs.
+> * **Deux masques** au plus peuvent être sortis en même temps.
+> * Pour en ranger un, <mark style="color:red;">**Kakuzu**</mark> doit passer **10 secondes** sans frapper ni être frappé.
+>
+> <mark style="color:red;">⚠ Un masque détruit perd son cœur : </mark><mark style="color:red;">**Kakuzu**</mark><mark style="color:red;"> doit tuer un autre joueur pour en récupérer un.</mark>
 
 ➜ <mark style="color:$success;">**Techniques des masques**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
@@ -75,13 +71,13 @@ description: "Camp : Akatsuki • Doton au départ ; autres natures liées aux c
 
 ➜ <mark style="color:$success;">**Fils Noirs**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> <mark style="color:red;">**Kakuzu**</mark> relie un joueur à moins de **15 blocs** pendant **4 secondes** : le joueur ne peut pas s'éloigner à plus de **8 blocs**.
+> <mark style="color:red;">**Kakuzu**</mark> relie à lui un joueur à moins de **15 blocs** pendant **4 secondes** : le joueur ne peut pas s'éloigner à plus de **8 blocs**.
 >
-> En réutilisant le pouvoir, <mark style="color:red;">**Kakuzu**</mark> le ramène vers lui et lui inflige **1,5**<mark style="color:red;">**❤**</mark>.
+> Réutiliser le pouvoir le ramène vers <mark style="color:red;">**Kakuzu**</mark> et lui inflige **1,5**<mark style="color:red;">**❤**</mark>.
 
 ➜ <mark style="color:$success;">**Combinaison Élémentaire**</mark> • `Clic-Droit` • ⌚ : 10 minutes
 
-> Avec les masques Katon et Fûton, <mark style="color:red;">**Kakuzu**</mark> projette un souffle de feu de **20 × 5**. Les joueurs touchés subissent **2,5**<mark style="color:red;">**❤**</mark> et brûlent pendant **5 secondes**.
+> Avec les masques Katon et Fûton sortis, <mark style="color:red;">**Kakuzu**</mark> projette devant lui un souffle de feu de **20 × 5**. Les joueurs touchés subissent **2,5**<mark style="color:red;">**❤**</mark> et brûlent pendant **5 secondes**.
 
 {% endhint %}
 

@@ -41,34 +41,34 @@ description: "Camp : Akatsuki • Katon et Suiton"
 
 ➜ <mark style="color:$success;">**Tsukuyomi**</mark> • `Clic-Droit` • ⌚ : 10 minutes
 
-> <mark style="color:red;">**Itachi**</mark> plonge le joueur visé dans une illusion pendant **2 minutes**, sans qu'il le remarque :
+> <mark style="color:red;">**Itachi**</mark> plonge le joueur visé dans une illusion pendant **2 minutes**, sans que celui-ci s'en rende compte :
 >
-> * À partir de **30 secondes**, il subit de faux dégâts de **½**<mark style="color:red;">**❤**</mark> toutes les **5 secondes**.
-> * À **45 secondes**, il subit <mark style="color:violet;">**Cécité**</mark> pendant **3 secondes**.
-> * À partir de **1 minute**, il subit <mark style="color:purple;">**Lenteur I**</mark> pendant **2 secondes** toutes les **15 secondes**.
+> * à partir de **30 secondes** : de faux dégâts de **½**<mark style="color:red;">**❤**</mark> toutes les **5 secondes** ;
+> * à **45 secondes** : <mark style="color:violet;">**Cécité**</mark> pendant **3 secondes** ;
+> * à partir de **1 minute** : <mark style="color:purple;">**Lenteur I**</mark> pendant **2 secondes**, toutes les **15 secondes**.
 
 ➜ <mark style="color:$success;">**Amaterasu**</mark> • `Clic-Droit` • ⌚ : 10 minutes
 
-> Le joueur visé brûle pendant **10 secondes**, sans pouvoir s'éteindre.
+> Le joueur visé brûle pendant **10 secondes**, et le feu ne peut pas être éteint.
 >
 > <mark style="color:red;">⚠ Ensuite, </mark><mark style="color:red;">**Itachi**</mark><mark style="color:red;"> subit </mark><mark style="color:red;">**Cécité**</mark><mark style="color:red;"> pendant </mark><mark style="color:red;">**5 secondes**</mark><mark style="color:red;">.</mark>
 
 ➜ <mark style="color:$success;">**Utakata**</mark> • `Clic-Droit` • ⌚ : 10 minutes
 
-> Pendant **1 minute**, le joueur visé subit une illusion toutes les **10 secondes** :
+> Pendant **1 minute**, le joueur visé subit une illusion toutes les **10 secondes**, au hasard :
 >
-> * **Cinq clones** d'<mark style="color:red;">**Itachi**</mark> apparaissent autour de lui pendant **5 secondes**. Lui seul les voit.
-> * Il croit subir **5**<mark style="color:red;">**❤**</mark> de dégâts.
-> * Il voit le corps d'<mark style="color:red;">**Itachi**</mark> s'effondrer, et <mark style="color:red;">**Itachi**</mark> lui est invisible pendant **2 secondes**.
-> * Il voit l'écran de mort pendant **3 secondes**.
+> * **cinq clones** d'<mark style="color:red;">**Itachi**</mark> apparaissent autour de lui pendant **5 secondes**, visibles par lui seul ;
+> * il croit subir **5**<mark style="color:red;">**❤**</mark> de dégâts ;
+> * il voit <mark style="color:red;">**Itachi**</mark> s'effondrer, puis ne le voit plus pendant **2 secondes** ;
+> * il voit l'écran de mort pendant **3 secondes**.
 
 ➜ <mark style="color:$success;">**Susano**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 
-> <mark style="color:red;">**Itachi**</mark> obtient <mark style="color:blue;">**Résistance I**</mark>, et son épée passe en **Tranchant IV**. Parer repousse l'adversaire de **5 blocs**.
+> <mark style="color:red;">**Itachi**</mark> obtient <mark style="color:blue;">**Résistance I**</mark>, et son épée passe en **Tranchant IV**. Parer avec l'épée repousse l'adversaire de **5 blocs**.
 >
-> Chacun de ses coups a **5 %** de chances de faire sortir le joueur frappé de son corps pendant **1 seconde**.
+> Chacun de ses coups a **5 %** de chances de faire sortir le joueur de son corps pendant **1 seconde**.
 >
-> Son corps reste sur place et peut être frappé : à son retour, le joueur subit les coups reçus par son corps.
+> Le corps reste sur place et peut être frappé : à son retour, le joueur subit tous les coups reçus par son corps.
 
 {% endhint %}
 

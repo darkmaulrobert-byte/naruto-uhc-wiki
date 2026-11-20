@@ -25,11 +25,11 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 ➜ <mark style="color:$success;">**Enchaînement**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> Le premier joueur touché est soulevé de **3 blocs**, puis éjecté à **10 blocs**. <mark style="color:green;">**Rock Lee**</mark> apparaît devant lui et le renvoie à son point de départ. L'ensemble inflige **2**<mark style="color:red;">**❤**</mark>.
+> Le prochain coup de <mark style="color:green;">**Rock Lee**</mark> soulève le joueur de **3 blocs**, puis l'éjecte à **10 blocs**. <mark style="color:green;">**Rock Lee**</mark> réapparaît devant lui et le renvoie à son point de départ. Le tout inflige **2**<mark style="color:red;">**❤**</mark>.
 
 ➜ <mark style="color:$success;">**Fleur de Lotus Recto — Omote Renge**</mark> • `Clic-Droit` • ⌚ : 8 minutes
 
-> `Clic-Droit`, puis frapper un joueur à moins de **3 blocs** : <mark style="color:green;">**Rock Lee**</mark> et ce joueur montent à **10 blocs**, le joueur est immobilisé **1 seconde**, puis ils plongent ensemble vers le sol.
+> `Clic-Droit`, puis frapper un joueur à moins de **3 blocs** : <mark style="color:green;">**Rock Lee**</mark> monte avec lui à **10 blocs**, le joueur est immobilisé **1 seconde**, puis ils plongent ensemble vers le sol.
 >
 > À l'impact, le joueur subit **2,5**<mark style="color:red;">**❤**</mark>, <mark style="color:purple;">**Lenteur II**</mark>, <mark style="color:green;">**Nausée**</mark> et <mark style="color:violet;">**Cécité**</mark> pendant **2 secondes**.
 

@@ -75,3 +75,7 @@ Un rôle avec plusieurs natures cumule leurs passifs. Les passifs de natures son
 > Ces rôles tirent **une nature au hasard** en début de partie : [<mark style="color:green;">**Sakura**</mark>](../roles/shinobi/sakura.md), [<mark style="color:green;">**Hinata**</mark>](../roles/shinobi/hinata.md), [<mark style="color:green;">**Shikamaru**</mark>](../roles/shinobi/shikamaru.md), [<mark style="color:green;">**Rock Lee**</mark>](../roles/shinobi/rocklee.md), [<mark style="color:green;">**Gaï**</mark>](../roles/shinobi/gai.md), [<mark style="color:green;">**Hiruzen**</mark>](../roles/shinobi/hiruzen.md), [<mark style="color:red;">**Hidan**</mark>](../roles/akatsuki/hidan.md).
 
 {% endhint %}
+
+***
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/page-natures.png" alt="" width="480"><figcaption><p>Les cinq natures de chakra.</p></figcaption></figure></div>

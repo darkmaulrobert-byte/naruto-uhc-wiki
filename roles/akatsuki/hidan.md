@@ -29,11 +29,11 @@ description: "Camp : Akatsuki • une nature aléatoire"
 >
 > Voir [Liste de l'Akatsuki](../../particularites/liste-de-lakatsuki.md).
 
-➜ <mark style="color:$success;">**Sanjūgama**</mark> • `Particularités`
+➜ <mark style="color:$success;">**Sanjūgama**</mark> • `Passif`
 
-> <mark style="color:red;">**Hidan**</mark> possède une épée en diamant **Tranchant IV**. Chacun de ses coups a **20 %** de chances de faire tomber du sang au sol.
+> <mark style="color:red;">**Hidan**</mark> possède une épée en diamant **Tranchant IV**. Chacun de ses coups a **20 %** de chances de faire tomber le sang du joueur au sol.
 >
-> Quand <mark style="color:red;">**Hidan**</mark> ramasse le sang, il brille en noir, et une gommette s'affiche au-dessus du joueur.
+> Quand <mark style="color:red;">**Hidan**</mark> ramasse ce sang, il brille en noir et une marque s'affiche au-dessus du joueur.
 
 ➜ <mark style="color:$success;">**Bénédiction de Jashin**</mark> • `Passif` • 1x/partie
 
@@ -72,7 +72,7 @@ description: "Camp : Akatsuki • une nature aléatoire"
 
 > Avec **5 sangs** du même joueur, <mark style="color:red;">**Hidan**</mark> reste immobile au centre d'une plateforme de redstone de **3 × 3** pendant **30 secondes**.
 >
-> Il est invincible, et chaque coup qu'il reçoit inflige **1**<mark style="color:red;">**❤**</mark> à ce joueur, **une fois par seconde** au plus.
+> Il est invincible, et chaque coup qu'il reçoit inflige **1**<mark style="color:red;">**❤**</mark> à ce joueur, au plus une fois par seconde.
 >
 > <mark style="color:red;">⚠ Le rituel ne peut pas faire descendre ce joueur sous </mark><mark style="color:red;">**½**</mark><mark style="color:red;">**❤**</mark><mark style="color:red;">.</mark>
 

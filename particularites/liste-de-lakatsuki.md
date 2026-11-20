@@ -50,3 +50,7 @@ Au début de la partie, les membres de l'<mark style="color:red;">**Akatsuki**</
 >
 > * **A** reste près de **B** pendant **3 minutes** : **B** rejoint le réseau. **A**, **B** et [<mark style="color:red;">**Konan**</mark>](../roles/akatsuki/konan.md) connaissent maintenant leurs pseudos.
 > * **B** reste près de **C** : la progression bloque à **50 %**, car **C** n'est pas de l'Akatsuki. **C** n'apparaît jamais dans la liste.
+
+***
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/page-akatsuki.gif" alt="" width="480"><figcaption><p>Les membres de l'Akatsuki.</p></figcaption></figure></div>
