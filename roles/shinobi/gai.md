@@ -40,7 +40,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 > * `Clic-Gauche` : passer à la Porte suivante.
 > * `Clic-Droit` : ouvrir la Porte sélectionnée.
 >
-> Pendant la Huitième Porte, l'objet devient **Gaï de la Nuit**.
+> Pendant la Huitième Porte, la Nether Star devient **Gaï de la Nuit**.
 
 ➜ <mark style="color:$success;">**Disparition**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
