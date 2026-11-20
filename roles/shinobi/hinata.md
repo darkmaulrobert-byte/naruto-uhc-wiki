@@ -3,7 +3,7 @@ icon: hands
 description: "Camp : Shinobi • une nature aléatoire"
 ---
 
-# ▸ Hinata Hyûga
+# ▸ Hinata
 
 {% hint style="info" icon="hands" %}
 
@@ -15,7 +15,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : une nature aléatoire.
+> une nature aléatoire (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -35,24 +35,28 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 ➜ <mark style="color:$success;">**Byakugan**</mark> • `/ns byakugan`
 
-> <mark style="color:green;">**Hinata**</mark> voit tous les joueurs proches en surbrillance blanche. Un symbole de montre apparaît au-dessus de ceux dont un pouvoir est en cooldown. La commande `/ns byakugan` **active** ou **désactive** la surbrillance.
+> <mark style="color:green;">**Hinata**</mark> voit tous les joueurs proches en surbrillance blanche. Un symbole de montre apparaît au-dessus de ceux dont un pouvoir est en cooldown.
+>
+> La commande `/ns byakugan` **active** ou **désactive** la surbrillance.
 
 ➜ <mark style="color:$success;">**Jûken**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 
 > Toutes les **10 secondes**, un coup de <mark style="color:green;">**Hinata**</mark> touche une partie du corps au hasard :
 >
 > * **Bras :** le joueur ne peut plus frapper pendant **2 secondes**.
-> * **Cerveau :** le joueur subit **Cécité** pendant **2 secondes**.
-> * **Jambes :** le joueur subit **Lenteur** pendant **2 secondes**.
+> * **Cerveau :** le joueur subit <mark style="color:violet;">**Cécité**</mark> pendant **2 secondes**.
+> * **Jambes :** le joueur subit <mark style="color:purple;">**Lenteur**</mark> pendant **2 secondes**.
 > * **Cœur :** le joueur est immobilisé pendant **1 seconde**.
 > * **Abdomen :** le joueur ne subit aucun recul sur ce coup.
 > * **Mâchoire :** le joueur ne peut plus manger de pomme d'or pendant **1 seconde**.
-> * **Foie :** le coup ignore l'absorption.
+> * **Foie :** le coup ignore l'<mark style="color:yellow;">absorption</mark>.
 
 ➜ <mark style="color:$success;">**Jûhô Sôshiken**</mark> • `Clic-Droit` • ⏳ : 1 minute • ⌚ : 10 minutes
 
-> Tous les **15 coups**, <mark style="color:green;">**Hinata**</mark> projette le joueur touché à **15 blocs** et lui inflige **2**<mark style="color:$danger;">**❤**</mark>.
+> Tous les **15 coups**, <mark style="color:green;">**Hinata**</mark> projette le joueur touché à **15 blocs** et lui inflige **2**<mark style="color:red;">**❤**</mark>.
 
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/hinata.gif" alt="Hinata" width="480"><figcaption><p>Illustration de Hinata.</p></figcaption></figure></div>

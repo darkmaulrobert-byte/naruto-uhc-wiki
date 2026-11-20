@@ -3,7 +3,7 @@ icon: moon
 description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 ---
 
-# ▸ Kaguya Ôtsutsuki
+# ▸ Kaguya
 
 {% hint style="info" icon="moon" %}
 
@@ -15,7 +15,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:red;">**Katon**</mark>, <mark style="color:blue;">**Suiton**</mark>, <mark style="color:yellow;">**Raiton**</mark>, <mark style="color:green;">**Fûton**</mark> et <mark style="color:orange;">**Doton**</mark>.
+> <mark style="color:red;">**Katon**</mark>, <mark style="color:blue;">**Suiton**</mark>, <mark style="color:yellow;">**Raiton**</mark>, <mark style="color:green;">**Fûton**</mark> et <mark style="color:orange;">**Doton**</mark> (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -25,7 +25,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 
 ➜ <mark style="color:$success;">**Effet**</mark> • `Passif`
 
-> <mark style="color:orange;">**Kaguya**</mark> gagne seule. Elle possède <mark style="color:$danger;">**Force I**</mark>, <mark style="color:$info;">**Résistance I**</mark> et **12**<mark style="color:$danger;">**❤**</mark> maximum, aussi dans ses dimensions.
+> <mark style="color:orange;">**Kaguya**</mark> possède <mark style="color:red;">**Force I**</mark>, <mark style="color:blue;">**Résistance I**</mark> et **12**<mark style="color:red;">**❤**</mark> maximum, aussi dans ses dimensions.
 
 ➜ <mark style="color:$success;">**Byakugan**</mark> • `Passif`
 
@@ -33,20 +33,23 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 
 ➜ <mark style="color:$success;">**Dimension de Glace**</mark> • `Particularités`
 
-> <mark style="color:orange;">**Kaguya**</mark> a <mark style="color:cyan;">**Vitesse I**</mark>. Quand elle marche, le sol devient de la glace sur **3 × 3 blocs**. Le gel des adversaires monte de **2 %** par seconde et à chacun de ses coups. À **100 %** : immobilisé **1,5 seconde**, puis le gel revient à 0 %.
+> <mark style="color:orange;">**Kaguya**</mark> a <mark style="color:cyan;">**Vitesse I**</mark>. Quand elle marche, le sol devient de la glace sur **3 × 3 blocs**.
+>
+> Le gel des adversaires monte de **2 %** par seconde et à chacun de ses coups. À **100 %** : immobilisé **1,5 seconde**, puis le gel revient à 0 %.
 
 ➜ <mark style="color:$success;">**Dimension de Lave**</mark> • `Particularités`
 
-> Des météorites tombent au hasard ; un cercle orange annonce l'impact : **1,5**<mark style="color:$danger;">**❤**</mark> et **5 secondes** de feu. <mark style="color:orange;">**Kaguya**</mark> a <mark style="color:cyan;">**Vitesse I**</mark>, et ses coups ont **15 %** de chances d'enflammer.
+> Des météorites tombent au hasard ; un cercle orange annonce l'impact : **1,5**<mark style="color:red;">**❤**</mark> et **5 secondes** de feu. <mark style="color:orange;">**Kaguya**</mark> a <mark style="color:cyan;">**Vitesse I**</mark>, et ses coups ont **15 %** de chances d'enflammer.
 >
 > ➜ <mark style="color:$success;">**Réutiliser l'objet**</mark> • **30 secondes**
 >
 > > une météorite là où elle vise.
->
 
 ➜ <mark style="color:$success;">**Dimension de Gravité**</mark> • `Particularités`
 
-> Toutes les **10 secondes**, les adversaires sont projetés de **5 blocs** au hasard ; vers le bas, ils ne peuvent plus sauter jusqu'au changement suivant. <mark style="color:orange;">**Kaguya**</mark> n'est jamais projetée : <mark style="color:cyan;">**Vitesse II**</mark> et **Jump Boost IV**. Les autres participants ont <mark style="color:cyan;">**Vitesse I**</mark>.
+> Toutes les **10 secondes**, les adversaires sont projetés de **5 blocs** au hasard ; vers le bas, ils ne peuvent plus sauter jusqu'au changement suivant.
+>
+> <mark style="color:orange;">**Kaguya**</mark> n'est jamais projetée : <mark style="color:cyan;">**Vitesse II**</mark> et <mark style="color:$success;">**Sauts améliorés IV**</mark>. Les autres participants ont <mark style="color:cyan;">**Vitesse I**</mark>.
 
 {% endhint %}
 
@@ -85,3 +88,5 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/kaguya.gif" alt="Kaguya" width="480"><figcaption><p>Illustration de Kaguya.</p></figcaption></figure></div>

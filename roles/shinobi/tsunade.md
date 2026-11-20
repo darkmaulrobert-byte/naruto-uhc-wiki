@@ -15,7 +15,7 @@ description: "Camp : Shinobi • Doton"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:orange;">**Doton**</mark>.
+> <mark style="color:orange;">**Doton**</mark> (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -25,11 +25,11 @@ description: "Camp : Shinobi • Doton"
 
 ➜ <mark style="color:$success;">**Effet**</mark> • `Passif`
 
-> <mark style="color:green;">**Tsunade**</mark> possède l'effet <mark style="color:$danger;">**Force I**</mark> permanent.
+> <mark style="color:green;">**Tsunade**</mark> possède l'effet <mark style="color:red;">**Force I**</mark> permanent.
 
 ➜ <mark style="color:$success;">**Force surhumaine**</mark> • `Particularités`
 
-> Tous les **15 coups**, <mark style="color:green;">**Tsunade**</mark> peut faire un smash. Le joueur touché subit **1,5**<mark style="color:$danger;">**❤**</mark> et il est projeté à **15 blocs**, en cassant les blocs sur son passage.
+> Tous les **15 coups**, <mark style="color:green;">**Tsunade**</mark> peut faire un smash. Le joueur touché subit **1,5**<mark style="color:red;">**❤**</mark> et il est projeté à **15 blocs**, en cassant les blocs sur son passage.
 
 ➜ <mark style="color:$success;">**Yens**</mark> • `Particularités`
 
@@ -46,12 +46,12 @@ description: "Camp : Shinobi • Doton"
 
 > <mark style="color:green;">**Tsunade**</mark> parie des yens sur un joueur. Si le pari est juste, l'information est confirmée. S'il est faux, elle subit le malus :
 >
-> * **Ce joueur a un effet** (**400**) : sinon, **Faiblesse I** pendant **10 secondes**.
-> * **Il a utilisé un pouvoir il y a moins de 10 minutes** (**500**) : sinon, **Lenteur I** pendant **15 secondes**.
-> * **Il a fait au moins une élimination** (**600**) : sinon, elle perd **1,5**<mark style="color:$danger;">**❤**</mark>.
-> * **Il possède cette nature** (**750**) : sinon, **Cécité** pendant **4 secondes** et **Nausée** pendant **8 secondes**.
-> * **Il appartient au camp Shinobi** (**1 200**) : sinon, elle perd **2,5**<mark style="color:$danger;">**❤**</mark> et subit **Faiblesse I** et **Lenteur I** pendant **15 secondes**.
-> * **Ces deux joueurs sont du même camp** (**1 000**) : la confirmation ne dit pas lequel ; sinon, elle perd **2**<mark style="color:$danger;">**❤**</mark> et subit **Faiblesse I** pendant **15 secondes**.
+> * **Ce joueur a un effet** (**400**) : sinon, <mark style="color:$tint;">**Faiblesse I**</mark> pendant **10 secondes**.
+> * **Il a utilisé un pouvoir il y a moins de 10 minutes** (**500**) : sinon, <mark style="color:purple;">**Lenteur I**</mark> pendant **15 secondes**.
+> * **Il a fait au moins une élimination** (**600**) : sinon, elle perd **1,5**<mark style="color:red;">**❤**</mark>.
+> * **Il possède cette nature** (**750**) : sinon, <mark style="color:violet;">**Cécité**</mark> pendant **4 secondes** et <mark style="color:green;">**Nausée**</mark> pendant **8 secondes**.
+> * **Il appartient au camp Shinobi** (**1 200**) : sinon, elle perd **2,5**<mark style="color:red;">**❤**</mark> et subit <mark style="color:$tint;">**Faiblesse I**</mark> et <mark style="color:purple;">**Lenteur I**</mark> pendant **15 secondes**.
+> * **Ces deux joueurs sont du même camp** (**1 000**) : la confirmation ne dit pas lequel ; sinon, elle perd **2**<mark style="color:red;">**❤**</mark> et subit <mark style="color:$tint;">**Faiblesse I**</mark> pendant **15 secondes**.
 >
 > ⚠ Le coût du pari est retiré même si le pari est faux.
 
@@ -62,3 +62,5 @@ description: "Camp : Shinobi • Doton"
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/tsunade.gif" alt="Tsunade" width="480"><figcaption><p>Illustration de Tsunade.</p></figcaption></figure></div>

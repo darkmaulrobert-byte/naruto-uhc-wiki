@@ -12,7 +12,12 @@ icon: moon
 
 <h3 align="center"><mark style="color:$success;"><strong>»</strong></mark> Surbrillance <mark style="color:$success;">«</mark></h3>
 
-> Plusieurs pouvoirs font **briller** des joueurs dans une couleur, visible uniquement par celui qui utilise le pouvoir. Par exemple : le **Byakugan** (joueurs proches en blanc), le **Rinnegan** de **Nagato** (joueurs proches en violet), la **Détection** de **Kisame** (joueurs qui utilisent un pouvoir, en bleu), ou les **parchemins** pendant la **Forêt de la Mort**.
+> Plusieurs pouvoirs font **briller** des joueurs dans une couleur, visible uniquement par celui qui utilise le pouvoir. Par exemple :
+>
+> * le **Byakugan** : les joueurs proches en blanc ;
+> * le **Rinnegan** de [<mark style="color:red;">**Nagato**</mark>](../roles/akatsuki/nagato.md) : les joueurs proches en violet ;
+> * la **Détection** de [<mark style="color:red;">**Kisame**</mark>](../roles/akatsuki/kisame.md) : les joueurs qui utilisent un pouvoir, en bleu ;
+> * les **parchemins** pendant la **Forêt de la Mort**.
 
 {% hint style="warning" %}
 **Sans Lunar Client**, les surbrillances ne s'affichent pas : le pouvoir fonctionne, mais vous ne voyez pas les joueurs briller. Tout le reste du mode (pouvoirs, barres, messages, effets) fonctionne sur un client **1.8.9** classique.

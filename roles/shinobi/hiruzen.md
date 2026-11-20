@@ -3,7 +3,7 @@ icon: fire
 description: "Camp : Shinobi • une nature aléatoire au début de la partie"
 ---
 
-# ▸ Hiruzen Sarutobi
+# ▸ Hiruzen
 
 {% hint style="info" icon="fire" %}
 
@@ -15,7 +15,7 @@ description: "Camp : Shinobi • une nature aléatoire au début de la partie"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : une nature aléatoire au début de la partie.
+> une nature aléatoire au début de la partie (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -31,7 +31,7 @@ description: "Camp : Shinobi • une nature aléatoire au début de la partie"
 
 ➜ <mark style="color:$success;">**Volonté du Feu**</mark> • `Passif`
 
-> Quand <mark style="color:green;">**Hiruzen**</mark> descend sous **4**<mark style="color:$danger;">**❤**</mark>, sa prochaine technique élémentaire est utilisable tout de suite, même en cooldown.
+> Quand <mark style="color:green;">**Hiruzen**</mark> descend sous **4**<mark style="color:red;">**❤**</mark>, sa prochaine technique élémentaire est utilisable tout de suite, même en cooldown.
 >
 > ⚠ Ce passif ne marche pas pour l'Enchaînement. Il se recharge en **4 minutes**.
 
@@ -47,29 +47,35 @@ description: "Camp : Shinobi • une nature aléatoire au début de la partie"
 >
 > `Clic-Droit` : il utilise la technique de cette nature.
 >
-> * **Katon :** un souffle de feu de **12 × 3** inflige **1**<mark style="color:$danger;">**❤**</mark> et enflamme pendant **3 secondes**.
-> * **Suiton :** un jet d'eau part jusqu'à **15 blocs**. Un geyser propulse le premier joueur touché à **30 blocs**, et sa chute ne lui retire que **1**<mark style="color:$danger;">**❤**</mark>.
-> * **Raiton :** un éclair en zigzag jaillit de sa main jusqu'à **15 blocs**, et la foudre tombe sur le premier joueur touché : **1**<mark style="color:$danger;">**❤**</mark> et **Lenteur II** pendant **3 secondes**.
-> * **Fûton :** une tornade avance sur **12 blocs**, soulève les joueurs, les éjecte et inflige **1,5**<mark style="color:$danger;">**❤**</mark>.
+> * **Katon :** un souffle de feu de **12 × 3** inflige **1**<mark style="color:red;">**❤**</mark> et enflamme pendant **3 secondes**.
+> * **Suiton :** un jet d'eau part jusqu'à **15 blocs**. Un geyser propulse le premier joueur touché à **30 blocs**, et sa chute ne lui retire que **1**<mark style="color:red;">**❤**</mark>.
+> * **Raiton :** un éclair en zigzag jaillit de sa main jusqu'à **15 blocs**, et la foudre tombe sur le premier joueur touché : **1**<mark style="color:red;">**❤**</mark> et <mark style="color:purple;">**Lenteur II**</mark> pendant **3 secondes**.
+> * **Fûton :** une tornade avance sur **12 blocs**, soulève les joueurs, les éjecte et inflige **1,5**<mark style="color:red;">**❤**</mark>.
 > * **Doton :** un mur de terre de **10 × 4**, épais de **2 blocs**, sort du sol à **4 blocs** devant lui pendant **8 secondes**.
 
 ➜ <mark style="color:$success;">**Enchaînement Élémentaire**</mark> • `Clic-Droit` • ⌚ : 4 minutes
 
 > Ce pouvoir partage la Nether Star des Cinq Remparts.
 >
-> `Clic-Droit` : sans combinaison choisie (ou pendant le cooldown), <mark style="color:green;">**Hiruzen**</mark> choisit **2 natures** dans le menu. Avec une combinaison choisie, les deux techniques partent en même temps, puis il en choisit une nouvelle.
+> `Clic-Droit` : sans combinaison choisie (ou pendant le cooldown), <mark style="color:green;">**Hiruzen**</mark> choisit **2 natures** dans le menu.
 >
-> * <mark style="color:red;">**Katon**</mark> et **Fûton :** la tornade s'enflamme et enflamme pendant **3 secondes**.
-> * <mark style="color:blue;">**Suiton**</mark> et **Katon :** le Suiton projette le joueur dans les airs pendant que le Katon lui inflige **1**<mark style="color:$danger;">**❤**</mark> et l'enflamme **3 secondes**.
-> * <mark style="color:blue;">**Suiton**</mark> puis **Raiton :** la foudre tombe sur le joueur propulsé, jusqu'à **40 blocs**, et l'immobilise **0,5 seconde**.
-> * <mark style="color:orange;">**Doton**</mark> puis **Suiton :** le mur éclate, et ses débris touchent les joueurs sur **8 blocs** derrière lui (**1**<mark style="color:$danger;">**❤**</mark>).
+> Avec une combinaison choisie, les deux techniques partent en même temps, puis il en choisit une nouvelle.
+>
+> * **Katon** et **Fûton :** la tornade s'enflamme et enflamme pendant **3 secondes**.
+> * **Suiton** et **Katon :** le Suiton projette le joueur dans les airs pendant que le Katon lui inflige **1**<mark style="color:red;">**❤**</mark> et l'enflamme **3 secondes**.
+> * **Suiton** puis **Raiton :** la foudre tombe sur le joueur propulsé, jusqu'à **40 blocs**, et l'immobilise **0,5 seconde**.
+> * **Doton** puis **Suiton :** le mur éclate, et ses débris touchent les joueurs sur **8 blocs** derrière lui (**1**<mark style="color:red;">**❤**</mark>).
 
 ➜ <mark style="color:$success;">**Les Cinq Remparts**</mark> • `Clic-Droit` • ⌚ : 8 minutes
 
-> <mark style="color:green;">**Hiruzen**</mark> fait surgir **5 piliers** en bois au hasard dans un rayon de **30 blocs**, pendant **1 minute**. En réutilisant le pouvoir, il se téléporte au sommet d'un pilier au hasard, qui s'effondre **2 secondes** après.
+> <mark style="color:green;">**Hiruzen**</mark> fait surgir **5 piliers** en bois au hasard dans un rayon de **30 blocs**, pendant **1 minute**.
+>
+> En réutilisant le pouvoir, il se téléporte au sommet d'un pilier au hasard, qui s'effondre **2 secondes** après.
 >
 > ⚠ **2 téléportations** au maximum. Les piliers peuvent être cassés.
 
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/hiruzen.gif" alt="Hiruzen" width="480"><figcaption><p>Illustration de Hiruzen.</p></figcaption></figure></div>

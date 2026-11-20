@@ -3,7 +3,7 @@ icon: hand-fist
 description: "Camp : Shinobi • une nature aléatoire"
 ---
 
-# ▸ Sakura Haruno
+# ▸ Sakura
 
 {% hint style="info" icon="hand-fist" %}
 
@@ -15,7 +15,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : une nature aléatoire.
+> une nature aléatoire (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -25,7 +25,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 ➜ <mark style="color:$success;">**Force surhumaine**</mark> • `Particularités`
 
-> Tous les **15 coups**, <mark style="color:green;">**Sakura**</mark> peut faire un smash. Le joueur touché subit **1,5**<mark style="color:$danger;">**❤**</mark> et il est projeté à **15 blocs**, en cassant les blocs sur son passage.
+> Tous les **15 coups**, <mark style="color:green;">**Sakura**</mark> peut faire un smash. Le joueur touché subit **1,5**<mark style="color:red;">**❤**</mark> et il est projeté à **15 blocs**, en cassant les blocs sur son passage.
 
 ➜ <mark style="color:$success;">**Soin médical**</mark> • `Passif`
 
@@ -41,13 +41,15 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 > Katsuyu se pose sur l'épaule de <mark style="color:green;">**Sakura**</mark> pendant **2 minutes** et agit toutes les **20 secondes** :
 >
-> * **Soin :** elle donne **Régénération II** pendant **6 secondes** aux joueurs colorés en vert à moins de **20 blocs**.
-> * **Acide :** le dernier joueur frappé par <mark style="color:green;">**Sakura**</mark> brille en vert, subit **1**<mark style="color:$danger;">**❤**</mark>, puis **½**<mark style="color:$danger;">**❤**</mark> toutes les **2 secondes** pendant **4 secondes**.
+> * **Soin :** elle donne <mark style="color:pink;">**Régénération II**</mark> pendant **6 secondes** aux joueurs colorés en vert à moins de **20 blocs**.
+> * **Acide :** le dernier joueur frappé par <mark style="color:green;">**Sakura**</mark> brille en vert, subit **1**<mark style="color:red;">**❤**</mark>, puis **½**<mark style="color:red;">**❤**</mark> toutes les **2 secondes** pendant **4 secondes**.
 
 ➜ <mark style="color:$success;">**Impact**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> <mark style="color:green;">**Sakura**</mark> fait un dash de **20 blocs** et crée un cratère de **5 × 5** à l'arrivée. Les joueurs pris dedans subissent **2**<mark style="color:$danger;">**❤**</mark> et sont projetés à **10 blocs**.
+> <mark style="color:green;">**Sakura**</mark> fait un dash de **20 blocs** et crée un cratère de **5 × 5** à l'arrivée. Les joueurs pris dedans subissent **2**<mark style="color:red;">**❤**</mark> et sont projetés à **10 blocs**.
 
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/sakura.gif" alt="Sakura" width="480"><figcaption><p>Illustration de Sakura.</p></figcaption></figure></div>

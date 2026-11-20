@@ -15,7 +15,7 @@ description: "Camp : Shinobi • Raiton"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:yellow;">**Raiton**</mark>.
+> <mark style="color:yellow;">**Raiton**</mark> (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -25,11 +25,13 @@ description: "Camp : Shinobi • Raiton"
 
 ➜ <mark style="color:$success;">**Immunité**</mark> • `Particularités`
 
-> <mark style="color:green;">**Killer Bee**</mark> est immunisé contre les effets négatifs, comme le **Poison**, la **Lenteur** ou la **Cécité**.
+> <mark style="color:green;">**Killer Bee**</mark> est immunisé contre les effets négatifs, comme le <mark style="color:green;">**Poison**</mark>, la <mark style="color:purple;">**Lenteur**</mark> ou la <mark style="color:violet;">**Cécité**</mark>.
 
 ➜ <mark style="color:$success;">**Les Sept Épées**</mark> • `/ns add lame <nombre>`
 
-> <mark style="color:green;">**Killer Bee**</mark> possède **7 épées en fer Tranchant IV**, regroupées dans le premier slot, et il commence avec **1** seule. Chaque épée après la première lui donne **+4 %** de Force, soit **+24 %** avec les sept.
+> <mark style="color:green;">**Killer Bee**</mark> possède **7 épées en fer Tranchant IV**, regroupées dans le premier slot, et il commence avec **1** seule.
+>
+> Chaque épée après la première lui donne **+4 %** de <mark style="color:red;">Force</mark>, soit **+24 %** avec les sept.
 >
 > Les commandes `/ns add lame <nombre>` et `/ns remove lame <nombre>` ajoutent ou retirent des lames.
 
@@ -47,7 +49,7 @@ description: "Camp : Shinobi • Raiton"
 
 ➜ <mark style="color:$success;">**Tentacules**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> <mark style="color:green;">**Killer Bee**</mark> saisit un joueur pendant **15 secondes**. Il le tient à **3 blocs** devant lui, et le joueur suit son regard en subissant **½**<mark style="color:$danger;">**❤**</mark> toutes les **5 secondes**.
+> <mark style="color:green;">**Killer Bee**</mark> saisit un joueur pendant **15 secondes**. Il le tient à **3 blocs** devant lui, et le joueur suit son regard en subissant **½**<mark style="color:red;">**❤**</mark> toutes les **5 secondes**.
 >
 > ➜ Molette vers le haut ou vers le bas : il l'éloigne (jusqu'à **60 blocs**) ou le rapproche.
 >
@@ -56,3 +58,5 @@ description: "Camp : Shinobi • Raiton"
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/killerbee.gif" alt="Killer Bee" width="480"><figcaption><p>Illustration de Killer Bee.</p></figcaption></figure></div>

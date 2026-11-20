@@ -15,7 +15,7 @@ description: "Camp : Réincarnés • Doton et Fûton"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:orange;">**Doton**</mark> et <mark style="color:green;">**Fûton**</mark>.
+> <mark style="color:orange;">**Doton**</mark> et <mark style="color:green;">**Fûton**</mark> (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -25,11 +25,15 @@ description: "Camp : Réincarnés • Doton et Fûton"
 
 ➜ <mark style="color:$success;">**Connaissances**</mark> • `Particularités`
 
-> <mark style="color:blue;">**Mû**</mark> ne connaît aucun allié au départ : il rejoint la **liste progressive des Réincarnés** quand **Kabuto** le découvre (voir [Liste des Réincarnés](../../particularites/liste-des-reincarnes.md)).
+> <mark style="color:blue;">**Mû**</mark> ne connaît aucun allié au départ. Il rejoint la liste des Réincarnés quand [<mark style="color:blue;">**Kabuto**</mark>](kabuto.md) le découvre.
+>
+> Voir [Liste des Réincarnés](../../particularites/liste-des-reincarnes.md).
 
 ➜ <mark style="color:$success;">**Mujin Meisai — Camouflage**</mark> • `Particularités`
 
-> <mark style="color:blue;">**Mû**</mark> devient invisible ou redevient visible quand il le veut, hors combat. Invisible, son armure est retirée et rangée (elle revient quand il redevient visible), et les autres ne voient pas l'objet qu'il tient.
+> <mark style="color:blue;">**Mû**</mark> devient invisible ou redevient visible quand il le veut, hors combat.
+>
+> Invisible, son armure est retirée et rangée (elle revient quand il redevient visible), et les autres ne voient pas l'objet qu'il tient.
 >
 > ⚠ Pendant le camouflage, <mark style="color:blue;">**Mû**</mark> n'a aucune protection d'armure.
 
@@ -39,7 +43,7 @@ description: "Camp : Réincarnés • Doton et Fûton"
 >
 > * **Léger :** <mark style="color:cyan;">**Vitesse I**</mark>.
 > * **Normal :** aucun effet.
-> * **Lourd :** <mark style="color:$info;">**Résistance I**</mark>.
+> * **Lourd :** <mark style="color:blue;">**Résistance I**</mark>.
 
 {% endhint %}
 
@@ -49,14 +53,18 @@ description: "Camp : Réincarnés • Doton et Fûton"
 
 ➜ <mark style="color:$success;">**Jinton — Cône de Désintégration**</mark> • `Clic-Droit` • ⌚ : 8 minutes
 
-> Des blocs de terre, de roche et de feuilles s'arrachent du sol et volent vers <mark style="color:blue;">**Mû**</mark> pendant **5 secondes**, puis il projette un cône jusqu'à **30 blocs**. Les joueurs touchés subissent **2**<mark style="color:$danger;">**❤**</mark> et **Wither II** pendant **3 secondes**.
+> Des blocs de terre, de roche et de feuilles s'arrachent du sol et volent vers <mark style="color:blue;">**Mû**</mark> pendant **5 secondes**, puis il projette un cône jusqu'à **30 blocs**.
+>
+> Les joueurs touchés subissent **2**<mark style="color:red;">**❤**</mark> et <mark style="color:$secondary;">**Wither II**</mark> pendant **3 secondes**.
 
 ➜ <mark style="color:$success;">**Bunretsu — La Division**</mark> • `Clic-Droit`
 
-> Une fois par partie, un coup mortel scinde <mark style="color:blue;">**Mû**</mark> en deux : un clone à son skin reste à l'endroit de sa mort et marche tout droit sur **20 blocs** avant de disparaître, pendant que le vrai <mark style="color:blue;">**Mû**</mark> réapparaît avec **3**<mark style="color:$danger;">**❤**</mark> à un endroit au hasard de la carte.
+> Une fois par partie, un coup mortel scinde <mark style="color:blue;">**Mû**</mark> en deux : un clone à son skin reste à l'endroit de sa mort et marche tout droit sur **20 blocs** avant de disparaître, pendant que le vrai <mark style="color:blue;">**Mû**</mark> réapparaît avec **3**<mark style="color:red;">**❤**</mark> à un endroit au hasard de la carte.
 >
 > ⚠ Le cooldown du Jinton passe ensuite à **16 minutes** jusqu'à la fin de la partie.
 
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/mu.gif" alt="Mû" width="480"><figcaption><p>Illustration de Mû.</p></figcaption></figure></div>

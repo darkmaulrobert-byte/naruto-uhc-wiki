@@ -15,7 +15,7 @@ description: "Camp : Akatsuki • Doton"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:orange;">**Doton**</mark>.
+> <mark style="color:orange;">**Doton**</mark> (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -25,7 +25,9 @@ description: "Camp : Akatsuki • Doton"
 
 ➜ <mark style="color:$success;">**Connaissances**</mark> • `Particularités`
 
-> <mark style="color:red;">**Zetsu**</mark> ne connaît personne au départ : il doit être reconnu par un membre du **réseau de l'Akatsuki**, puis il reconnaît les autres à son tour (voir [Liste de l'Akatsuki](../../particularites/liste-de-lakatsuki.md)).
+> <mark style="color:red;">**Zetsu**</mark> ne connaît personne au départ. Il doit être reconnu par un membre du réseau de l'Akatsuki, puis il reconnaît les autres à son tour.
+>
+> Voir [Liste de l'Akatsuki](../../particularites/liste-de-lakatsuki.md).
 
 ➜ <mark style="color:$success;">**Corps Végétal**</mark> • `Passif`
 
@@ -45,7 +47,9 @@ description: "Camp : Akatsuki • Doton"
 
 ➜ <mark style="color:$success;">**Spores**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> <mark style="color:red;">**Zetsu**</mark> accroche des spores à un joueur à moins de **15 blocs** pendant **1 minute**. Il est prévenu de chaque pouvoir que ce joueur utilise. En réutilisant le pouvoir, les spores donnent **Lenteur II** pendant **3 secondes**.
+> <mark style="color:red;">**Zetsu**</mark> accroche des spores à un joueur à moins de **15 blocs** pendant **1 minute**. Il est prévenu de chaque pouvoir que ce joueur utilise.
+>
+> En réutilisant le pouvoir, les spores donnent <mark style="color:purple;">**Lenteur II**</mark> pendant **3 secondes**.
 
 ➜ <mark style="color:$success;">**Clone de Zetsu Blanc**</mark> • `Clic-Droit` • ⌚ : 10 minutes
 
@@ -55,7 +59,7 @@ description: "Camp : Akatsuki • Doton"
 
 ➜ <mark style="color:$success;">**Racines**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> Les joueurs à moins de **15 blocs** sont enfermés dans un cocon de bois incassable pendant **2 secondes**. Ils ne peuvent pas en sortir et subissent **1**<mark style="color:$danger;">**❤**</mark>.
+> Les joueurs à moins de **15 blocs** sont enfermés dans un cocon de bois incassable pendant **2 secondes**. Ils ne peuvent pas en sortir et subissent **1**<mark style="color:red;">**❤**</mark>.
 
 ➜ <mark style="color:$success;">**Réseau Souterrain**</mark> • `/ns zetsu <joueur>` • ⌚ : 8 minutes
 
@@ -63,10 +67,8 @@ description: "Camp : Akatsuki • Doton"
 >
 > ⚠ Si le joueur choisi n'est pas de l'Akatsuki, le réseau ne s'ouvre pas, mais le cooldown de **8 minutes** est lancé.
 
-➜ <mark style="color:$success;">**Gedō Mazō**</mark> • `Clic-Droit` sur la statue
-
-> <mark style="color:red;">**Zetsu**</mark> scelle des Bijû dans le Gedō Mazō avec son camp pour réveiller Jûbi (voir [Le Réveil de Jûbi](../../particularites/jubi/reveil-de-jubi.md)).
-
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/zetsu.gif" alt="Zetsu" width="480"><figcaption><p>Illustration de Zetsu.</p></figcaption></figure></div>

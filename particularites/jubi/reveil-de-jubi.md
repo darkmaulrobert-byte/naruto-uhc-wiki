@@ -2,11 +2,7 @@
 icon: cloud-bolt
 ---
 
-# ▸ Le Réveil de Jûbi — Akatsuki
-
-{% hint style="warning" %}
-Jûbi est un réglage de l'**host** : il n'est disponible que s'il a été **activé** pour la partie.
-{% endhint %}
+# ▸ Le Réveil de Jûbi
 
 {% hint style="info" icon="cloud-bolt" %}
 
@@ -14,17 +10,25 @@ Jûbi est un réglage de l'**host** : il n'est disponible que s'il a été **act
 
 ➜ <mark style="color:$success;">**Statue mobile**</mark> • `Particularités`
 
-> À l'annonce des rôles, le **Gedō Mazō** apparaît à un endroit au hasard entre **−400** et **+400** en X et en Z. Toutes les **5 minutes**, la statue disparaît et réapparaît ailleurs : les Bijû déjà scellés restent scellés.
+> À l'annonce des rôles, le **Gedō Mazō** apparaît au hasard entre **−400** et **+400** en X et en Z.
+>
+> Toutes les **5 minutes**, la statue disparaît et réapparaît ailleurs. Les Bijû déjà scellés le restent.
 
 ➜ <mark style="color:$success;">**Coordonnées**</mark> • `/ns me`
 
-> Les membres de l'<mark style="color:red;">**Akatsuki**</mark> reçoivent les coordonnées de la statue à chaque déplacement. La position actuelle s'affiche aussi en bas de `/ns me`.
+> Les membres de l'Akatsuki reçoivent les coordonnées de la statue à chaque déplacement.
+>
+> La position actuelle s'affiche aussi en bas de `/ns me`.
 
 ➜ <mark style="color:$success;">**Sceller un Bijû**</mark> • `Clic-Droit` sur la statue
 
-> À moins de **5 blocs** de la statue, un membre de l'<mark style="color:red;">**Akatsuki**</mark> choisit un Bijû qu'il possède (actif ou en objet) et confirme : le Bijû est **scellé pour toujours**. S'il s'agit de son Bijû actif, il **perd ses bonus**. La progression est **commune** à tout le camp.
+> À moins de **5 blocs** de la statue, un membre de l'Akatsuki choisit un Bijû qu'il possède, puis confirme.
 >
-> ⚠ Seule l'<mark style="color:red;">**Akatsuki**</mark> peut sceller des Bijû. Il faut **6 Bijû différents**.
+> * Le Bijû est **scellé pour toujours**.
+> * S'il s'agissait de son Bijû actif, il **perd ses bonus**.
+> * La progression est **commune** à tout le camp.
+>
+> ⚠ Seule l'Akatsuki peut sceller des Bijû. Il faut **6 Bijû différents**.
 
 {% endhint %}
 
@@ -34,29 +38,56 @@ Jûbi est un réglage de l'**host** : il n'est disponible que s'il a été **act
 
 ➜ <mark style="color:$success;">**Bonus du camp**</mark> • `Passif`
 
-> Au sixième Bijû, Jûbi s'éveille : le ciel s'assombrit et l'orage éclate. Chaque membre de l'<mark style="color:red;">**Akatsuki**</mark> en vie gagne **+20 %** d'un effet qu'il n'a pas (<mark style="color:$danger;">**Force**</mark>, <mark style="color:$info;">**Résistance**</mark> ou <mark style="color:cyan;">**Vitesse**</mark>) jusqu'à la fin de la partie. Ses pommes d'or ont **20 %** de chances de donner **3**<mark style="color:$danger;">**❤**</mark> d'absorption au total.
+> Au sixième Bijû, Jûbi s'éveille : le ciel s'assombrit et l'orage éclate.
+>
+> Chaque membre de l'Akatsuki en vie obtient, jusqu'à la fin de la partie :
+>
+> * **+20 %** d'un effet qu'il n'a pas : <mark style="color:red;">**Force**</mark>, <mark style="color:blue;">**Résistance**</mark> ou <mark style="color:cyan;">**Vitesse**</mark> ;
+> * **20 %** de chances que ses pommes d'or donnent **3**<mark style="color:red;">**❤**</mark> d'<mark style="color:yellow;">absorption</mark> au total.
 
 ➜ <mark style="color:$success;">**Cataclysme**</mark> • `Particularités`
 
-> Une pluie de **météorites** frappe la zone entre **−500** et **+500** autour du centre, **sans toucher l'**<mark style="color:red;">**Akatsuki**</mark>. Chaque météorite est annoncée par une **ombre au sol** **3 secondes** avant l'impact, puis creuse un cratère.
+> Une pluie de **météorites** frappe la zone entre **−500** et **+500** autour du centre, **sans toucher l'Akatsuki**.
 >
-> Chaque coup entre deux joueurs fait monter un **compteur commun** et a **5 %** de chances de faire tomber une météorite près de la victime. Le compteur fait passer le cataclysme au **palier suivant**, au plus une fois toutes les **3 minutes**.
+> Chaque météorite est annoncée par une **ombre au sol** **3 secondes** avant l'impact, puis creuse un cratère.
+
+➜ <mark style="color:$success;">**Compteur de coups**</mark> • `Particularités`
+
+> Chaque coup entre deux joueurs fait monter un **compteur commun**, et a **5 %** de chances de faire tomber une météorite près de la victime.
+>
+> Le compteur fait passer le cataclysme au **palier suivant**, au plus une fois toutes les **3 minutes**.
 
 {% endhint %}
 
-<h3 align="center"><mark style="color:red;"><strong>»</strong></mark> Paliers de météorites <mark style="color:red;">«</mark></h3>
+{% hint style="danger" icon="meteor" %}
 
-| Palier | Seuil (coups) | Fréquence | Météorites | Dégâts | Cratère (diamètre) | Recul |
-| :----: | :-----------: | :-------: | :--------: | :-----: | :----------------: | :---: |
-| **0** | Réveil | toutes les **5 s** | **15** | **1**❤ | **5 blocs** | aucun |
-| **1** | **500** | toutes les **4 s** | **25** | **1,5**❤ | **8 blocs** | **5 blocs** |
-| **2** | **1 200** | toutes les **3 s** | **35** | **2**❤ | **12 blocs** | **8 blocs** |
-| **3** | **2 000** | toutes les **3 s** | **50** | **3**❤ | **15 blocs** | **10 blocs** |
+<p align="center"><mark style="color:red;"><strong>»</strong></mark> <strong>PALIERS DE MÉTÉORITES</strong> <mark style="color:red;"><strong>«</strong></mark></p>
 
-{% hint style="danger" %}
-Au **palier 3**, une **météorite géante** tombe en plus toutes les **20 secondes** : ombre de **5 secondes**, cratère de **30 blocs**, **4**❤.
+**Palier 0 : Réveil**
+
+* **15 météorites** toutes les **5 secondes**.
+* **1**<mark style="color:red;">**❤**</mark> par impact.
+* Cratère de **5 blocs**, sans recul.
+
+**Palier 1 : 500 coups**
+
+* **25 météorites** toutes les **4 secondes**.
+* **1,5**<mark style="color:red;">**❤**</mark> par impact.
+* Cratère de **8 blocs**, recul de **5 blocs**.
+
+**Palier 2 : 1 200 coups**
+
+* **35 météorites** toutes les **3 secondes**.
+* **2**<mark style="color:red;">**❤**</mark> par impact.
+* Cratère de **12 blocs**, recul de **8 blocs**.
+
+**Palier 3 : 2 000 coups**
+
+* **50 météorites** toutes les **3 secondes**.
+* **3**<mark style="color:red;">**❤**</mark> par impact.
+* Cratère de **15 blocs**, recul de **10 blocs**.
+* Une **météorite géante** toutes les **20 secondes** : ombre de **5 secondes**, cratère de **30 blocs**, **4**<mark style="color:red;">**❤**</mark>.
+
 {% endhint %}
 
-{% hint style="info" %}
-Le réveil par l'Akatsuki ne crée **aucun Jinchûriki** : les six Bijû sont consommés. Pour devenir Jinchûriki de Jûbi, voir [Jinchûriki des Six Chemins](jinchuriki-des-six-chemins.md).
-{% endhint %}
+> Le Réveil ne crée **aucun Jinchûriki** : les six Bijû sont consommés. Voir aussi [Jinchûriki des Six Chemins](jinchuriki-des-six-chemins.md).

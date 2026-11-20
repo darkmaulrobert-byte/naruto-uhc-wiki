@@ -15,7 +15,7 @@ description: "Camp : Shinobi • Doton et Fûton"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:orange;">**Doton**</mark> et <mark style="color:green;">**Fûton**</mark>.
+> <mark style="color:orange;">**Doton**</mark> et <mark style="color:green;">**Fûton**</mark> (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -25,7 +25,9 @@ description: "Camp : Shinobi • Doton et Fûton"
 
 ➜ <mark style="color:$success;">**Réserve de sable**</mark> • `/ns sable`
 
-> <mark style="color:green;">**Gaara**</mark> possède **500** de sable au début de la partie (**1 728** au maximum) et en gagne **5** toutes les **2 secondes**. La commande `/ns sable` ouvre sa réserve, dans laquelle il peut aussi déposer du sable.
+> <mark style="color:green;">**Gaara**</mark> possède **500** de sable au début de la partie (**1 728** au maximum) et en gagne **5** toutes les **2 secondes**.
+>
+> La commande `/ns sable` ouvre sa réserve, dans laquelle il peut aussi déposer du sable.
 >
 > ⚠ Le sable ne se recharge pas pendant un pouvoir qui en consomme.
 
@@ -59,11 +61,12 @@ description: "Camp : Shinobi • Doton et Fûton"
 >
 > ➜ <mark style="color:$success;">**Compression**</mark> • `Clic-Droit` • **150** sable
 >
-> > la sphère explose, inflige **2**<mark style="color:$danger;">**❤**</mark> et libère le joueur.
->
+> > la sphère explose, inflige **2**<mark style="color:red;">**❤**</mark> et libère le joueur.
 >
 > **Coût : 300 sable.**
 
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/gaara.gif" alt="Gaara" width="480"><figcaption><p>Illustration de Gaara.</p></figcaption></figure></div>

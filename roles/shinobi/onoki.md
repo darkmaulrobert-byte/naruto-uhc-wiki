@@ -15,7 +15,7 @@ description: "Camp : Shinobi • Doton et Fûton"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:orange;">**Doton**</mark> et <mark style="color:green;">**Fûton**</mark>.
+> <mark style="color:orange;">**Doton**</mark> et <mark style="color:green;">**Fûton**</mark> (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -29,7 +29,7 @@ description: "Camp : Shinobi • Doton et Fûton"
 
 ➜ <mark style="color:$success;">**Poing de Pierre**</mark> • `Passif`
 
-> Tous les **15 coups**, le prochain coup d'<mark style="color:green;">**Ônoki**</mark> inflige **½**<mark style="color:$danger;">**❤**</mark> de plus et projette le joueur à **5 blocs**, ou à **3 blocs** en l'air s'il est alourdi.
+> Tous les **15 coups**, le prochain coup d'<mark style="color:green;">**Ônoki**</mark> inflige **½**<mark style="color:red;">**❤**</mark> de plus et projette le joueur à **5 blocs**, ou à **3 blocs** en l'air s'il est alourdi.
 
 {% endhint %}
 
@@ -49,13 +49,15 @@ description: "Camp : Shinobi • Doton et Fûton"
 
 ➜ <mark style="color:$success;">**Golem de Pierre**</mark> • `Clic-Droit` • ⌚ : 8 minutes
 
-> <mark style="color:green;">**Ônoki**</mark> invoque un golem de **20**<mark style="color:$danger;">**❤**</mark> pendant **30 secondes**. Le golem suit le dernier joueur frappé et tape toutes les **3 secondes** : **½**<mark style="color:$danger;">**❤**</mark> et un recul de **3 blocs**.
+> <mark style="color:green;">**Ônoki**</mark> invoque un golem de **20**<mark style="color:red;">**❤**</mark> pendant **30 secondes**. Le golem suit le dernier joueur frappé et tape toutes les **3 secondes** : **½**<mark style="color:red;">**❤**</mark> et un recul de **3 blocs**.
 >
 > ➜ Réutiliser : le golem se transforme en mur de **5 × 4** pendant **8 secondes**.
 
 ➜ <mark style="color:$success;">**Jinton — Détachement du Monde Primitif**</mark> • `Clic-Droit` • ⌚ : 10 minutes
 
-> <mark style="color:green;">**Ônoki**</mark> charge un cube pendant **3 secondes**, puis le lance jusqu'à **25 blocs**. Le cube forme une zone de **7 × 7 × 7** : après **1 seconde**, tout y est détruit et les joueurs encore dedans subissent **3**<mark style="color:$danger;">**❤**</mark>.
+> <mark style="color:green;">**Ônoki**</mark> charge un cube pendant **3 secondes**, puis le lance jusqu'à **25 blocs**.
+>
+> Le cube forme une zone de **7 × 7 × 7** : après **1 seconde**, tout y est détruit et les joueurs encore dedans subissent **3**<mark style="color:red;">**❤**</mark>.
 >
 > ⚠ S'il bouge pendant la charge, la technique est annulée et son cooldown est rendu.
 
@@ -66,3 +68,5 @@ description: "Camp : Shinobi • Doton et Fûton"
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/onoki.gif" alt="Ônoki" width="480"><figcaption><p>Illustration de Ônoki.</p></figcaption></figure></div>

@@ -15,7 +15,7 @@ description: "Camp : Shinobi • Doton"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:orange;">**Doton**</mark>.
+> <mark style="color:orange;">**Doton**</mark> (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -25,12 +25,19 @@ description: "Camp : Shinobi • Doton"
 
 ➜ <mark style="color:$success;">**Détection de chakra**</mark> • `/ns chakra <joueur>`
 
-> Avec `/ns chakra <joueur>`, <mark style="color:green;">**Kiba**</mark> connaît la catégorie de chakra d'un joueur :
+> Avec `/ns chakra <joueur>`, <mark style="color:green;">**Kiba**</mark> sent le chakra d'un joueur et découvre sa **catégorie de chakra**. Elle ne donne **ni le rôle, ni le camp**.
 >
-> * **Apaisé :** surtout des Shinobi, avec quelques joueurs des autres camps.
-> * **Trouble :** un mélange des deux, impossible de s'y fier.
-> * **Sombre :** surtout des joueurs des autres camps, avec quelques Shinobi.
-> * **Malveillant :** uniquement des joueurs des autres camps.
+> <mark style="color:green;">**Chakra apaisé**</mark> : principalement des Shinobi, mais certains ennemis peuvent aussi en faire partie.
+>
+> <mark style="color:yellow;">**Chakra trouble**</mark> : un mélange de Shinobi et d'ennemis. Cette information ne suffit pas pour faire confiance au joueur.
+>
+> <mark style="color:orange;">**Chakra sombre**</mark> : principalement des ennemis, avec quelques Shinobi.
+>
+> <mark style="color:red;">**Chakra malveillant**</mark> : uniquement des ennemis. Le joueur n'appartient pas au camp Shinobi.
+>
+> Chaque rôle a toujours la même catégorie. `/ns chakra` seul affiche les quatre catégories.
+>
+> ⚠ Ces catégories n'ont rien à voir avec les **natures de chakra** (Katon, Suiton…).
 
 ➜ <mark style="color:$success;">**Griffes**</mark> • `Particularités`
 
@@ -44,7 +51,7 @@ description: "Camp : Shinobi • Doton"
 
 ➜ <mark style="color:$success;">**Akamaru**</mark> • `Clic-Droit`
 
-> Akamaru possède **50**<mark style="color:$danger;">**❤**</mark> et <mark style="color:cyan;">**Vitesse II**</mark>. Il attaque les joueurs que <mark style="color:green;">**Kiba**</mark> a frappés, ou qui l'ont frappé, dans les **20 dernières secondes**.
+> Akamaru possède **50**<mark style="color:red;">**❤**</mark> et <mark style="color:cyan;">**Vitesse II**</mark>. Il attaque les joueurs que <mark style="color:green;">**Kiba**</mark> a frappés, ou qui l'ont frappé, dans les **20 dernières secondes**.
 >
 > `Clic-Droit` : <mark style="color:green;">**Kiba**</mark> monte sur Akamaru (sur l'objet ou sur Akamaru) et peut sauter de **3 blocs** de haut.
 >
@@ -54,14 +61,16 @@ description: "Camp : Shinobi • Doton"
 
 ➜ <mark style="color:$success;">**Fusion avec Akamaru**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 
-> <mark style="color:green;">**Kiba**</mark> fusionne avec Akamaru, qui doit être en vie, et prend un skin de chien :
+> <mark style="color:green;">**Kiba**</mark> fusionne avec Akamaru, qui doit être en vie, et prend l'apparence d'un chien.
 >
 > * Toutes les **10 secondes**, un de ses coups peut toucher jusqu'à **4 blocs**.
-> * Tous les **15 coups**, il inflige un saignement de **½**<mark style="color:$danger;">**❤**</mark> pendant **3 secondes**.
-> * Il peut faire un double saut avec un dash de **10 blocs** toutes les **30 secondes**.
+> * Tous les **15 coups**, il inflige un saignement de **½**<mark style="color:red;">**❤**</mark> pendant **3 secondes**.
+> * Double saut : un dash de **10 blocs**, toutes les **30 secondes**.
 >
-> ⚠ Pendant la fusion, ses griffes restent à **Tranchant III**.
+> <mark style="color:red;">**⚠ Pendant la fusion, ses griffes restent à Tranchant III.**</mark>
 
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/kiba.gif" alt="Kiba" width="480"><figcaption><p>Illustration de Kiba.</p></figcaption></figure></div>

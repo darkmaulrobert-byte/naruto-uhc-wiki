@@ -8,7 +8,11 @@ icon: house
 
 <h3 id="document-naruto-uhc" align="center"><mark style="color:$success;"><strong>»</strong></mark> Document Naruto UHC <mark style="color:$success;">«</mark></h3>
 
-> Bienvenue sur le **document explicatif** du **Naruto UHC**. Le **Naruto UHC** est un UHC qui se base sur l'**œuvre** du même nom. Vous pouvez y incarner différents **personnages** qui vous donnent des **capacités passives** et **actives**, une ou plusieurs **natures de chakra**, et un **camp** avec lequel gagner. Au fil de la partie, des **Bijû** apparaissent, un **Hokage** est désigné et des **événements** peuvent se déclencher.
+> Bienvenue sur le **document explicatif** du **Naruto UHC**, un UHC qui se base sur l'**œuvre** du même nom.
+>
+> Vous y incarnez un **personnage** avec des **capacités passives** et **actives**, une ou plusieurs **natures de chakra**, et un **camp** avec lequel gagner.
+>
+> Au fil de la partie, des **Bijû** apparaissent, un **Hokage** est désigné et des **événements** peuvent se déclencher.
 
 <h3 id="comment-jouer" align="center"><mark style="color:$success;"><strong>»</strong></mark><strong> Comment jouer</strong> ? <mark style="color:$success;">«</mark></h3>
 

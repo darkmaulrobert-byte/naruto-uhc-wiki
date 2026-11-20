@@ -3,7 +3,7 @@ icon: eye
 description: "Camp : Shinobi • Raiton et Suiton"
 ---
 
-# ▸ Kakashi Hatake
+# ▸ Kakashi
 
 {% hint style="info" icon="eye" %}
 
@@ -15,7 +15,7 @@ description: "Camp : Shinobi • Raiton et Suiton"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:yellow;">**Raiton**</mark> et <mark style="color:blue;">**Suiton**</mark>.
+> <mark style="color:yellow;">**Raiton**</mark> et <mark style="color:blue;">**Suiton**</mark> (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -25,7 +25,9 @@ description: "Camp : Shinobi • Raiton et Suiton"
 
 ➜ <mark style="color:$success;">**Double Mangekyō Sharingan**</mark> • `Particularités`
 
-> À la mort d'Obito, <mark style="color:green;">**Kakashi**</mark> reçoit un traqueur vers son corps. S'il récupère son Sharingan en moins de **5 minutes**, il débloque le Susano pendant **15 minutes**, puis il perd les pouvoirs du Sharingan.
+> À la mort d'[<mark style="color:red;">**Obito**</mark>](../akatsuki/obito.md), <mark style="color:green;">**Kakashi**</mark> reçoit un traqueur vers son corps.
+>
+> S'il récupère son Sharingan en moins de **5 minutes**, il débloque le Susano pendant **15 minutes**, puis il perd les pouvoirs du Sharingan.
 
 {% endhint %}
 
@@ -35,7 +37,7 @@ description: "Camp : Shinobi • Raiton et Suiton"
 
 ➜ <mark style="color:$success;">**Chidori**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> Le prochain coup de <mark style="color:green;">**Kakashi**</mark> inflige **1,5**<mark style="color:$danger;">**❤**</mark> et immobilise le joueur frappé pendant **0,2 seconde**.
+> Le prochain coup de <mark style="color:green;">**Kakashi**</mark> inflige **1,5**<mark style="color:red;">**❤**</mark> et immobilise le joueur frappé pendant **0,2 seconde**.
 
 ➜ <mark style="color:$success;">**Mangekyō Sharingan**</mark> • `Clic-Gauche` • ⌚ : 5 minutes
 
@@ -53,18 +55,18 @@ description: "Camp : Shinobi • Raiton et Suiton"
 
 ➜ <mark style="color:$success;">**Susano**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 
-> Le Susano est débloqué par le Double Mangekyō. <mark style="color:green;">**Kakashi**</mark> obtient <mark style="color:$info;">**Résistance I**</mark> et **20 %** de chances d'esquiver les coups.
+> Le Susano est débloqué par le Double Mangekyō. <mark style="color:green;">**Kakashi**</mark> obtient <mark style="color:blue;">**Résistance I**</mark> et **20 %** de chances d'esquiver les coups.
 >
 > ➜ <mark style="color:$success;">**Shurikens**</mark> • `Clic-Droit` • ⌚ : 30 secondes
 >
-> > ils explosent à l'impact et infligent **2**<mark style="color:$danger;">**❤**</mark>.
->
+> > ils explosent à l'impact et infligent **2**<mark style="color:red;">**❤**</mark>.
 >
 > ➜ <mark style="color:$success;">**Zone**</mark> • `Clic-Gauche` • ⌚ : 15 secondes
 >
 > > les blocs visés sont détruits.
->
 
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/kakashi.gif" alt="Kakashi" width="480"><figcaption><p>Illustration de Kakashi.</p></figcaption></figure></div>

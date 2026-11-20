@@ -3,7 +3,7 @@ icon: drumstick-bite
 description: "Camp : Shinobi • Doton"
 ---
 
-# ▸ Chôji Akimichi
+# ▸ Chôji
 
 {% hint style="info" icon="drumstick-bite" %}
 
@@ -15,7 +15,7 @@ description: "Camp : Shinobi • Doton"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:orange;">**Doton**</mark>.
+> <mark style="color:orange;">**Doton**</mark> (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -35,13 +35,15 @@ description: "Camp : Shinobi • Doton"
 
 ➜ <mark style="color:$success;">**Nikudan Sensha**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 
-> <mark style="color:green;">**Chôji**</mark> se transforme en boule de pierre de **15**<mark style="color:$danger;">**❤**</mark>, qui roule à **3 blocs par seconde** et grimpe les obstacles jusqu'à **3 blocs** de haut. Chaque joueur écrasé subit **1**<mark style="color:$danger;">**❤**</mark> et il est projeté à **20 blocs**.
+> <mark style="color:green;">**Chôji**</mark> se transforme en boule de pierre de **15**<mark style="color:red;">**❤**</mark>, qui roule à **3 blocs par seconde** et grimpe les obstacles jusqu'à **3 blocs** de haut.
+>
+> Chaque joueur écrasé subit **1**<mark style="color:red;">**❤**</mark> et il est projeté à **20 blocs**.
 >
 > ⚠ Dans la boule, <mark style="color:green;">**Chôji**</mark> est invisible, mais il ne peut ni frapper ni tirer. Réutiliser l'objet, ou perdre les 15 cœurs de la boule, la fait disparaître.
 
 ➜ <mark style="color:$success;">**Chō Harite**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> Les joueurs à moins de **15 blocs** sont soulevés d'**1 bloc**, subissent **1**<mark style="color:$danger;">**❤**</mark> et **Nausée** pendant **5 secondes**.
+> Les joueurs à moins de **15 blocs** sont soulevés d'**1 bloc**, subissent **1**<mark style="color:red;">**❤**</mark> et <mark style="color:green;">**Nausée**</mark> pendant **5 secondes**.
 
 ➜ <mark style="color:$success;">**Mode Papillon**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
 
@@ -56,3 +58,5 @@ description: "Camp : Shinobi • Doton"
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/choji.gif" alt="Chôji" width="480"><figcaption><p>Illustration de Chôji.</p></figcaption></figure></div>

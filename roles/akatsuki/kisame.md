@@ -3,7 +3,7 @@ icon: fish
 description: "Camp : Akatsuki • Suiton"
 ---
 
-# ▸ Kisame Hoshigaki
+# ▸ Kisame
 
 {% hint style="info" icon="fish" %}
 
@@ -15,7 +15,7 @@ description: "Camp : Akatsuki • Suiton"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : <mark style="color:blue;">**Suiton**</mark>.
+> <mark style="color:blue;">**Suiton**</mark> (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -25,7 +25,9 @@ description: "Camp : Akatsuki • Suiton"
 
 ➜ <mark style="color:$success;">**Connaissances**</mark> • `Particularités`
 
-> <mark style="color:red;">**Kisame**</mark> ne connaît personne au départ : il doit être reconnu par un membre du **réseau de l'Akatsuki**, puis il reconnaît les autres à son tour (voir [Liste de l'Akatsuki](../../particularites/liste-de-lakatsuki.md)).
+> <mark style="color:red;">**Kisame**</mark> ne connaît personne au départ. Il doit être reconnu par un membre du réseau de l'Akatsuki, puis il reconnaît les autres à son tour.
+>
+> Voir [Liste de l'Akatsuki](../../particularites/liste-de-lakatsuki.md).
 
 ➜ <mark style="color:$success;">**Effet**</mark> • `Passif`
 
@@ -33,7 +35,9 @@ description: "Camp : Akatsuki • Suiton"
 
 ➜ <mark style="color:$success;">**Samehada**</mark> • `/ns samehada`
 
-> <mark style="color:red;">**Kisame**</mark> possède une épée en diamant **Tranchant IV**. Chacun de ses coups a **10 %** de chances de lui rendre **½**<mark style="color:$danger;">**❤**</mark>, et **20 %** contre un porteur de Bijû. La commande `/ns samehada` **active** ou **désactive** ce passif.
+> <mark style="color:red;">**Kisame**</mark> possède une épée en diamant **Tranchant IV**. Chacun de ses coups a **10 %** de chances de lui rendre **½**<mark style="color:red;">**❤**</mark>, et **20 %** contre un porteur de Bijû.
+>
+> La commande `/ns samehada` **active** ou **désactive** ce passif.
 
 ➜ <mark style="color:$success;">**Détection**</mark> • `Particularités`
 
@@ -53,18 +57,20 @@ description: "Camp : Akatsuki • Suiton"
 
 ➜ <mark style="color:$success;">**Daikōdan no Jutsu**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> <mark style="color:red;">**Kisame**</mark> lance une tête de requin vers le joueur visé (**30 blocs**). Quand elle le touche, elle s'accroche à lui : il subit **2**<mark style="color:$danger;">**❤**</mark>, puis **½**<mark style="color:$danger;">**❤**</mark> toutes les **5 secondes**. Le joueur se libère en frappant le poisson.
+> <mark style="color:red;">**Kisame**</mark> lance une tête de requin vers le joueur visé (**30 blocs**).
+>
+> Quand elle le touche, elle s'accroche à lui : il subit **2**<mark style="color:red;">**❤**</mark>, puis **½**<mark style="color:red;">**❤**</mark> toutes les **5 secondes**. Le joueur se libère en frappant le poisson.
 
 ➜ <mark style="color:$success;">**Senshokuzame**</mark> • `Clic-Droit` • ⌚ : 10 minutes
 
-> <mark style="color:red;">**Kisame**</mark> remplit d'eau un rectangle de **30 × 30** blocs, haut de **6 blocs** (dessus plat), avec **12 poissons**. Chaque poisson attaque les joueurs et inflige **1**<mark style="color:$danger;">**❤**</mark> toutes les **5 secondes**. Un poisson a **1**<mark style="color:$danger;">**❤**</mark> : frappé, il meurt.
+> <mark style="color:red;">**Kisame**</mark> remplit d'eau un rectangle de **30 × 30** blocs, haut de **6 blocs** (dessus plat), avec **12 poissons**.
+>
+> Chaque poisson attaque les joueurs et inflige **1**<mark style="color:red;">**❤**</mark> toutes les **5 secondes**. Un poisson a **1**<mark style="color:red;">**❤**</mark> : frappé, il meurt.
 >
 > ⚠ **2 poissons** au plus attaquent le même joueur. Les poissons restent dans l'eau, et personne ne peut s'y noyer.
-
-➜ <mark style="color:$success;">**Gedō Mazō**</mark> • `Clic-Droit` sur la statue
-
-> <mark style="color:red;">**Kisame**</mark> scelle des Bijû dans le Gedō Mazō avec son camp pour réveiller Jûbi (voir [Le Réveil de Jûbi](../../particularites/jubi/reveil-de-jubi.md)).
 
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/kisame.gif" alt="Kisame" width="480"><figcaption><p>Illustration de Kisame.</p></figcaption></figure></div>

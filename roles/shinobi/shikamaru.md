@@ -3,7 +3,7 @@ icon: chess-knight
 description: "Camp : Shinobi • une nature aléatoire"
 ---
 
-# ▸ Shikamaru Nara
+# ▸ Shikamaru
 
 {% hint style="info" icon="chess-knight" %}
 
@@ -15,7 +15,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
-> [Nature(s) de chakra](../../particularites/natures-de-chakra.md) : une nature aléatoire.
+> une nature aléatoire (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
 
 {% endhint %}
 
@@ -41,11 +41,15 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 ➜ <mark style="color:$success;">**Kage Nui — Entrelacement des Ombres**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
-> <mark style="color:green;">**Shikamaru**</mark> lance **3 ombres** en éventail sur **12 blocs**. Après **1 seconde**, des pointes surgissent : les joueurs touchés subissent **1,5**<mark style="color:$danger;">**❤**</mark> et ne peuvent plus sauter pendant **3 secondes**, une seule fois par joueur.
+> <mark style="color:green;">**Shikamaru**</mark> lance **3 ombres** en éventail sur **12 blocs**.
+>
+> Après **1 seconde**, des pointes surgissent : les joueurs touchés subissent **1,5**<mark style="color:red;">**❤**</mark> et ne peuvent plus sauter pendant **3 secondes**, une seule fois par joueur.
 
 ➜ <mark style="color:$success;">**Piège Explosif**</mark> • `Clic-Droit` • ⌚ : 3 minutes entre deux placements
 
-> `Clic-Droit` sur un bloc : <mark style="color:green;">**Shikamaru**</mark> pose un sceau explosif, armé après **3 secondes**. Quand un joueur passe à moins de **2 blocs**, il explose : **1,5**<mark style="color:$danger;">**❤**</mark> dans un rayon de **3 blocs**, et un recul de **5 blocs**.
+> `Clic-Droit` sur un bloc : <mark style="color:green;">**Shikamaru**</mark> pose un sceau explosif, armé après **3 secondes**.
+>
+> Quand un joueur passe à moins de **2 blocs**, il explose : **1,5**<mark style="color:red;">**❤**</mark> dans un rayon de **3 blocs**, et un recul de **5 blocs**.
 >
 > ⚠ **2 pièges** au maximum. Les adversaires peuvent les casser à coups d'épée, et les joueurs colorés en vert avec `/ns color` ne les déclenchent pas.
 
@@ -58,3 +62,5 @@ description: "Camp : Shinobi • une nature aléatoire"
 {% endhint %}
 
 ***
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/shikamaru.gif" alt="Shikamaru" width="480"><figcaption><p>Illustration de Shikamaru.</p></figcaption></figure></div>
