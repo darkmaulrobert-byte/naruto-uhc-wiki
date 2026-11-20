@@ -35,21 +35,9 @@ description: "Camp : Shinobi • Doton"
 
 ➜ <mark style="color:$success;">**Détection de chakra**</mark> • `/ns chakra <joueur>`
 
-> Avec `/ns chakra <joueur>`, <mark style="color:green;">**Kiba**</mark> sent le chakra d'un joueur et découvre sa **catégorie de chakra**. Elle ne donne **ni le rôle, ni le camp**.
->
-> <mark style="color:green;">**Chakra apaisé**</mark> : principalement des Shinobi, mais certains ennemis peuvent aussi en faire partie.
->
-> <mark style="color:yellow;">**Chakra trouble**</mark> : un mélange de Shinobi et d'ennemis. Cette information ne suffit pas pour faire confiance au joueur.
->
-> <mark style="color:orange;">**Chakra sombre**</mark> : principalement des ennemis, avec quelques Shinobi.
->
-> <mark style="color:red;">**Chakra malveillant**</mark> : uniquement des ennemis. Le joueur n'appartient pas au camp Shinobi.
->
-> Chaque rôle a toujours la même catégorie. `/ns chakra` seul affiche les quatre catégories.
+> Avec `/ns chakra <joueur>`, <mark style="color:green;">**Kiba**</mark> sent le chakra d'un joueur et découvre sa **catégorie de chakra** : apaisé, trouble, sombre ou malveillant.
 >
 > Voir [Catégories de chakra](../../particularites/categories-de-chakra.md).
->
-> <mark style="color:red;">⚠ Ces catégories n'ont rien à voir avec les </mark><mark style="color:red;">**natures de chakra**</mark><mark style="color:red;"> (Katon, Suiton…).</mark>
 
 ➜ <mark style="color:$success;">**Akamaru**</mark> • `Clic-Droit`
 

@@ -71,7 +71,14 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Tengai Shinsei**</mark> • `Clic-Droit` • ⌚ : 20 minutes
+➜ <mark style="color:$success;">**Étoile « Uchiwa »**</mark> • `Clic-Gauche` / `Clic-Droit`
+
+> Ces pouvoirs sont réunis sur une Nether Star : **Tengai Shinsei**, **Susanoo**.
+>
+> * `Clic-Gauche` : passer au pouvoir suivant.
+> * `Clic-Droit` : utiliser le pouvoir sélectionné.
+
+➜ <mark style="color:$success;">**Tengai Shinsei**</mark> • `Clic-Droit` • Étoile « Uchiwa » • ⌚ : 20 minutes
 
 > Une immense boule de pierre tombe du ciel pendant **8 secondes**, puis creuse un trou sphérique de **50 blocs** de diamètre.
 >
@@ -79,7 +86,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 >
 > <mark style="color:red;">⚠ Avec le </mark><mark style="color:red;">**pacte 2**</mark><mark style="color:red;">, Tengai Shinsei n'est utilisable qu'</mark><mark style="color:red;">**une seule fois par partie**</mark><mark style="color:red;">.</mark>
 
-➜ <mark style="color:$success;">**Susanoo**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Susanoo**</mark> • `Clic-Droit` • Étoile « Uchiwa » • ⏳ : 2 minutes • ⌚ : 10 minutes
 
 > Un Susanoo bleu entoure <mark style="color:orange;">**Madara**</mark> pendant **2 minutes** :
 >

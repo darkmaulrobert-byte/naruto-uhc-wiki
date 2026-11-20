@@ -33,7 +33,14 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Kagemane — Manipulation des Ombres**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Étoile « Ombres »**</mark> • `Clic-Gauche` / `Clic-Droit`
+
+> Ces pouvoirs sont réunis sur une Nether Star : **Kagemane**, **Kage Nui**, **Piège Explosif**, **Cercle des Ombres**.
+>
+> * `Clic-Gauche` : passer au pouvoir suivant.
+> * `Clic-Droit` : utiliser le pouvoir sélectionné.
+
+➜ <mark style="color:$success;">**Kagemane — Manipulation des Ombres**</mark> • `Clic-Droit` • Étoile « Ombres » • ⌚ : 5 minutes
 
 > L'ombre de <mark style="color:green;">**Shikamaru**</mark> glisse au sol devant lui, jusqu'à **15 blocs**. Le premier joueur touché copie tous ses déplacements pendant **4 secondes**.
 >
@@ -41,11 +48,11 @@ description: "Camp : Shinobi • une nature aléatoire"
 >
 > <mark style="color:red;">⚠ Les deux joueurs ne peuvent pas se frapper. Le lien se brise si le joueur lié reçoit </mark><mark style="color:red;">**3 coups d'épée**</mark><mark style="color:red;">.</mark>
 
-➜ <mark style="color:$success;">**Kage Nui — Entrelacement des Ombres**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Kage Nui — Entrelacement des Ombres**</mark> • `Clic-Droit` • Étoile « Ombres » • ⌚ : 5 minutes
 
 > <mark style="color:green;">**Shikamaru**</mark> lance **3 ombres** en éventail sur **12 blocs**. Après **1 seconde**, des pointes en surgissent : chaque joueur touché subit **1,5**<mark style="color:red;">**❤**</mark> et ne peut plus sauter pendant **3 secondes**.
 
-➜ <mark style="color:$success;">**Piège Explosif**</mark> • `Clic-Droit` • ⌚ : 3 minutes
+➜ <mark style="color:$success;">**Piège Explosif**</mark> • `Clic-Droit` • Étoile « Ombres » • ⌚ : 3 minutes
 
 > `Clic-Droit` sur un bloc : <mark style="color:green;">**Shikamaru**</mark> y pose un sceau explosif, armé **3 secondes** plus tard.
 >
@@ -53,7 +60,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 >
 > <mark style="color:red;">⚠ </mark><mark style="color:red;">**2 pièges**</mark><mark style="color:red;"> au maximum. Les ennemis peuvent les casser à l'épée. Les alliés colorés en vert avec </mark>`/ns color`<mark style="color:red;"> ne les déclenchent pas.</mark>
 
-➜ <mark style="color:$success;">**Cercle des Ombres**</mark> • `/ns color` • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Cercle des Ombres**</mark> • `Clic-Droit` • Étoile « Ombres » • ⌚ : 10 minutes
 
 > <mark style="color:green;">**Shikamaru**</mark> trace un cercle de **8 blocs** autour de lui : tous les joueurs dedans sont figés pendant **10 secondes**, lui compris.
 >

@@ -50,7 +50,14 @@ description: "Camp : Réincarnés • Doton et Suiton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Rage Blanche**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Étoile « Serpents »**</mark> • `Clic-Gauche` / `Clic-Droit`
+
+> Ces pouvoirs sont réunis sur une Nether Star : **Rage Blanche**, **Serpent**, **Muki Tensei**.
+>
+> * `Clic-Gauche` : passer au pouvoir suivant.
+> * `Clic-Droit` : utiliser le pouvoir sélectionné.
+
+➜ <mark style="color:$success;">**Rage Blanche**</mark> • `Clic-Droit` • Étoile « Serpents » • ⌚ : 5 minutes
 
 > <mark style="color:blue;">**Kabuto**</mark> lance une boule blanche vers le point visé, jusqu'à **20 blocs**. Elle explose sur le premier joueur ou bloc touché :
 >
@@ -65,11 +72,11 @@ description: "Camp : Réincarnés • Doton et Suiton"
 >
 > <mark style="color:red;">⚠ Utilisable </mark><mark style="color:red;">**une seule fois par partie**</mark><mark style="color:red;">.</mark>
 
-➜ <mark style="color:$success;">**Serpent**</mark> • `Clic-Droit` • ⌚ : 15 minutes
+➜ <mark style="color:$success;">**Serpent**</mark> • `Clic-Droit` • Étoile « Serpents » • ⌚ : 15 minutes
 
 > <mark style="color:blue;">**Kabuto**</mark> se transforme en silverfish pendant **15 secondes** et obtient <mark style="color:cyan;">**Vitesse III**</mark>. Il ne peut ni frapper, ni être frappé, ni utiliser ses autres pouvoirs.
 
-➜ <mark style="color:$success;">**Muki Tensei**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Muki Tensei**</mark> • `Clic-Droit` • Étoile « Serpents » • ⏳ : 2 minutes • ⌚ : 10 minutes
 
 > Des blocs s'arrachent du sol dans un rayon de **30 blocs** autour de <mark style="color:blue;">**Kabuto**</mark> et flottent à **15 blocs** de haut.
 >

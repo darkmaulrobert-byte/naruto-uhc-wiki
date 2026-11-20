@@ -37,13 +37,20 @@ description: "Camp : Shinobi • Suiton et Katon"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Yōton — Boule de Lave**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Étoile « Kekkei Genkai »**</mark> • `Clic-Gauche` / `Clic-Droit`
+
+> Ces pouvoirs sont réunis sur une Nether Star : **Yōton**, **Futton**, **Mur de Lave**, **Suiton**.
+>
+> * `Clic-Gauche` : passer au pouvoir suivant.
+> * `Clic-Droit` : utiliser le pouvoir sélectionné.
+
+➜ <mark style="color:$success;">**Yōton — Boule de Lave**</mark> • `Clic-Droit` • Étoile « Kekkei Genkai » • ⌚ : 5 minutes
 
 > <mark style="color:green;">**Mei**</mark> crache une boule de lave vers le point visé, jusqu'à **20 blocs**.
 >
 > À l'impact, elle inflige **1,5**<mark style="color:red;">**❤**</mark> dans un rayon de **3 blocs** et laisse une flaque de lave de **5 × 5** pendant **8 secondes**, qui enflamme ceux qui la traversent pendant **3 secondes**.
 
-➜ <mark style="color:$success;">**Futton — Brume Acide**</mark> • `/ns color` • ⌚ : 8 minutes
+➜ <mark style="color:$success;">**Futton — Brume Acide**</mark> • `Clic-Droit` • Étoile « Kekkei Genkai » • ⌚ : 8 minutes
 
 > <mark style="color:green;">**Mei**</mark> crée une brume de **15 blocs** autour d'elle pendant **30 secondes**. Les joueurs à l'intérieur subissent <mark style="color:violet;">**Cécité**</mark>.
 >
@@ -51,13 +58,13 @@ description: "Camp : Shinobi • Suiton et Katon"
 >
 > <mark style="color:red;">⚠ Les alliés colorés en vert avec </mark>`/ns color`<mark style="color:red;"> ne sont pas touchés.</mark>
 
-➜ <mark style="color:$success;">**Mur de Lave**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Mur de Lave**</mark> • `Clic-Droit` • Étoile « Kekkei Genkai » • ⌚ : 5 minutes
 
 > <mark style="color:green;">**Mei**</mark> fait surgir un mur de lave de **10 × 4** devant elle, jusqu'à **8 blocs**, pendant **10 secondes**. Un ennemi qui le touche subit **½**<mark style="color:red;">**❤**</mark> et recule de **3 blocs**.
 >
 > Réutiliser le pouvoir retire le mur.
 
-➜ <mark style="color:$success;">**Suiton — Dragon Aqueux**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Suiton — Dragon Aqueux**</mark> • `Clic-Droit` • Étoile « Kekkei Genkai » • ⌚ : 5 minutes
 
 > <mark style="color:green;">**Mei**</mark> lance un dragon d'eau devant elle sur **25 blocs**. Le premier joueur touché est emporté sur **8 blocs** et subit **1,5**<mark style="color:red;">**❤**</mark>.
 >

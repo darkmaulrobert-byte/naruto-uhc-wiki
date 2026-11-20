@@ -37,15 +37,22 @@ description: "Camp : Shinobi • Doton et Fûton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Bouclier de Sable**</mark> • `Clic-Droit` • ⌚ : 5 secondes
+➜ <mark style="color:$success;">**Étoile « Sable »**</mark> • `Clic-Gauche` / `Clic-Droit`
+
+> Ces pouvoirs sont réunis sur une Nether Star : **Bouclier de Sable**, **Nuage de Sable**, **Troisième Œil**, **Sarcophage de Sable**.
+>
+> * `Clic-Gauche` : passer au pouvoir suivant.
+> * `Clic-Droit` : utiliser le pouvoir sélectionné.
+
+➜ <mark style="color:$success;">**Bouclier de Sable**</mark> • `Clic-Droit` • Étoile « Sable » • ⌚ : 5 secondes
 
 > <mark style="color:green;">**Gaara**</mark> **active** ou **désactive** son bouclier. Tant qu'il est actif, un coup sur **10** reçus est annulé. Coût : **5** sable par seconde.
 
-➜ <mark style="color:$success;">**Nuage de Sable**</mark> • `Clic-Droit` • ⌚ : 1 minute
+➜ <mark style="color:$success;">**Nuage de Sable**</mark> • `Clic-Droit` • Étoile « Sable » • ⌚ : 1 minute
 
 > <mark style="color:green;">**Gaara**</mark> s'élève à **10 blocs** sur une plateforme de sable de **5 × 5**. Quand il se déplace, une nouvelle plateforme se forme sous lui. Coût : **50** sable par plateforme.
 
-➜ <mark style="color:$success;">**Troisième Œil**</mark> • `Clic-Droit` • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Troisième Œil**</mark> • `Clic-Droit` • Étoile « Sable » • ⌚ : 10 minutes
 
 > <mark style="color:green;">**Gaara**</mark> pose un œil sur le joueur visé.
 >
@@ -53,7 +60,7 @@ description: "Camp : Shinobi • Doton et Fûton"
 >
 > Coût : **100** sable par minute.
 
-➜ <mark style="color:$success;">**Sarcophage de Sable**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Sarcophage de Sable**</mark> • `Clic-Droit` • Étoile « Sable » • ⌚ : 5 minutes
 
 > <mark style="color:green;">**Gaara**</mark> enferme le joueur visé dans une sphère de sable pendant **3 secondes**. Coût : **300** sable.
 >

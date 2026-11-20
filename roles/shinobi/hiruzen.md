@@ -41,6 +41,13 @@ description: "Camp : Shinobi • une nature aléatoire au début de la partie"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
+➜ <mark style="color:$success;">**Étoile « Professeur »**</mark> • `Clic-Gauche` / `Clic-Droit`
+
+> Ces pouvoirs sont réunis sur une Nether Star : **Les Cinq Remparts**, **Enchaînement Élémentaire**.
+>
+> * `Clic-Gauche` : passer au pouvoir suivant.
+> * `Clic-Droit` : utiliser le pouvoir sélectionné.
+
 ➜ <mark style="color:$success;">**Maîtrise élémentaire**</mark> • `Clic-Gauche` • ⌚ : 2 minutes
 
 > `Clic-Gauche` : <mark style="color:green;">**Hiruzen**</mark> passe à la nature suivante, au plus toutes les **10 secondes**. Il n'a que le passif de cette nature.
@@ -53,7 +60,7 @@ description: "Camp : Shinobi • une nature aléatoire au début de la partie"
 > * **Fûton :** une tornade avance sur **12 blocs**, soulève et éjecte les joueurs : **1,5**<mark style="color:red;">**❤**</mark>.
 > * **Doton :** un mur de terre de **10 × 4**, épais de **2 blocs**, sort du sol à **4 blocs** devant lui pendant **8 secondes**.
 
-➜ <mark style="color:$success;">**Enchaînement Élémentaire**</mark> • `Clic-Droit` • ⌚ : 4 minutes
+➜ <mark style="color:$success;">**Enchaînement Élémentaire**</mark> • `Clic-Droit` • Étoile « Professeur » • ⌚ : 4 minutes
 
 > Sans combinaison choisie, `Clic-Droit` ouvre un menu : <mark style="color:green;">**Hiruzen**</mark> choisit **2 natures**. Ensuite, `Clic-Droit` lance les deux techniques en même temps, puis il choisit une nouvelle combinaison.
 >
@@ -64,7 +71,7 @@ description: "Camp : Shinobi • une nature aléatoire au début de la partie"
 >
 > <mark style="color:red;">⚠ Ce pouvoir partage l'objet des Cinq Remparts.</mark>
 
-➜ <mark style="color:$success;">**Les Cinq Remparts**</mark> • `Clic-Droit` • ⌚ : 8 minutes
+➜ <mark style="color:$success;">**Les Cinq Remparts**</mark> • `Clic-Droit` • Étoile « Professeur » • ⌚ : 8 minutes
 
 > <mark style="color:green;">**Hiruzen**</mark> fait surgir **5 piliers** en bois au hasard dans un rayon de **30 blocs**, pendant **1 minute**.
 >

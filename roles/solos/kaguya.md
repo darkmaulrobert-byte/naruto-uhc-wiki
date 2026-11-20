@@ -79,7 +79,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 >
 > <mark style="color:red;">⚠ Dans les dimensions, personne ne peut monter à plus de </mark><mark style="color:red;">**5 blocs**</mark><mark style="color:red;"> au-dessus du sol. Les trois dimensions partagent le même cooldown.</mark>
 
-➜ <mark style="color:$success;">**Retour de la Déesse — Jûbi**</mark> • `/ns jubi`
+➜ <mark style="color:$success;">**Retour de la Déesse — Jûbi**</mark> • `Clic-Droit`
 
 > <mark style="color:orange;">**Kaguya**</mark> peut réunir **6 Bijû** différents et faire le rituel elle-même avec `/ns jubi`.
 >

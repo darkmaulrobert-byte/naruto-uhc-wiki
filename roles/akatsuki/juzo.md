@@ -39,7 +39,14 @@ description: "Camp : Akatsuki • Suiton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Brume Sanglante**</mark> • `Clic-Droit` • ⌚ : 8 minutes
+➜ <mark style="color:$success;">**Étoile « Brume »**</mark> • `Clic-Gauche` / `Clic-Droit`
+
+> Ces pouvoirs sont réunis sur une Nether Star : **Brume Sanglante**, **Lancer du Couperet**, **Clone Aqueux**, **Dernier Rempart**.
+>
+> * `Clic-Gauche` : passer au pouvoir suivant.
+> * `Clic-Droit` : utiliser le pouvoir sélectionné.
+
+➜ <mark style="color:$success;">**Brume Sanglante**</mark> • `Clic-Droit` • Étoile « Brume » • ⌚ : 8 minutes
 
 > <mark style="color:red;">**Jûzô**</mark> crée une brume de **20 blocs** autour de lui pendant **30 secondes**.
 >
@@ -47,19 +54,19 @@ description: "Camp : Akatsuki • Suiton"
 >
 > Dans la brume, ses coups dans le dos infligent **½**<mark style="color:red;">**❤**</mark> de plus, au plus toutes les **5 secondes**.
 
-➜ <mark style="color:$success;">**Lancer du Couperet**</mark> • `Clic-Droit` • ⌚ : 3 minutes
+➜ <mark style="color:$success;">**Lancer du Couperet**</mark> • `Clic-Droit` • Étoile « Brume » • ⌚ : 3 minutes
 
 > <mark style="color:red;">**Jûzô**</mark> lance son épée droit devant lui sur **20 blocs**. Le premier joueur touché subit **1,5**<mark style="color:red;">**❤**</mark> et recule de **5 blocs**, puis l'épée revient vers <mark style="color:red;">**Jûzô**</mark>.
 >
 > <mark style="color:red;">⚠ </mark><mark style="color:red;">**Jûzô**</mark><mark style="color:red;"> n'a plus son épée tant qu'elle n'est pas revenue dans sa main.</mark>
 
-➜ <mark style="color:$success;">**Clone Aqueux**</mark> • `Clic-Droit` • ⏳ : 20 secondes • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Clone Aqueux**</mark> • `Clic-Droit` • Étoile « Brume » • ⏳ : 20 secondes • ⌚ : 5 minutes
 
 > <mark style="color:red;">**Jûzô**</mark> invoque un clone de **6**<mark style="color:red;">**❤**</mark> pendant **20 secondes**, qui attaque le dernier joueur frappé. Réutiliser le pouvoir échange sa place avec le clone.
 >
 > Si le clone est tué, il éclate : <mark style="color:purple;">**Lenteur I**</mark> pendant **3 secondes** pour les joueurs à moins de **3 blocs**.
 
-➜ <mark style="color:$success;">**Dernier Rempart**</mark> • `Clic-Droit` • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Dernier Rempart**</mark> • `Clic-Droit` • Étoile « Brume » • ⌚ : 5 minutes
 
 > <mark style="color:red;">**Jûzô**</mark> se téléporte sur le dernier joueur frappé dans les **30 dernières secondes**. Pendant **3 secondes**, le premier coup d'épée qu'il reçoit est bloqué, et l'attaquant recule de **5 blocs**.
 

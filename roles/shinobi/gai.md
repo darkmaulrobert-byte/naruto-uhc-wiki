@@ -33,11 +33,20 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
+➜ <mark style="color:$success;">**Étoile « Portes »**</mark> • `Clic-Gauche` / `Clic-Droit`
+
+> Les Portes sont réunies sur un même objet.
+>
+> * `Clic-Gauche` : passer à la Porte suivante.
+> * `Clic-Droit` : ouvrir la Porte sélectionnée.
+>
+> Pendant la Huitième Porte, l'objet devient **Gaï de la Nuit**.
+
 ➜ <mark style="color:$success;">**Disparition**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
 > <mark style="color:green;">**Gaï**</mark> se téléporte dans le dos du joueur visé, à moins de **15 blocs**.
 
-➜ <mark style="color:$success;">**Les Huit Portes**</mark> • `Clic-Droit`
+➜ <mark style="color:$success;">**Les Huit Portes**</mark> • `Clic-Droit` • Étoile « Portes »
 
 > <mark style="color:green;">**Gaï**</mark> ouvre les Portes avec son objet.
 >
@@ -69,7 +78,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 >
 > Si [<mark style="color:green;">**Naruto**</mark>](naruto.md) se trouve à moins de **50 blocs**, <mark style="color:green;">**Gaï**</mark> revient avec **7**<mark style="color:red;">**❤**</mark> maximum, mais sans pouvoirs ni passifs.
 
-➜ <mark style="color:$success;">**Gaï de la Nuit**</mark> • `Clic-Droit` • Huitième Porte
+➜ <mark style="color:$success;">**Gaï de la Nuit**</mark> • `Clic-Droit` • Étoile « Portes »
 
 > **Activation**
 >

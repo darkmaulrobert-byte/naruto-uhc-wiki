@@ -37,7 +37,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Katsuyu**</mark> • `/ns color` • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Katsuyu**</mark> • `Clic-Droit` • ⌚ : 10 minutes
 
 > Katsuyu se pose sur l'épaule de <mark style="color:green;">**Sakura**</mark> pendant **2 minutes**. Toutes les **20 secondes**, elle agit :
 >
