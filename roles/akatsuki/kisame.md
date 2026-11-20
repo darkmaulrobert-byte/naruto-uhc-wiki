@@ -77,6 +77,8 @@ description: "Camp : Akatsuki • Suiton"
 > * Un requin a **1**<mark style="color:red;">**❤**</mark> : frappé, il meurt.
 > * **2 requins** au plus attaquent le même joueur.
 > * Les requins restent dans l'eau, et personne ne peut s'y noyer.
+>
+> Au bout de **30 secondes**, l'eau disparaît, et les blocs qu'elle avait remplacés restent cassés.
 
 {% endhint %}
 
