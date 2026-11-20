@@ -39,14 +39,14 @@ description: "Camp : Akatsuki • Katon et Suiton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Étoile « Sharingan »**</mark> • `Clic-Gauche` / `Clic-Droit`
+➜ <mark style="color:$success;">**Nether Star « Sharingan »**</mark> • `Clic-Gauche` / `Clic-Droit`
 
 > Ces pouvoirs sont réunis sur une Nether Star : **Tsukuyomi**, **Amaterasu**, **Utakata**, **Susano**.
 >
 > * `Clic-Gauche` : passer au pouvoir suivant.
 > * `Clic-Droit` : utiliser le pouvoir sélectionné.
 
-➜ <mark style="color:$success;">**Tsukuyomi**</mark> • `Clic-Droit` • Étoile « Sharingan » • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Tsukuyomi**</mark> • `Clic-Droit` • Nether Star « Sharingan » • ⌚ : 10 minutes
 
 > <mark style="color:red;">**Itachi**</mark> plonge le joueur visé dans une illusion pendant **2 minutes**, sans que celui-ci s'en rende compte :
 >
@@ -54,13 +54,13 @@ description: "Camp : Akatsuki • Katon et Suiton"
 > * à **45 secondes** : <mark style="color:violet;">**Cécité**</mark> pendant **3 secondes** ;
 > * à partir de **1 minute** : <mark style="color:purple;">**Lenteur I**</mark> pendant **2 secondes**, toutes les **15 secondes**.
 
-➜ <mark style="color:$success;">**Amaterasu**</mark> • `Clic-Droit` • Étoile « Sharingan » • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Amaterasu**</mark> • `Clic-Droit` • Nether Star « Sharingan » • ⌚ : 10 minutes
 
 > Le joueur visé brûle pendant **10 secondes**, et le feu ne peut pas être éteint.
 >
 > <mark style="color:red;">⚠ Ensuite, </mark><mark style="color:red;">**Itachi**</mark><mark style="color:red;"> subit </mark><mark style="color:red;">**Cécité**</mark><mark style="color:red;"> pendant </mark><mark style="color:red;">**5 secondes**</mark><mark style="color:red;">.</mark>
 
-➜ <mark style="color:$success;">**Utakata**</mark> • `Clic-Droit` • Étoile « Sharingan » • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Utakata**</mark> • `Clic-Droit` • Nether Star « Sharingan » • ⌚ : 10 minutes
 
 > Pendant **1 minute**, le joueur visé subit une illusion toutes les **10 secondes**, au hasard :
 >
@@ -69,7 +69,7 @@ description: "Camp : Akatsuki • Katon et Suiton"
 > * il voit <mark style="color:red;">**Itachi**</mark> s'effondrer, puis ne le voit plus pendant **2 secondes** ;
 > * il voit l'écran de mort pendant **3 secondes**.
 
-➜ <mark style="color:$success;">**Susano**</mark> • `Clic-Droit` • Étoile « Sharingan » • ⏳ : 2 minutes • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Susano**</mark> • `Clic-Droit` • Nether Star « Sharingan » • ⏳ : 2 minutes • ⌚ : 10 minutes
 
 > <mark style="color:red;">**Itachi**</mark> obtient <mark style="color:blue;">**Résistance I**</mark>, et son épée passe en **Tranchant IV**. Parer avec l'épée repousse l'adversaire de **5 blocs**.
 >

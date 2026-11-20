@@ -39,24 +39,24 @@ description: "Camp : Réincarnés • Suiton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Étoile « Brouillard »**</mark> • `Clic-Gauche` / `Clic-Droit`
+➜ <mark style="color:$success;">**Nether Star « Brouillard »**</mark> • `Clic-Gauche` / `Clic-Droit`
 
 > Ces pouvoirs sont réunis sur une Nether Star : **Kirigakure no Jutsu**, **Suirō no Jutsu**, **Suiryūdan no Jutsu**.
 >
 > * `Clic-Gauche` : passer au pouvoir suivant.
 > * `Clic-Droit` : utiliser le pouvoir sélectionné.
 
-➜ <mark style="color:$success;">**Kirigakure no Jutsu**</mark> • `Clic-Droit` • Étoile « Brouillard » • ⏳ : 1 minute • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Kirigakure no Jutsu**</mark> • `Clic-Droit` • Nether Star « Brouillard » • ⏳ : 1 minute • ⌚ : 10 minutes
 
 > <mark style="color:blue;">**Zabuza**</mark> crée un brouillard de **40 blocs** de rayon pendant **1 minute**. Les autres joueurs dedans subissent <mark style="color:violet;">**Cécité**</mark> et <mark style="color:purple;">**Lenteur I**</mark>.
 >
 > <mark style="color:blue;">**Zabuza**</mark> voit les joueurs du brouillard en surbrillance bleue, alors qu'eux ne le voient qu'à **4 blocs** ou moins.
 
-➜ <mark style="color:$success;">**Suirō no Jutsu**</mark> • `Clic-Droit` • Étoile « Brouillard » • ⌚ : 8 minutes
+➜ <mark style="color:$success;">**Suirō no Jutsu**</mark> • `Clic-Droit` • Nether Star « Brouillard » • ⌚ : 8 minutes
 
 > <mark style="color:blue;">**Zabuza**</mark> enferme le joueur visé à moins de **15 blocs** dans un tourbillon d'eau qui le soulève de **3 blocs** pendant **3 secondes**. Le joueur est immobilisé et étouffe : **½**<mark style="color:red;">**❤**</mark> par seconde.
 
-➜ <mark style="color:$success;">**Suiryūdan no Jutsu**</mark> • `Clic-Droit` • Étoile « Brouillard » • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Suiryūdan no Jutsu**</mark> • `Clic-Droit` • Nether Star « Brouillard » • ⌚ : 10 minutes
 
 > Un dragon d'eau tourne autour de <mark style="color:blue;">**Zabuza**</mark> en cercles de plus en plus larges, jusqu'à **30 blocs**.
 >

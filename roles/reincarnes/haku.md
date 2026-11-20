@@ -39,20 +39,20 @@ description: "Camp : Réincarnés • Suiton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Étoile « Glace »**</mark> • `Clic-Gauche` / `Clic-Droit`
+➜ <mark style="color:$success;">**Nether Star « Glace »**</mark> • `Clic-Gauche` / `Clic-Droit`
 
 > Ces pouvoirs sont réunis sur une Nether Star : **Makyō Hyōshō**, **Lancer de Senbon**, **Sensatsu Suishō**.
 >
 > * `Clic-Gauche` : passer au pouvoir suivant.
 > * `Clic-Droit` : utiliser le pouvoir sélectionné.
 
-➜ <mark style="color:$success;">**Makyō Hyōshō — Miroirs de Glace**</mark> • `Clic-Droit` • Étoile « Glace » • ⏳ : 1 minute • ⌚ : 15 minutes
+➜ <mark style="color:$success;">**Makyō Hyōshō — Miroirs de Glace**</mark> • `Clic-Droit` • Nether Star « Glace » • ⏳ : 1 minute • ⌚ : 15 minutes
 
 > <mark style="color:blue;">**Haku**</mark> crée autour de lui un dôme de glace incassable de **50 blocs** de diamètre, fermé de toutes parts, pendant **1 minute**.
 >
 > ➜ Réutiliser le pouvoir, au plus toutes les **5 secondes**, téléporte <mark style="color:blue;">**Haku**</mark> contre la paroi du dôme qu'il vise.
 
-➜ <mark style="color:$success;">**Lancer de Senbon**</mark> • `Clic-Droit` • Étoile « Glace »
+➜ <mark style="color:$success;">**Lancer de Senbon**</mark> • `Clic-Droit` • Nether Star « Glace »
 
 > <mark style="color:blue;">**Haku**</mark> possède **3 aiguilles**, affichées dans sa barre d'action. `Clic-Droit` lance une aiguille vers le point visé : le joueur touché subit <mark style="color:green;">**Poison II**</mark> pendant **2 secondes**.
 >
@@ -60,7 +60,7 @@ description: "Camp : Réincarnés • Suiton"
 >
 > <mark style="color:red;">⚠ Un lancer toutes les </mark><mark style="color:red;">**10 secondes**</mark><mark style="color:red;"> au plus.</mark>
 
-➜ <mark style="color:$success;">**Sensatsu Suishō**</mark> • `Clic-Droit` • Étoile « Glace » • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Sensatsu Suishō**</mark> • `Clic-Droit` • Nether Star « Glace » • ⌚ : 10 minutes
 
 > Une pluie d'aiguilles tombe du ciel dans un rayon de **20 blocs** autour de <mark style="color:blue;">**Haku**</mark>. Chaque joueur touché subit <mark style="color:green;">**Poison II**</mark> pendant **3 secondes**.
 

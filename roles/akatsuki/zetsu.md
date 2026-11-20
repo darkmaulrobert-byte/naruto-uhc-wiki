@@ -39,32 +39,32 @@ description: "Camp : Akatsuki • Doton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Étoile « Zetsu Blanc »**</mark> • `Clic-Gauche` / `Clic-Droit`
+➜ <mark style="color:$success;">**Nether Star « Zetsu Blanc »**</mark> • `Clic-Gauche` / `Clic-Droit`
 
 > Ces pouvoirs sont réunis sur une Nether Star : **Fusion avec le Sol**, **Spores**, **Clone de <mark style="color:red;">**Zetsu**</mark> Blanc**, **Racines**.
 >
 > * `Clic-Gauche` : passer au pouvoir suivant.
 > * `Clic-Droit` : utiliser le pouvoir sélectionné.
 
-➜ <mark style="color:$success;">**Fusion avec le Sol**</mark> • `Clic-Droit` • Étoile « <mark style="color:red;">**Zetsu**</mark> Blanc » • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Fusion avec le Sol**</mark> • `Clic-Droit` • Nether Star « <mark style="color:red;">**Zetsu**</mark> Blanc » • ⌚ : 5 minutes
 
 > <mark style="color:red;">**Zetsu**</mark> fusionne avec le sol pendant **20 secondes** : il devient invisible, armure comprise. Réutiliser le pouvoir le fait ressortir.
 >
 > <mark style="color:red;">⚠ </mark><mark style="color:red;">**Zetsu**</mark><mark style="color:red;"> ne peut pas frapper pendant la fusion.</mark>
 
-➜ <mark style="color:$success;">**Spores**</mark> • `Clic-Droit` • Étoile « <mark style="color:red;">**Zetsu**</mark> Blanc » • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Spores**</mark> • `Clic-Droit` • Nether Star « <mark style="color:red;">**Zetsu**</mark> Blanc » • ⌚ : 5 minutes
 
 > <mark style="color:red;">**Zetsu**</mark> accroche des spores au joueur visé à moins de **15 blocs**, pendant **1 minute**. Il est prévenu de chaque pouvoir que ce joueur utilise.
 >
 > Réutiliser le pouvoir fait éclater les spores : <mark style="color:purple;">**Lenteur II**</mark> pendant **3 secondes**.
 
-➜ <mark style="color:$success;">**Clone de Zetsu Blanc**</mark> • `Clic-Droit` • Étoile « <mark style="color:red;">**Zetsu**</mark> Blanc » • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Clone de Zetsu Blanc**</mark> • `Clic-Droit` • Nether Star « <mark style="color:red;">**Zetsu**</mark> Blanc » • ⌚ : 10 minutes
 
 > `Clic-Droit` sur un cadavre : <mark style="color:red;">**Zetsu**</mark> mémorise son apparence. Avec le pouvoir, il prend ensuite son skin et son pseudo pendant **1 minute**.
 >
 > <mark style="color:red;">⚠ Le déguisement tombe après </mark><mark style="color:red;">**3 coups**</mark><mark style="color:red;"> reçus.</mark>
 
-➜ <mark style="color:$success;">**Racines**</mark> • `Clic-Droit` • Étoile « <mark style="color:red;">**Zetsu**</mark> Blanc » • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Racines**</mark> • `Clic-Droit` • Nether Star « <mark style="color:red;">**Zetsu**</mark> Blanc » • ⌚ : 5 minutes
 
 > Les joueurs à moins de **15 blocs** sont enfermés **2 secondes** dans un cocon de bois incassable et subissent **1**<mark style="color:red;">**❤**</mark>.
 

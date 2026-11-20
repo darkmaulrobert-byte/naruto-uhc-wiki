@@ -23,31 +23,31 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Étoile « Taijutsu »**</mark> • `Clic-Gauche` / `Clic-Droit`
+➜ <mark style="color:$success;">**Nether Star « Taijutsu »**</mark> • `Clic-Gauche` / `Clic-Droit`
 
 > Ces pouvoirs sont réunis sur une Nether Star : **Enchaînement**, **Fleur de Lotus Recto**.
 >
 > * `Clic-Gauche` : passer au pouvoir suivant.
 > * `Clic-Droit` : utiliser le pouvoir sélectionné.
 
-➜ <mark style="color:$success;">**Étoile « Portes »**</mark> • `Clic-Gauche` / `Clic-Droit`
+➜ <mark style="color:$success;">**Nether Star « Portes »**</mark> • `Clic-Gauche` / `Clic-Droit`
 
-> Les Portes sont réunies sur un même objet.
+> Les Portes sont réunies sur une Nether Star.
 >
 > * `Clic-Gauche` : passer à la Porte suivante.
 > * `Clic-Droit` : ouvrir la Porte sélectionnée.
 
-➜ <mark style="color:$success;">**Enchaînement**</mark> • `Clic-Droit` • Étoile « Taijutsu » • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Enchaînement**</mark> • `Clic-Droit` • Nether Star « Taijutsu » • ⌚ : 5 minutes
 
 > Le prochain coup de <mark style="color:green;">**Rock Lee**</mark> soulève le joueur de **3 blocs**, puis l'éjecte à **10 blocs**. <mark style="color:green;">**Rock Lee**</mark> réapparaît devant lui et le renvoie à son point de départ. Le tout inflige **2**<mark style="color:red;">**❤**</mark>.
 
-➜ <mark style="color:$success;">**Fleur de Lotus Recto — Omote Renge**</mark> • `Clic-Droit` • Étoile « Taijutsu » • ⌚ : 8 minutes
+➜ <mark style="color:$success;">**Fleur de Lotus Recto — Omote Renge**</mark> • `Clic-Droit` • Nether Star « Taijutsu » • ⌚ : 8 minutes
 
 > `Clic-Droit`, puis frapper un joueur à moins de **3 blocs** : <mark style="color:green;">**Rock Lee**</mark> monte avec lui à **10 blocs**, le joueur est immobilisé **1 seconde**, puis ils plongent ensemble vers le sol.
 >
 > À l'impact, le joueur subit **2,5**<mark style="color:red;">**❤**</mark>, <mark style="color:purple;">**Lenteur II**</mark>, <mark style="color:green;">**Nausée**</mark> et <mark style="color:violet;">**Cécité**</mark> pendant **2 secondes**.
 
-➜ <mark style="color:$success;">**Les Portes**</mark> • `Clic-Droit` • Étoile « Portes »
+➜ <mark style="color:$success;">**Les Portes**</mark> • `Clic-Droit` • Nether Star « Portes »
 
 > <mark style="color:green;">**Rock Lee**</mark> ouvre les Portes avec son objet.
 >

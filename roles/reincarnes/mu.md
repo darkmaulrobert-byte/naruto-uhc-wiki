@@ -43,26 +43,26 @@ description: "Camp : Réincarnés • Doton et Fûton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Étoile « Techniques »**</mark> • `Clic-Gauche` / `Clic-Droit`
+➜ <mark style="color:$success;">**Nether Star « Techniques »**</mark> • `Clic-Gauche` / `Clic-Droit`
 
 > Ces pouvoirs sont réunis sur une Nether Star : **Jinton**, **Mujin Meisai**, **Doton**.
 >
 > * `Clic-Gauche` : passer au pouvoir suivant.
 > * `Clic-Droit` : utiliser le pouvoir sélectionné.
 
-➜ <mark style="color:$success;">**Jinton — Cône de Désintégration**</mark> • `Clic-Droit` • Étoile « Techniques » • ⌚ : 8 minutes
+➜ <mark style="color:$success;">**Jinton — Cône de Désintégration**</mark> • `Clic-Droit` • Nether Star « Techniques » • ⌚ : 8 minutes
 
 > <mark style="color:blue;">**Mû**</mark> concentre son chakra pendant **5 secondes** : des blocs de terre et de roche volent vers lui. Il projette ensuite un cône devant lui, jusqu'à **30 blocs**.
 >
 > Les joueurs touchés subissent **2**<mark style="color:red;">**❤**</mark> et <mark style="color:$secondary;">**Wither II**</mark> pendant **3 secondes**.
 
-➜ <mark style="color:$success;">**Mujin Meisai — Camouflage**</mark> • `Clic-Droit` • Étoile « Techniques »
+➜ <mark style="color:$success;">**Mujin Meisai — Camouflage**</mark> • `Clic-Droit` • Nether Star « Techniques »
 
 > <mark style="color:blue;">**Mû**</mark> devient invisible ou redevient visible quand il le veut, hors combat. Invisible, son armure et l'objet qu'il tient sont cachés.
 >
 > <mark style="color:red;">⚠ Pendant le camouflage, </mark><mark style="color:red;">**Mû**</mark><mark style="color:red;"> n'a aucune protection d'armure.</mark>
 
-➜ <mark style="color:$success;">**Doton — Maîtrise du Poids**</mark> • `Clic-Droit` • Étoile « Techniques »
+➜ <mark style="color:$success;">**Doton — Maîtrise du Poids**</mark> • `Clic-Droit` • Nether Star « Techniques »
 
 > Chaque utilisation passe à l'état suivant, après **5 secondes** :
 >

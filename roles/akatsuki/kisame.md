@@ -49,26 +49,26 @@ description: "Camp : Akatsuki • Suiton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Étoile « Poissons »**</mark> • `Clic-Gauche` / `Clic-Droit`
+➜ <mark style="color:$success;">**Nether Star « Poissons »**</mark> • `Clic-Gauche` / `Clic-Droit`
 
 > Ces pouvoirs sont réunis sur une Nether Star : **Forme Homme-Requin**, **Daikōdan no Jutsu**, **Senshokuzame**.
 >
 > * `Clic-Gauche` : passer au pouvoir suivant.
 > * `Clic-Droit` : utiliser le pouvoir sélectionné.
 
-➜ <mark style="color:$success;">**Forme Homme-Requin**</mark> • `Clic-Droit` • Étoile « Poissons » • ⏳ : 30 secondes • ⌚ : 15 minutes
+➜ <mark style="color:$success;">**Forme Homme-Requin**</mark> • `Clic-Droit` • Nether Star « Poissons » • ⏳ : 30 secondes • ⌚ : 15 minutes
 
 > <mark style="color:red;">**Kisame**</mark> s'entoure d'une sphère d'eau de **25 blocs** qui le suit pendant **30 secondes**. Le passif de Samehada passe à **15 %**, et à **30 %** contre un porteur de Bijû.
 >
 > <mark style="color:red;">⚠ Personne ne peut se noyer dans la sphère.</mark>
 
-➜ <mark style="color:$success;">**Daikōdan no Jutsu**</mark> • `Clic-Droit` • Étoile « Poissons » • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Daikōdan no Jutsu**</mark> • `Clic-Droit` • Nether Star « Poissons » • ⌚ : 5 minutes
 
 > <mark style="color:red;">**Kisame**</mark> lance une tête de requin vers le joueur visé, jusqu'à **30 blocs**. Si elle le touche, elle s'accroche à lui : il subit **2**<mark style="color:red;">**❤**</mark>, puis **½**<mark style="color:red;">**❤**</mark> toutes les **5 secondes**.
 >
 > Le joueur peut toujours bouger. Il se libère en frappant le requin, qui a **5**<mark style="color:red;">**❤**</mark>.
 
-➜ <mark style="color:$success;">**Senshokuzame**</mark> • `Clic-Droit` • Étoile « Poissons » • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Senshokuzame**</mark> • `Clic-Droit` • Nether Star « Poissons » • ⌚ : 10 minutes
 
 > <mark style="color:red;">**Kisame**</mark> remplit d'eau un rectangle de **30 × 30** blocs devant lui, haut de **6 blocs**, pendant **30 secondes**.
 >

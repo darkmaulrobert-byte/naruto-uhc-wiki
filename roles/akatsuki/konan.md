@@ -39,25 +39,25 @@ description: "Camp : Akatsuki • Fûton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Étoile « Papier »**</mark> • `Clic-Gauche` / `Clic-Droit`
+➜ <mark style="color:$success;">**Nether Star « Papier »**</mark> • `Clic-Gauche` / `Clic-Droit`
 
 > Ces pouvoirs sont réunis sur une Nether Star : **Shikigami no Mai**, **Ailes d'Ange**, **Tranchée de Papier**, **Immobilisation**, **Reconnaissance**.
 >
 > * `Clic-Gauche` : passer au pouvoir suivant.
 > * `Clic-Droit` : utiliser le pouvoir sélectionné.
 
-➜ <mark style="color:$success;">**Shikigami no Mai**</mark> • `Clic-Droit` • Étoile « Papier » • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Shikigami no Mai**</mark> • `Clic-Droit` • Nether Star « Papier » • ⌚ : 10 minutes
 
 > <mark style="color:red;">**Konan**</mark> devient invisible et ne peut pas être frappée pendant **10 secondes**.
 
-➜ <mark style="color:$success;">**Ailes d'Ange**</mark> • `Clic-Droit` • Étoile « Papier » • ⏳ : 1 minute • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Ailes d'Ange**</mark> • `Clic-Droit` • Nether Star « Papier » • ⏳ : 1 minute • ⌚ : 10 minutes
 
 > Des ailes de papier apparaissent dans le dos de <mark style="color:red;">**Konan**</mark> pendant **1 minute** :
 >
 > * un double saut la propulse de **15 blocs**, toutes les **15 secondes** ;
 > * réutiliser le pouvoir lance des papiers explosifs devant elle, qui infligent **1**<mark style="color:red;">**❤**</mark>.
 
-➜ <mark style="color:$success;">**Tranchée de Papier**</mark> • `Clic-Droit` • Étoile « Papier » • ⌚ : 1x/partie
+➜ <mark style="color:$success;">**Tranchée de Papier**</mark> • `Clic-Droit` • Nether Star « Papier » • ⌚ : 1x/partie
 
 > <mark style="color:red;">**Konan**</mark> se concentre **5 secondes** sans bouger, puis creuse devant elle une tranchée de **20 blocs** de large et **80 blocs** de profondeur.
 >
@@ -65,11 +65,11 @@ description: "Camp : Akatsuki • Fûton"
 >
 > <mark style="color:red;">⚠ Bouger pendant la concentration annule le pouvoir. Utilisable </mark><mark style="color:red;">**une seule fois par partie**</mark><mark style="color:red;">.</mark>
 
-➜ <mark style="color:$success;">**Immobilisation**</mark> • `Clic-Droit` • Étoile « Papier » • ⌚ : 8 minutes
+➜ <mark style="color:$success;">**Immobilisation**</mark> • `Clic-Droit` • Nether Star « Papier » • ⌚ : 8 minutes
 
 > <mark style="color:red;">**Konan**</mark> vise un joueur à moins de **20 blocs** : il s'élève dans le ciel, couvert de papiers. **3 secondes** plus tard, les papiers explosent : il subit **1,5**<mark style="color:red;">**❤**</mark> et recule de **5 blocs**.
 
-➜ <mark style="color:$success;">**Reconnaissance**</mark> • `Clic-Droit` • Étoile « Papier » • ⏳ : 1 minute • ⌚ : 8 minutes
+➜ <mark style="color:$success;">**Reconnaissance**</mark> • `Clic-Droit` • Nether Star « Papier » • ⏳ : 1 minute • ⌚ : 8 minutes
 
 > Pendant **1 minute**, des feuilles de papier tournent autour de <mark style="color:red;">**Konan**</mark>. Toutes les **10 secondes**, une feuille vole vers un joueur à moins de **8 blocs** avec un effet au hasard :
 >

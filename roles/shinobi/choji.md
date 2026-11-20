@@ -33,14 +33,14 @@ description: "Camp : Shinobi • Doton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Étoile « Akimichi »**</mark> • `Clic-Gauche` / `Clic-Droit`
+➜ <mark style="color:$success;">**Nether Star « Akimichi »**</mark> • `Clic-Gauche` / `Clic-Droit`
 
 > Ces pouvoirs sont réunis sur une Nether Star : **Nikudan Sensha**, **Chō Harite**, **Mode Papillon**.
 >
 > * `Clic-Gauche` : passer au pouvoir suivant.
 > * `Clic-Droit` : utiliser le pouvoir sélectionné.
 
-➜ <mark style="color:$success;">**Nikudan Sensha**</mark> • `Clic-Droit` • Étoile « Akimichi » • ⏳ : 2 minutes • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Nikudan Sensha**</mark> • `Clic-Droit` • Nether Star « Akimichi » • ⏳ : 2 minutes • ⌚ : 10 minutes
 
 > <mark style="color:green;">**Chôji**</mark> se transforme en boule de **30 PV** (**15**<mark style="color:red;">**❤**</mark>) qui roule là où il regarde, à **3 blocs par seconde**, et grimpe les obstacles jusqu'à **3 blocs**.
 >
@@ -50,11 +50,11 @@ description: "Camp : Shinobi • Doton"
 >
 > <mark style="color:red;">⚠ Dans la boule, </mark><mark style="color:red;">**Chôji**</mark><mark style="color:red;"> est invisible mais ne peut ni frapper ni tirer. Si la boule perd ses 30 PV, elle disparaît.</mark>
 
-➜ <mark style="color:$success;">**Chō Harite**</mark> • `Clic-Droit` • Étoile « Akimichi » • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Chō Harite**</mark> • `Clic-Droit` • Nether Star « Akimichi » • ⌚ : 5 minutes
 
 > <mark style="color:green;">**Chôji**</mark> frappe le sol : les joueurs à moins de **15 blocs** sont soulevés d'**1 bloc**, subissent **1**<mark style="color:red;">**❤**</mark> et <mark style="color:green;">**Nausée**</mark> pendant **5 secondes**.
 
-➜ <mark style="color:$success;">**Mode Papillon**</mark> • `Clic-Droit` • Étoile « Akimichi » • ⏳ : 2 minutes • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Mode Papillon**</mark> • `Clic-Droit` • Nether Star « Akimichi » • ⏳ : 2 minutes • ⌚ : 10 minutes
 
 > Des ailes bleues apparaissent dans le dos de <mark style="color:green;">**Chôji**</mark> :
 >

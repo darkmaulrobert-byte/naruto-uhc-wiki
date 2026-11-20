@@ -45,14 +45,14 @@ description: "Camp : Solos • Katon et Raiton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Étoile « Sharingan »**</mark> • `Clic-Gauche` / `Clic-Droit`
+➜ <mark style="color:$success;">**Nether Star « Sharingan »**</mark> • `Clic-Gauche` / `Clic-Droit`
 
 > Ces pouvoirs sont réunis sur une Nether Star : **Amaterasu**, **Susanoo**, **Kirin**, **Amenotejikara**.
 >
 > * `Clic-Gauche` : passer au pouvoir suivant.
 > * `Clic-Droit` : utiliser le pouvoir sélectionné.
 
-➜ <mark style="color:$success;">**Amaterasu**</mark> • `Clic-Droit` • Étoile « Sharingan » • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Amaterasu**</mark> • `Clic-Droit` • Nether Star « Sharingan » • ⌚ : 5 minutes
 
 > <mark style="color:orange;">**Sasuke**</mark> enflamme le joueur visé à moins de **30 blocs** pendant **7 secondes**. Ce feu ne peut pas être éteint.
 >
@@ -62,7 +62,7 @@ description: "Camp : Solos • Katon et Raiton"
 > * À la **3ᵉ** utilisation : <mark style="color:violet;">**Cécité**</mark> pendant **3 secondes**.
 > * Ensuite : <mark style="color:violet;">**Cécité**</mark> pendant **5 secondes** à chaque fois.
 
-➜ <mark style="color:$success;">**Susanoo**</mark> • `Clic-Droit` • Étoile « Sharingan » • ⏳ : 2 minutes • ⌚ : 15 minutes
+➜ <mark style="color:$success;">**Susanoo**</mark> • `Clic-Droit` • Nether Star « Sharingan » • ⏳ : 2 minutes • ⌚ : 15 minutes
 
 > Un Susanoo violet entoure <mark style="color:orange;">**Sasuke**</mark> pendant **2 minutes** : <mark style="color:blue;">**Résistance I**</mark>. Avec les yeux d'[<mark style="color:red;">**Itachi**</mark>](../akatsuki/itachi.md), ses coups ont **20 %** de chances d'enflammer.
 >
@@ -72,13 +72,13 @@ description: "Camp : Solos • Katon et Raiton"
 > >
 > > Les joueurs touchés perdent **2**<mark style="color:red;">**❤**</mark> de vie maximale pendant **10 minutes**, sont projetés à **30 blocs** en cassant les blocs, et subissent <mark style="color:green;">**Nausée**</mark> pendant **10 secondes** et <mark style="color:violet;">**Cécité II**</mark> pendant **30 secondes**.
 
-➜ <mark style="color:$success;">**Kirin**</mark> • `Clic-Droit` • Étoile « Sharingan » • ⏳ : 2 minutes • ⌚ : 10 minutes
+➜ <mark style="color:$success;">**Kirin**</mark> • `Clic-Droit` • Nether Star « Sharingan » • ⏳ : 2 minutes • ⌚ : 10 minutes
 
 > De gros nuages se forment au-dessus de <mark style="color:orange;">**Sasuke**</mark>, dans un rayon de **30 blocs**, pendant **2 minutes**.
 >
 > Toutes les **3 secondes**, un éclair tombe au hasard dans la zone, avec **25 %** de chances de viser un joueur : **1,5**<mark style="color:red;">**❤**</mark> et immobilisé **0,2 seconde**.
 
-➜ <mark style="color:$success;">**Amenotejikara**</mark> • `Clic-Droit` • Étoile « Sharingan » • ⌚ : 3 minutes
+➜ <mark style="color:$success;">**Amenotejikara**</mark> • `Clic-Droit` • Nether Star « Sharingan » • ⌚ : 3 minutes
 
 > <mark style="color:orange;">**Sasuke**</mark> échange sa place avec le joueur visé, à moins de **30 blocs**.
 

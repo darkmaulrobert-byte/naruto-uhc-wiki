@@ -33,7 +33,7 @@ description: "Camp : Shinobi • Raiton"
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-➜ <mark style="color:$success;">**Étoile « Lutte »**</mark> • `Clic-Gauche` / `Clic-Droit`
+➜ <mark style="color:$success;">**Nether Star « Lutte »**</mark> • `Clic-Gauche` / `Clic-Droit`
 
 > Ces pouvoirs sont réunis sur une Nether Star : **Lariat**, **Liger Bomb**, **Guillotine Drop**.
 >
@@ -48,19 +48,19 @@ description: "Camp : Shinobi • Raiton"
 > * tous les **10 coups reçus**, une décharge repousse l'attaquant de **4 blocs** ;
 > * les flèches lui infligent **50 %** de dégâts en moins.
 
-➜ <mark style="color:$success;">**Lariat**</mark> • `Clic-Droit` • Étoile « Lutte » • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Lariat**</mark> • `Clic-Droit` • Nether Star « Lutte » • ⌚ : 5 minutes
 
 > Le <mark style="color:green;">**Quatrième Raikage**</mark> charge droit devant lui sur **12 blocs**. Le premier joueur touché subit **2**<mark style="color:red;">**❤**</mark> et il est projeté à **10 blocs**, en cassant les blocs sur son passage.
 >
 > Pendant l'Armure Raiton, la charge continue à travers ce joueur, et les autres joueurs sur le trajet subissent **1**<mark style="color:red;">**❤**</mark>.
 
-➜ <mark style="color:$success;">**Liger Bomb**</mark> • `Clic-Droit` • Étoile « Lutte » • ⌚ : 8 minutes
+➜ <mark style="color:$success;">**Liger Bomb**</mark> • `Clic-Droit` • Nether Star « Lutte » • ⌚ : 8 minutes
 
 > Le prochain coup du <mark style="color:green;">**Quatrième Raikage**</mark> soulève le joueur de **4 blocs** et l'écrase au sol.
 >
 > Un cratère de **5 × 5** se forme : le joueur subit **1,5**<mark style="color:red;">**❤**</mark> et ne peut plus sauter pendant **1 seconde**.
 
-➜ <mark style="color:$success;">**Guillotine Drop**</mark> • `Clic-Droit` • Étoile « Lutte » • ⌚ : 5 minutes
+➜ <mark style="color:$success;">**Guillotine Drop**</mark> • `Clic-Droit` • Nether Star « Lutte » • ⌚ : 5 minutes
 
 > Le <mark style="color:green;">**Quatrième Raikage**</mark> bondit à **11 blocs** de haut, puis avance lentement là où il regarde, sur **20 blocs** au plus.
 >
