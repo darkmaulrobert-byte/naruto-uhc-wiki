@@ -32,7 +32,7 @@ Un rôle avec plusieurs natures cumule leurs passifs. Les passifs de natures son
 
 ➜ <mark style="color:blue;">**Suiton**</mark> • Eau • `Passif`
 
-> Déplacement **20 %** plus rapide dans l'eau.
+> **Depth Strider I** dans l'eau.
 >
 > Rôles : [<mark style="color:green;">**Kakashi**</mark>](../roles/shinobi/kakashi.md), [<mark style="color:green;">**Mei**</mark>](../roles/shinobi/mei.md), [<mark style="color:red;">**Nagato**</mark>](../roles/akatsuki/nagato.md), [<mark style="color:red;">**Itachi**</mark>](../roles/akatsuki/itachi.md), [<mark style="color:red;">**Kisame**</mark>](../roles/akatsuki/kisame.md), [<mark style="color:red;">**Jûzô**</mark>](../roles/akatsuki/juzo.md), [<mark style="color:blue;">**Kabuto**</mark>](../roles/reincarnes/kabuto.md), [<mark style="color:blue;">**Haku**</mark>](../roles/reincarnes/haku.md), [<mark style="color:blue;">**Zabuza**</mark>](../roles/reincarnes/zabuza.md), [<mark style="color:orange;">**Madara**</mark>](../roles/solos/madara.md), [<mark style="color:orange;">**Kaguya**</mark>](../roles/solos/kaguya.md).
 
