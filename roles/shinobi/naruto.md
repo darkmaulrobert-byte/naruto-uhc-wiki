@@ -1,12 +1,11 @@
 ---
+description: 'Camp : Shinobi • Fûton'
 icon: hurricane
-description: "Camp : Shinobi • Fûton"
 ---
 
 # ▸ Naruto
 
 {% hint style="info" icon="hurricane" %}
-
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>IDENTITÉ</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
 ➜ <mark style="color:$success;">**Camp**</mark> • <mark style="color:green;">**Shinobi**</mark>
@@ -16,18 +15,16 @@ description: "Camp : Shinobi • Fûton"
 ➜ <mark style="color:$success;">**Chakra**</mark> • `Nature`
 
 > <mark style="color:green;">**Fûton**</mark> (voir [Natures de chakra](../../particularites/natures-de-chakra.md)).
-
 {% endhint %}
 
 {% hint style="info" icon="hurricane" %}
-
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>CAPACITÉS</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
 ➜ <mark style="color:$success;">**Multi-clonage**</mark> • `/ns clone <nombre>`
 
 > `/ns clone <nombre>` : <mark style="color:green;">**Naruto**</mark> invoque **1 à 3 clones**. Chaque clone a **10**<mark style="color:red;">**❤**</mark> et frappe comme une épée en diamant **Tranchant III**, toutes les **2 secondes**.
 >
-> <mark style="color:red;">⚠ Chaque clone ajoute </mark><mark style="color:red;">**5 minutes**</mark><mark style="color:red;"> au cooldown : </mark><mark style="color:red;">**15 minutes**</mark><mark style="color:red;"> pour trois clones.</mark>
+> <mark style="color:red;">⚠ Chaque clone ajoute</mark> <mark style="color:red;"></mark><mark style="color:red;">**5 minutes**</mark> <mark style="color:red;"></mark><mark style="color:red;">au cooldown :</mark> <mark style="color:red;"></mark><mark style="color:red;">**15 minutes**</mark> <mark style="color:red;"></mark><mark style="color:red;">pour trois clones.</mark>
 
 ➜ <mark style="color:$success;">**Rasengan**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 
@@ -96,7 +93,7 @@ description: "Camp : Shinobi • Fûton"
 >
 > Si <mark style="color:green;">**Naruto**</mark> descend à **2**<mark style="color:red;">**❤**</mark>, il perd le combat :
 >
-> * Kurama contrôle son corps pendant **5 minutes** et frappe tous les joueurs dans son champ de vision, comme une épée en diamant **Tranchant III** (leur armure compte).
+> * Kurama contrôle son corps pendant **5 minutes** et frappe tous les joueurs dans son champ de vision.
 > * <mark style="color:green;">**Naruto**</mark> est en spectateur sur Kurama, dans son corps, et ne peut pas s'en éloigner à plus de **30 blocs**.
 > * Si ce corps est tué, <mark style="color:green;">**Naruto**</mark> meurt.
 
@@ -114,7 +111,6 @@ description: "Camp : Shinobi • Fûton"
 > * Cooldown : **15 minutes**.
 >
 > <mark style="color:red;">⚠ Après le mode, le Rasenshuriken attend la fin du cooldown de l'orbe.</mark>
-
 {% endhint %}
 
 ***
