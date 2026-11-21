@@ -11,7 +11,6 @@ icon: crown
 > Son pseudo est annoncé à **tous les joueurs**. À sa mort, un successeur est désigné.
 
 {% hint style="info" icon="crown" %}
-
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>DÉSIGNATION</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
 ➜ <mark style="color:$success;">**Joueurs éligibles**</mark> • `Particularités`
@@ -22,30 +21,22 @@ icon: crown
 ➜ <mark style="color:$success;">**Premier Hokage**</mark> • `Particularités`
 
 > À **50 minutes**, le premier <mark style="color:orange;">**Hokage**</mark> est tiré **au hasard** parmi les joueurs éligibles en vie.
->
-> Les dégâts infligés ne comptent pas pour ce premier choix.
-
 {% endhint %}
 
 {% hint style="info" icon="crown" %}
-
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>BONUS ET PROTECTION</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
 ➜ <mark style="color:$success;">**Bonus du Hokage**</mark> • `Passif`
 
 > * **3 pommes d'or**.
 > * **+5 %** d'un effet qu'il n'a pas encore : <mark style="color:red;">**Force**</mark>, <mark style="color:blue;">**Résistance**</mark> ou <mark style="color:cyan;">**Vitesse**</mark>.
->
-> <mark style="color:red;">⚠ Il perd ce bonus à sa mort.</mark>
 
 ➜ <mark style="color:$success;">**Protecteurs**</mark> • `Particularités`
 
 > **Deux joueurs éligibles**, tirés au hasard, sont prévenus qu'ils font partie de la **protection du Hokage**.
-
 {% endhint %}
 
 {% hint style="info" icon="crown" %}
-
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>SUCCESSION</strong> <mark style="color:$success;"><strong>«</strong></mark></p>
 
 ➜ <mark style="color:$success;">**Mort du Hokage**</mark> • `Particularités`
@@ -54,7 +45,6 @@ icon: crown
 >
 > * Les dégâts de [<mark style="color:orange;">**Sasuke**</mark>](../roles/solos/sasuke.md) et d'[<mark style="color:red;">**Itachi**</mark>](../roles/akatsuki/itachi.md) ne comptent qu'à **75 %**.
 > * Le nouveau <mark style="color:orange;">**Hokage**</mark> reçoit les mêmes bonus, et deux nouveaux protecteurs sont prévenus.
-
 {% endhint %}
 
 ***
