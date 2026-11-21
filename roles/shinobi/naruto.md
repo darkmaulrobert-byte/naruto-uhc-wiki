@@ -78,7 +78,7 @@ description: "Camp : Shinobi • Fûton"
 >
 > Kurama apparaît devant lui : un **cube de magma géant**, avec la vie qu'il lui reste. Le combat se joue en **1 contre 1**.
 >
-> Pendant ce temps, le corps de <mark style="color:green;">**Naruto**</mark> reste sur place en surbrillance rouge, et un cri retentit sur toute la carte.
+> Pendant ce temps, le corps de <mark style="color:green;">**Naruto**</mark> reste sur place en [surbrillance rouge](../../informations/lunar-client.md#surbrillance), et un cri retentit sur toute la carte.
 >
 > **Pendant le combat**
 >
@@ -96,13 +96,13 @@ description: "Camp : Shinobi • Fûton"
 >
 > Si <mark style="color:green;">**Naruto**</mark> descend à **2**<mark style="color:red;">**❤**</mark>, il perd le combat :
 >
-> * Kurama contrôle son corps pendant **5 minutes**. Il poursuit les joueurs qu'il voit et les frappe comme une épée en diamant **Tranchant III** (leur armure compte). S'il ne voit personne, il marche tranquillement.
-> * <mark style="color:green;">**Naruto**</mark> regarde son corps en spectateur invisible : il vole, mais ne peut ni frapper, ni être frappé, ni utiliser ses pouvoirs, et ne peut pas s'éloigner à plus de **30 blocs** de son corps.
+> * Kurama contrôle son corps pendant **5 minutes** et frappe tous les joueurs dans son champ de vision, comme une épée en diamant **Tranchant III** (leur armure compte).
+> * <mark style="color:green;">**Naruto**</mark> est en spectateur sur Kurama, dans son corps, et ne peut pas s'en éloigner à plus de **30 blocs**.
 > * Si ce corps est tué, <mark style="color:green;">**Naruto**</mark> meurt.
 
 ➜ <mark style="color:$success;">**Mode Kurama**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 15 minutes
 
-> <mark style="color:green;">**Naruto**</mark> obtient <mark style="color:red;">**Force I**</mark> et une surbrillance jaune.
+> <mark style="color:green;">**Naruto**</mark> obtient <mark style="color:red;">**Force I**</mark> et une [surbrillance jaune](../../informations/lunar-client.md#surbrillance).
 >
 > * Ses clones passent à **15**<mark style="color:red;">**❤**</mark> et frappent comme une épée **Tranchant IV**.
 > * Le Rasenshuriken devient l'**Orbe des Démons à Queues**.

@@ -39,7 +39,7 @@ description: "Camp : Akatsuki • Katon, Suiton, Raiton, Fûton et Doton"
 
 ➜ <mark style="color:$success;">**Rinnegan**</mark> • `Passif`
 
-> <mark style="color:red;">**Nagato**</mark> voit les joueurs proches en violet et il est prévenu quand un pouvoir est utilisé à moins de **20 blocs**. `/ns rinnegan` **active** ou **désactive** la surbrillance.
+> <mark style="color:red;">**Nagato**</mark> voit les joueurs proches en violet et il est prévenu quand un pouvoir est utilisé à moins de **20 blocs**. `/ns rinnegan` **active** ou **désactive** la [surbrillance](../../informations/lunar-client.md#surbrillance).
 >
 > * Tous les **15 coups**, le joueur frappé est cloué au sol pendant **0,2 seconde**.
 > * Les pouvoirs utilisés contre <mark style="color:red;">**Nagato**</mark> ont **5 %** de chances d'échouer.

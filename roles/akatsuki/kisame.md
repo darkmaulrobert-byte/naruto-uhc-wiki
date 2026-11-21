@@ -41,7 +41,7 @@ description: "Camp : Akatsuki • Suiton"
 
 ➜ <mark style="color:$success;">**Détection**</mark> • `Passif`
 
-> Les joueurs proches qui utilisent un pouvoir brillent en bleu pendant **30 secondes**.
+> Les joueurs proches qui utilisent un pouvoir [brillent en bleu](../../informations/lunar-client.md#surbrillance) pendant **30 secondes**.
 
 {% endhint %}
 

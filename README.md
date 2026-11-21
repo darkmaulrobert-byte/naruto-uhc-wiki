@@ -30,4 +30,4 @@ icon: house
 
 <p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>Game-Design</strong> : <a href="https://discord.com/users/681845403943305268"><strong>@Austinrbt</strong></a> <mark style="color:$success;"><strong>«</strong></mark></p>
 
-<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>Rédaction</strong> : <a href="https://discord.com/users/957223119364431882"><strong>@Padaa</strong></a> <mark style="color:$success;"><strong>«</strong></mark></p>
+<p align="center"><mark style="color:$success;"><strong>»</strong></mark> <strong>Rédaction</strong> : <a href="https://discord.com/users/681845403943305268"><strong>@Austinrbt</strong></a> <mark style="color:$success;"><strong>«</strong></mark></p>

@@ -38,7 +38,7 @@ icon: scroll
 ➜ <mark style="color:$success;">**Objectif**</mark> • `Clic-Droit` sur un parchemin
 
 > * Volez le parchemin d'une **autre équipe**, puis rapportez-le dans **votre base** : cette équipe est **éliminée**.
-> * Le voleur apparaît en surbrillance **5 secondes** après le vol.
+> * Le voleur apparaît en [surbrillance](../informations/lunar-client.md#surbrillance) **5 secondes** après le vol.
 >
 > <mark style="color:red;">⚠ Un joueur ne porte qu'</mark><mark style="color:red;">**un parchemin**</mark><mark style="color:red;"> à la fois. Un parchemin est protégé tant qu'un membre de son équipe porte déjà un parchemin.</mark>
 

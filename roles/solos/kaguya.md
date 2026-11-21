@@ -29,7 +29,7 @@ description: "Camp : Solos • Katon, Suiton, Raiton, Fûton et Doton"
 
 ➜ <mark style="color:$success;">**Byakugan**</mark> • `Passif`
 
-> <mark style="color:orange;">**Kaguya**</mark> voit les joueurs à moins de **30 blocs** en surbrillance blanche, avec leur vie au-dessus de leur tête. `/ns byakugan` active ou coupe la surbrillance.
+> <mark style="color:orange;">**Kaguya**</mark> voit les joueurs à moins de **30 blocs** en [surbrillance blanche](../../informations/lunar-client.md#surbrillance), avec leur vie au-dessus de leur tête. `/ns byakugan` active ou coupe la [surbrillance](../../informations/lunar-client.md#surbrillance).
 
 ➜ <mark style="color:$success;">**Dimension de Glace**</mark> • `Particularités`
 

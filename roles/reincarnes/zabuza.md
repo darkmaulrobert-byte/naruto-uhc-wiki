@@ -50,7 +50,7 @@ description: "Camp : Réincarnés • Suiton"
 
 > <mark style="color:blue;">**Zabuza**</mark> crée un brouillard de **40 blocs** de rayon pendant **1 minute**. Les autres joueurs dedans subissent <mark style="color:violet;">**Cécité**</mark> et <mark style="color:purple;">**Lenteur I**</mark>.
 >
-> <mark style="color:blue;">**Zabuza**</mark> voit les joueurs du brouillard en surbrillance bleue, alors qu'eux ne le voient qu'à **4 blocs** ou moins.
+> <mark style="color:blue;">**Zabuza**</mark> voit les joueurs du brouillard en [surbrillance bleue](../../informations/lunar-client.md#surbrillance), alors qu'eux ne le voient qu'à **4 blocs** ou moins.
 
 ➜ <mark style="color:$success;">**Suirō no Jutsu**</mark> • `Clic-Droit` • Nether Star « Brouillard » • ⌚ : 8 minutes
 

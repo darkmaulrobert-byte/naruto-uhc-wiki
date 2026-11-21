@@ -42,7 +42,7 @@ description: "Camp : Shinobi • Fûton"
 
 ➜ <mark style="color:$success;">**Mode Kurama**</mark> • `Clic-Droit` • ⏳ : 2 minutes • ⌚ : 15 minutes
 
-> <mark style="color:green;">**Minato**</mark> obtient <mark style="color:cyan;">**Vitesse I**</mark> et une surbrillance jaune, et ses cooldowns sont **divisés par deux**. Son Rasengan inflige **2,5**<mark style="color:red;">**❤**</mark> et projette le joueur à **15 blocs**.
+> <mark style="color:green;">**Minato**</mark> obtient <mark style="color:cyan;">**Vitesse I**</mark> et une [surbrillance jaune](../../informations/lunar-client.md#surbrillance), et ses cooldowns sont **divisés par deux**. Son Rasengan inflige **2,5**<mark style="color:red;">**❤**</mark> et projette le joueur à **15 blocs**.
 >
 > `Clic-Droit` : il attire le joueur visé.
 >

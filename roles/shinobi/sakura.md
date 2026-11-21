@@ -42,7 +42,7 @@ description: "Camp : Shinobi • une nature aléatoire"
 > Katsuyu se pose sur l'épaule de <mark style="color:green;">**Sakura**</mark> pendant **2 minutes**. Toutes les **20 secondes**, elle agit :
 >
 > * **Soin :** <mark style="color:pink;">**Régénération II**</mark> pendant **6 secondes** pour les alliés colorés en vert avec `/ns color`, à moins de **20 blocs**.
-> * **Acide :** le dernier joueur frappé par <mark style="color:green;">**Sakura**</mark> brille en vert et subit **1**<mark style="color:red;">**❤**</mark>, puis **½**<mark style="color:red;">**❤**</mark> toutes les **2 secondes** pendant **4 secondes**.
+> * **Acide :** le dernier joueur frappé par <mark style="color:green;">**Sakura**</mark> [brille en vert](../../informations/lunar-client.md#surbrillance) et subit **1**<mark style="color:red;">**❤**</mark>, puis **½**<mark style="color:red;">**❤**</mark> toutes les **2 secondes** pendant **4 secondes**.
 
 ➜ <mark style="color:$success;">**Impact**</mark> • `Clic-Droit` • ⌚ : 5 minutes
 

@@ -33,7 +33,7 @@ description: "Camp : Akatsuki • une nature aléatoire"
 
 > <mark style="color:red;">**Hidan**</mark> possède une épée en diamant **Tranchant IV**. Chacun de ses coups a **20 %** de chances de faire tomber le sang du joueur au sol.
 >
-> Quand <mark style="color:red;">**Hidan**</mark> ramasse ce sang, il brille en noir et une marque s'affiche au-dessus du joueur.
+> Quand <mark style="color:red;">**Hidan**</mark> ramasse ce sang, il [brille en noir](../../informations/lunar-client.md#surbrillance) et une marque s'affiche au-dessus du joueur.
 
 ➜ <mark style="color:$success;">**Bénédiction de Jashin**</mark> • `Passif` • 1x/partie
 

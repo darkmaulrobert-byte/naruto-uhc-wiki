@@ -25,9 +25,9 @@ description: "Camp : Shinobi • une nature aléatoire"
 
 ➜ <mark style="color:$success;">**Byakugan**</mark> • `Passif`
 
-> <mark style="color:green;">**Hinata**</mark> voit les joueurs proches en surbrillance blanche. Une montre s'affiche au-dessus de ceux dont un pouvoir est en cooldown.
+> <mark style="color:green;">**Hinata**</mark> voit les joueurs proches en [surbrillance blanche](../../informations/lunar-client.md#surbrillance). Une montre s'affiche au-dessus de ceux dont un pouvoir est en cooldown.
 >
-> `/ns byakugan` **active** ou **désactive** la surbrillance.
+> `/ns byakugan` **active** ou **désactive** la [surbrillance](../../informations/lunar-client.md#surbrillance).
 
 ➜ <mark style="color:$success;">**Hakke Kûshô**</mark> • `Passif`
 
